@@ -1,0 +1,1001 @@
+PurchaseID,CustomerID,CustomerName,Product,Category,Amount,PurchaseDate
+P000919,C54409,Daniel Wilson,Greek Yogurt,dairy,183.89,2026-02-16
+P000879,C19733,Andrew Jones,Organic Apples,Fresh Produce,8.7,2026-02-16
+P000957,C32942,Test Jones,Organic Mango,fresh produce,224.96,2026-02-16
+P000015,C56143,Demo Rodriguez,Cheddar Cheese,Dairy,160.03,2026-02-16
+P000913,C62257,Daniel Rodriguez,Rice,pantry,28.29,2026-02-16
+P000576,C73758,James Anderson,,,242.61,2026-02-16
+P000448,C43493,Linda Miller,Chicken Breast,meat,226.81,2026-02-16
+P000544,C26394,Christopher Williams,Organic Apples,Fresh Produce,187.33,2026-02-16
+P000823,C94481,John Rodriguez,Croissants,BAKERY,163.77,2026-02-16
+P000669,C14204,Linda Martinez,Chicken Breast,meat,11.5,2026-02-16
+P000153,C88521,Mary User,Coffee Beans,beverages,154.44,2026-02-16
+P000864,TEST024,Test Anderson,Organic Spinach,Fresh Produce,46.79,2026-02-16
+P000995,TEST008,Test Williams,Sourdough Bread,Bakery,18.65,2026-02-16
+P000974,C95556,John User,Cheddar Cheese,Dairy,78.07,2026-02-15
+P000187,C21158,William Martinez,Fresh Strawberries,fresh produce,63.56,2026-02-15
+P000467,C33888,Barbara Garcia,Olive Oil,Pantry,22.19,2026-02-15
+P000829,C70235,Jennifer Anderson,Salmon Fillet,MEAT,243.03,2026-02-15
+P000588,C59025,Mary Rodriguez,Organic Spinach,Fresh Produce,229.83,2026-02-15
+P000822,C68440,Emily Williams,Soy Milk,DAIRY ALTERNATIVES,11.5,2026-02-14
+P000043,C14214,Daniel Martinez,Coffee Beans,beverages,146.7,2026-02-13
+P000732,C31640,Patricia Rodriguez,Whole Wheat Bread,bakery,247.96,2026-02-13
+P000454,TEST020,Test Williams,Sourdough Bread,Bakery,49.5,2026-02-13
+P000139,,,Tomato Sauce,PANTRY,,2026-02-12
+P000285,C14572,Linda Wilson,Rice,pantry,97.96,2026-02-12
+P000972,C93121,Demo Thomas,Organic Eggs,DAIRY,181.39,2026-02-12
+P000767,C54185,Emily Rodriguez,Bagels,bakery,23.38,2026-02-12
+P000664,C20825,Linda Davis,Chicken Breast,meat,151.84,2026-02-12
+P000408,C34137,Demo Taylor,Whole Wheat Bread,bakery,156.37,2026-02-11
+P000842,TEST001,Test Thomas,Almond Milk,dairy alternatives,20.91,2026-02-11
+P000220,C71838,James Williams,Sourdough Bread,Bakery,95.28,2026-02-11
+P000577,TEST008,Test Rodriguez,Cheddar Cheese,Dairy,44.54,2026-02-11
+P000014,C70462,Jane Smith,Organic Spinach,Fresh Produce,116.25,2026-02-11
+P000833,TEST028,Test Jones,Coffee Beans,beverages,12.63,2026-02-10
+P000763,C94686,Andrew Garcia,Chicken Breast,meat,6.12,2026-02-10
+P000051,,,Sourdough Bread,Bakery,22.06,2026-02-10
+P000754,C67751,David Davis,Coffee Beans,beverages,49.6,2026-02-10
+P000845,C40040,Jennifer Thomas,Organic Bananas,FRESH PRODUCE,194.88,2026-02-09
+P000782,C42252,Daniel Smith,Soy Milk,DAIRY ALTERNATIVES,239.94,2026-02-09
+P000072,C73028,Jennifer Garcia,Greek Yogurt,dairy,10.56,2026-02-09
+P000030,C80016,David Account,Chicken Breast,meat,183.72,2026-02-09
+P000397,TEST001,Test Garcia,Rice,pantry,33.46,2026-02-09
+P000024,C97665,Daniel Martinez,Cheddar Cheese,Dairy,198.61,2026-02-09
+P000237,C75459,Jane Wilson,Almond Milk,dairy alternatives,131.8,2026-02-08
+P000791,C33209,Michael Davis,Organic Eggs,DAIRY,13.17,2026-02-08
+P000794,C99831,Robert Jones,Bagels,bakery,168.33,2026-02-08
+P000118,C25871,John User,Greek Yogurt,dairy,127.02,2026-02-08
+P000541,C26932,Andrew Brown,Organic Bananas,FRESH PRODUCE,182.9,2026-02-07
+P000486,C60066,Linda Williams,Orange Juice,BEVERAGES,136.47,2026-02-07
+P000846,C30148,Robert Taylor,Tomato Sauce,PANTRY,224.26,2026-02-07
+P000428,C71412,William Martinez,Organic Eggs,DAIRY,117.37,2026-02-07
+P000445,C25501,Christopher Miller,Cheddar Cheese,Dairy,45.19,2026-02-07
+P000001,TEST003,Test Thomas,Bagels,bakery,9.85,2026-02-07
+P000281,C39100,Susan Miller,Chicken Breast,meat,49.62,2026-02-07
+P000622,C80359,Jane Martinez,Organic Bananas,FRESH PRODUCE,134.82,2026-02-07
+P000296,C56427,David Thomas,Green Tea,Beverages,17.74,2026-02-06
+P000433,C18390,Mary Rodriguez,Oat Milk,Dairy Alternatives,47.8,2026-02-06
+P000211,C17325,Lisa User,Croissants,BAKERY,4.02,2026-02-06
+P000806,C74182,Sarah Johnson,Green Tea,Beverages,104.4,2026-02-05
+P000861,C53796,Sarah Anderson,Organic Eggs,DAIRY,118.22,2026-02-05
+P000248,C41311,Jane Miller,Ground Beef,Meat,43.33,2026-02-05
+P000707,TEST029,Test Jones,Whole Wheat Bread,bakery,37.97,2026-02-05
+P000897,,,Green Tea,Beverages,96.6,2026-02-05
+P000713,TEST001,Test Thomas,Fresh Strawberries,fresh produce,23.28,2026-02-04
+P000718,C41952,Sarah Taylor,Whole Wheat Bread,bakery,67.56,2026-02-03
+P000037,C44788,Matthew Wilson,Organic Apples,Fresh Produce,236.28,2026-02-03
+P000100,C73031,Sarah Davis,Fresh Strawberries,fresh produce,183.28,2026-02-03
+P000253,TEST005,Test User,Ground Beef,Meat,23.45,2026-02-03
+P000863,C48677,Patricia Thomas,Organic Apples,Fresh Produce,138.97,2026-02-03
+P000667,C65340,Sarah Garcia,Olive Oil,Pantry,96.91,2026-02-03
+P000762,,,Fresh Strawberries,fresh produce,111.37,2026-02-03
+P000848,C30262,John Smith,Olive Oil,Pantry,72.41,2026-02-03
+P000558,TEST020,Test Smith,Organic Eggs,DAIRY,39.28,2026-02-02
+P000415,TEST028,Test Garcia,Salmon Fillet,MEAT,44.83,2026-02-02
+P000191,C37439,Barbara Thomas,Chicken Breast,meat,13.51,2026-02-02
+P000156,C26422,Sarah Rodriguez,Greek Yogurt,dairy,11.5,2026-02-02
+P000586,,,Whole Wheat Bread,bakery,41.04,2026-02-02
+P000283,C59999,Patricia Anderson,Oat Milk,Dairy Alternatives,154.61,2026-02-01
+P000554,C65875,Lisa Rodriguez,Cheddar Cheese,Dairy,204.54,2026-02-01
+P000714,C74276,David Smith,Orange Juice,BEVERAGES,162.68,2026-02-01
+P000065,TEST011,Test Taylor,Soy Milk,DAIRY ALTERNATIVES,40.41,2026-02-01
+P000338,C23572,John Wilson,Ground Beef,Meat,238.75,2026-02-01
+P000769,C96553,John Wilson,Chicken Breast,meat,212.98,2026-01-31
+P000295,C46658,Mary Smith,Chicken Breast,meat,67.71,2026-01-31
+P000923,C92438,John Miller,Organic Mango,fresh produce,133.08,2026-01-31
+P000469,C37414,Barbara Smith,Organic Eggs,DAIRY,88.55,2026-01-31
+P000942,C79540,Jennifer Smith,Salmon Fillet,MEAT,35.62,2026-01-31
+P000161,C58950,David Miller,Croissants,BAKERY,8.88,2026-01-31
+P000595,,,Organic Apples,Fresh Produce,21.19,2026-01-31
+P000630,C14356,Emily Wilson,Whole Wheat Bread,bakery,146.57,2026-01-31
+P000874,C56707,Daniel User,Tomato Sauce,PANTRY,226.53,2026-01-31
+P000672,C18774,Lisa Davis,Cheddar Cheese,Dairy,224.46,2026-01-30
+P000682,C36302,Matthew Williams,Organic Eggs,DAIRY,82.22,2026-01-30
+P000048,C90328,Barbara Rodriguez,,,132.09,2026-01-30
+P000575,C10423,Sarah Williams,Coffee Beans,beverages,186.7,2026-01-29
+P000074,C89258,Emily Rodriguez,Fresh Strawberries,fresh produce,223.62,2026-01-29
+P000684,C61361,James Thomas,Rice,pantry,226.72,2026-01-29
+P000441,C97815,Mary Garcia,Salmon Fillet,MEAT,79.0,2026-01-29
+P000110,C26388,William Anderson,Salmon Fillet,MEAT,80.44,2026-01-29
+P000565,C31425,Jane Taylor,Ground Beef,Meat,172.65,2026-01-29
+P000925,,,Whole Wheat Bread,bakery,150.93,2026-01-29
+P000739,C44630,Linda Brown,Pasta,pantry,231.38,2026-01-28
+P000314,C24413,Emily Anderson,Organic Eggs,DAIRY,227.38,2026-01-28
+P000844,C46720,Linda Wilson,Orange Juice,BEVERAGES,142.14,2026-01-28
+P000903,C15316,Matthew Jones,Organic Apples,Fresh Produce,185.75,2026-01-28
+P000262,C39577,Andrew Account,Oat Milk,Dairy Alternatives,166.27,2026-01-27
+P000293,C22788,Susan Account,Coffee Beans,beverages,11.5,2026-01-27
+P000304,TEST010,Test Jones,Organic Apples,Fresh Produce,31.26,2026-01-27
+P000208,C99719,Jennifer Jones,Oat Milk,Dairy Alternatives,49.38,2026-01-27
+P000881,C16495,Andrew Taylor,Chicken Breast,meat,85.56,2026-01-27
+P000703,C42884,Andrew Anderson,Fresh Strawberries,fresh produce,79.28,2026-01-27
+P000027,C52212,William Taylor,,,234.81,2026-01-27
+P000755,C37979,David Smith,Orange Juice,BEVERAGES,165.94,2026-01-26
+P000059,C23857,Matthew Brown,Pasta,pantry,167.45,2026-01-26
+P000313,C76062,Jane Miller,Green Tea,Beverages,117.88,2026-01-25
+P000339,C43189,Susan Smith,Green Tea,Beverages,19.53,2026-01-25
+P000878,C19715,Robert Wilson,Pasta,pantry,159.37,2026-01-25
+P000047,C49682,Linda User,Croissants,BAKERY,73.47,2026-01-24
+P000282,C72310,Test Anderson,Croissants,BAKERY,177.44,2026-01-24
+P000766,C27248,Lisa Martinez,Greek Yogurt,dairy,198.52,2026-01-24
+P000004,C10864,James User,Fresh Strawberries,fresh produce,226.73,2026-01-24
+P000142,C29853,Susan Miller,Sourdough Bread,Bakery,6.17,2026-01-24
+P000748,C27926,Barbara Rodriguez,Sourdough Bread,Bakery,149.34,2026-01-24
+P000422,C52358,Mary Miller,Croissants,BAKERY,123.52,2026-01-24
+P000936,C26019,Emily Martinez,Organic Eggs,DAIRY,182.82,2026-01-23
+P000675,C95198,Christopher Davis,Organic Bananas,FRESH PRODUCE,89.17,2026-01-23
+P000926,C29687,James Wilson,Greek Yogurt,dairy,32.17,2026-01-22
+P000570,C23796,Mary Wilson,Whole Wheat Bread,bakery,100.72,2026-01-22
+P000229,C17048,John Thomas,Whole Wheat Bread,bakery,153.3,2026-01-22
+P000515,C14656,Sarah Anderson,Organic Bananas,FRESH PRODUCE,31.65,2026-01-22
+P000768,C58165,Christopher Jones,Soy Milk,DAIRY ALTERNATIVES,18.89,2026-01-22
+P000628,C53188,Linda Williams,Whole Wheat Bread,bakery,18.54,2026-01-22
+P000537,C93679,William Jones,Cheddar Cheese,Dairy,223.33,2026-01-22
+P000147,C56977,William Rodriguez,Pasta,pantry,133.65,2026-01-21
+P000529,C63517,James Johnson,Coffee Beans,beverages,199.9,2026-01-21
+P000871,C71696,Christopher Smith,Sourdough Bread,Bakery,123.32,2026-01-21
+P000808,C19612,Patricia Davis,Orange Juice,BEVERAGES,21.23,2026-01-21
+P000573,C17906,Jane Martinez,Fresh Strawberries,fresh produce,199.16,2026-01-21
+P000780,C60256,Patricia Taylor,Sourdough Bread,Bakery,18.24,2026-01-21
+P000927,C14002,Demo Martinez,Salmon Fillet,MEAT,117.06,2026-01-21
+P000938,C75336,Robert Johnson,Orange Juice,BEVERAGES,143.25,2026-01-21
+P000738,C92837,Jennifer Miller,Bagels,bakery,62.32,2026-01-20
+P000838,C71133,Michael Account,Green Tea,Beverages,152.82,2026-01-20
+P000522,C30088,Robert Miller,Soy Milk,DAIRY ALTERNATIVES,193.46,2026-01-20
+P000904,C33917,Andrew Taylor,Organic Spinach,Fresh Produce,11.5,2026-01-19
+P000077,C96238,Jennifer User,Croissants,BAKERY,5.31,2026-01-19
+P000700,C15843,Jennifer Taylor,Orange Juice,BEVERAGES,78.91,2026-01-19
+P000876,C27679,Barbara Anderson,Coffee Beans,beverages,73.87,2026-01-19
+P000246,C18961,Test Miller,Soy Milk,DAIRY ALTERNATIVES,23.0,2026-01-19
+P000332,C85721,William Jones,Organic Spinach,Fresh Produce,66.55,2026-01-19
+P000354,C14567,Robert Account,Coffee Beans,beverages,246.08,2026-01-19
+P000729,C48535,James Jones,Organic Eggs,DAIRY,6.15,2026-01-18
+P000062,C66387,Robert Taylor,Organic Apples,Fresh Produce,17.86,2026-01-18
+P000793,C71212,Lisa Jones,Cheddar Cheese,Dairy,23.46,2026-01-18
+P000660,TEST025,Test Anderson,Salmon Fillet,MEAT,41.26,2026-01-18
+P000941,C84879,Patricia Anderson,Sourdough Bread,Bakery,93.0,2026-01-17
+P000647,C48640,Daniel Rodriguez,Rice,pantry,245.73,2026-01-17
+P000853,C47131,James Anderson,Bagels,bakery,128.82,2026-01-17
+P000326,C54190,Linda Brown,Bagels,bakery,155.79,2026-01-17
+P000251,C16246,David Thomas,Croissants,BAKERY,215.33,2026-01-16
+P000478,TEST025,Test Brown,Chicken Breast,meat,48.45,2026-01-16
+P000809,C98668,Linda Davis,Rice,pantry,11.5,2026-01-16
+P000146,C25250,Linda Account,Soy Milk,DAIRY ALTERNATIVES,95.69,2026-01-16
+P000921,C97133,Sarah Williams,Pasta,pantry,205.85,2026-01-16
+P000578,C10461,William Miller,Rice,pantry,35.78,2026-01-16
+P000286,C41527,Daniel Rodriguez,Salmon Fillet,MEAT,94.33,2026-01-15
+P000940,C95242,Patricia Brown,Bagels,bakery,245.5,2026-01-15
+P000389,C89129,Lisa Jones,Orange Juice,BEVERAGES,157.0,2026-01-15
+P000499,C64947,Christopher Smith,Salmon Fillet,MEAT,205.78,2026-01-15
+P000066,TEST003,Test Brown,Croissants,BAKERY,17.96,2026-01-15
+P000757,C44024,Robert Johnson,Salmon Fillet,MEAT,38.16,2026-01-15
+P000688,C87724,Demo Anderson,Sourdough Bread,Bakery,212.45,2026-01-14
+P000181,TEST003,Test Garcia,Coffee Beans,beverages,47.83,2026-01-14
+P000507,C95236,Jennifer Garcia,Whole Wheat Bread,bakery,140.07,2026-01-14
+P000079,C64441,Robert Davis,Organic Mango,fresh produce,202.69,2026-01-14
+P000992,C27550,Demo Rodriguez,Rice,pantry,19.25,2026-01-14
+P000967,C55165,Susan User,Chicken Breast,meat,100.33,2026-01-14
+P000951,C79061,Linda Rodriguez,Coffee Beans,beverages,92.96,2026-01-14
+P000949,C91989,John Brown,,,203.08,2026-01-13
+P000821,C56445,David Smith,Pasta,pantry,197.03,2026-01-13
+P000127,C18280,Mary User,Coffee Beans,beverages,159.63,2026-01-13
+P000029,TEST011,Test Williams,Oat Milk,Dairy Alternatives,29.95,2026-01-13
+P000257,C65574,Mary Miller,Greek Yogurt,dairy,84.39,2026-01-13
+P000154,C54141,Daniel Johnson,Croissants,BAKERY,9.61,2026-01-13
+P000171,C30736,Daniel Account,Ground Beef,Meat,19.96,2026-01-13
+P000917,C68734,Mary Anderson,Greek Yogurt,dairy,222.03,2026-01-13
+P000097,C23726,Demo Williams,Croissants,BAKERY,145.15,2026-01-13
+P000639,C57552,John Smith,Bagels,bakery,168.11,2026-01-12
+P000329,,,Green Tea,Beverages,33.56,2026-01-12
+P000183,TEST003,Test Miller,Chicken Breast,meat,19.83,2026-01-12
+P000723,C43079,Jane User,Ground Beef,Meat,56.37,2026-01-12
+P000918,C60294,Christopher Martinez,Organic Spinach,Fresh Produce,149.85,2026-01-12
+P000692,C88588,Susan Miller,Rice,pantry,48.91,2026-01-12
+P000362,C37070,Patricia Smith,Organic Bananas,FRESH PRODUCE,112.93,2026-01-11
+P000494,C89668,Susan User,Whole Wheat Bread,bakery,244.69,2026-01-11
+P000185,TEST024,Test Anderson,Rice,pantry,44.41,2026-01-11
+P000562,TEST014,Test Wilson,Green Tea,Beverages,41.76,2026-01-10
+P000312,C50490,Lisa Miller,,,211.63,2026-01-10
+P000735,C55227,John Account,Fresh Strawberries,fresh produce,88.32,2026-01-10
+P000061,C10696,Sarah Williams,Oat Milk,Dairy Alternatives,11.93,2026-01-10
+P000374,C81415,Lisa Taylor,Almond Milk,dairy alternatives,202.51,2026-01-10
+P000683,C36855,Barbara Johnson,Almond Milk,dairy alternatives,168.27,2026-01-10
+P000968,C63951,Daniel Anderson,Organic Bananas,FRESH PRODUCE,230.15,2026-01-09
+P000802,C43098,Sarah Anderson,Organic Spinach,Fresh Produce,207.76,2026-01-09
+P000266,C34138,William Jones,Rice,pantry,215.08,2026-01-09
+P000488,C27659,Susan Rodriguez,Organic Spinach,Fresh Produce,120.07,2026-01-09
+P000592,C54709,Sarah Brown,Organic Mango,fresh produce,223.04,2026-01-09
+P000090,C66182,Demo Brown,Organic Bananas,FRESH PRODUCE,14.69,2026-01-09
+P000165,C47609,David Taylor,Oat Milk,Dairy Alternatives,35.08,2026-01-08
+P000054,C52574,Robert Smith,Green Tea,Beverages,92.93,2026-01-08
+P000825,C31834,David Brown,Bagels,bakery,118.85,2026-01-08
+P000632,C60151,Mary Taylor,Organic Eggs,DAIRY,210.45,2026-01-08
+P000514,C84535,Lisa Jones,Orange Juice,BEVERAGES,66.89,2026-01-08
+P000869,C37123,Christopher Wilson,Whole Wheat Bread,bakery,246.88,2026-01-08
+P000381,C18262,David Taylor,Fresh Strawberries,fresh produce,156.91,2026-01-08
+P000655,C72537,Test Jones,Fresh Strawberries,fresh produce,216.28,2026-01-08
+P000193,C11374,Barbara Miller,Soy Milk,DAIRY ALTERNATIVES,183.01,2026-01-08
+P000663,C75786,Andrew Jones,Fresh Strawberries,fresh produce,131.59,2026-01-08
+P000134,C89436,Demo Davis,Tomato Sauce,PANTRY,29.09,2026-01-08
+P000084,C75207,Jane Thomas,Organic Bananas,FRESH PRODUCE,217.06,2026-01-08
+P000351,C15997,Test Jones,Croissants,BAKERY,124.69,2026-01-07
+P000294,C85243,Emily Rodriguez,Olive Oil,Pantry,244.08,2026-01-07
+P000697,C73940,Linda Thomas,Coffee Beans,beverages,28.97,2026-01-07
+P000827,C86546,Andrew Rodriguez,Orange Juice,BEVERAGES,145.74,2026-01-07
+P000155,C33899,Linda Garcia,Rice,pantry,193.37,2026-01-07
+P000483,C30790,Demo Johnson,Pasta,pantry,114.06,2026-01-07
+P000439,C86745,Barbara Miller,Chicken Breast,meat,80.28,2026-01-06
+P000564,C20232,Patricia Martinez,Organic Bananas,FRESH PRODUCE,109.69,2026-01-06
+P000956,TEST012,Test Martinez,Bagels,bakery,46.97,2026-01-06
+P000657,TEST008,Test Brown,Ground Beef,Meat,47.02,2026-01-06
+P000646,TEST006,Test Taylor,Fresh Strawberries,fresh produce,40.19,2026-01-06
+P000124,C60170,Andrew Jones,Croissants,BAKERY,194.46,2026-01-06
+P000653,C54902,Lisa Thomas,Organic Bananas,FRESH PRODUCE,144.35,2026-01-06
+P000614,C88535,Linda Davis,Organic Eggs,DAIRY,136.38,2026-01-05
+P000368,C20648,Michael Johnson,Organic Eggs,DAIRY,158.03,2026-01-05
+P000288,TEST024,Test User,Tomato Sauce,PANTRY,28.08,2026-01-05
+P000315,TEST029,Test Johnson,,,20.21,2026-01-04
+P000207,C69900,Michael Miller,Sourdough Bread,Bakery,218.58,2026-01-04
+P000604,C47255,David User,Oat Milk,Dairy Alternatives,100.68,2026-01-04
+P000009,C94600,Sarah Williams,Chicken Breast,meat,165.88,2026-01-04
+P000364,C62934,Jane Rodriguez,Organic Bananas,FRESH PRODUCE,63.02,2026-01-04
+P000212,C28666,Patricia Williams,Sourdough Bread,Bakery,192.21,2026-01-04
+P000480,,,Oat Milk,Dairy Alternatives,215.4,2026-01-04
+P000893,C95941,Jennifer Garcia,Pasta,pantry,145.62,2026-01-03
+P000711,C45875,James Johnson,Soy Milk,DAIRY ALTERNATIVES,,2026-01-03
+P000419,C96343,Susan User,Organic Mango,fresh produce,42.95,2026-01-03
+P000476,TEST023,Test Account,Organic Eggs,DAIRY,30.99,2026-01-03
+P000602,C30293,James Martinez,Orange Juice,BEVERAGES,190.7,2026-01-03
+P000423,C41898,Patricia Brown,Chicken Breast,meat,45.71,2026-01-02
+P000749,C24165,Sarah Garcia,Organic Spinach,Fresh Produce,220.82,2026-01-02
+P000841,TEST019,Test Smith,Almond Milk,dairy alternatives,15.96,2026-01-01
+P000040,C69701,Matthew Rodriguez,Oat Milk,Dairy Alternatives,238.89,2026-01-01
+P000815,C49644,John Miller,Tomato Sauce,PANTRY,132.89,2026-01-01
+P000466,C58361,Demo Smith,Orange Juice,BEVERAGES,7.99,2026-01-01
+P000371,C75253,David Garcia,Green Tea,Beverages,196.36,2026-01-01
+P000347,TEST009,Test User,Bagels,bakery,40.13,2026-01-01
+P000716,C99810,Robert Anderson,Tomato Sauce,PANTRY,5.12,2026-01-01
+P000896,C93799,Test User,Organic Bananas,FRESH PRODUCE,231.67,2025-12-31
+P000690,C72956,Michael Account,Organic Bananas,FRESH PRODUCE,55.0,2025-12-31
+P000073,C91970,Demo Garcia,Orange Juice,BEVERAGES,51.39,2025-12-31
+P000567,C51684,Mary Wilson,Salmon Fillet,MEAT,112.62,2025-12-31
+P000557,C91127,Christopher Garcia,Sourdough Bread,Bakery,180.72,2025-12-30
+P000608,C51243,Christopher Brown,Pasta,pantry,100.46,2025-12-30
+P000305,C94398,Lisa Account,Greek Yogurt,dairy,22.11,2025-12-30
+P000627,C21429,James Johnson,Organic Eggs,DAIRY,138.88,2025-12-30
+P000223,C82307,Susan Taylor,Soy Milk,DAIRY ALTERNATIVES,29.52,2025-12-30
+P000085,C16205,Barbara Davis,Organic Bananas,FRESH PRODUCE,114.44,2025-12-30
+P000254,TEST003,Test Garcia,Organic Mango,fresh produce,43.69,2025-12-30
+P000350,C13608,Test Martinez,Ground Beef,Meat,85.93,2025-12-29
+P000691,TEST010,Test User,Whole Wheat Bread,bakery,23.26,2025-12-29
+P000050,C67148,Matthew Anderson,Organic Spinach,Fresh Produce,125.33,2025-12-29
+P000130,C87080,Susan Johnson,Orange Juice,BEVERAGES,217.35,2025-12-29
+P000674,C69604,Andrew Jones,Sourdough Bread,Bakery,169.38,2025-12-28
+P000291,C81450,James Rodriguez,Orange Juice,BEVERAGES,166.02,2025-12-28
+P000129,C31012,Daniel Rodriguez,Olive Oil,Pantry,61.07,2025-12-28
+P000045,C15689,Susan Smith,,,169.74,2025-12-28
+P000638,C87258,Mary Brown,Olive Oil,Pantry,203.35,2025-12-28
+P000399,C22798,Emily User,Oat Milk,Dairy Alternatives,31.37,2025-12-28
+P000985,C15207,Robert Miller,Almond Milk,dairy alternatives,91.27,2025-12-27
+P000217,C54973,Matthew Smith,Salmon Fillet,MEAT,48.7,2025-12-27
+P000666,C56882,Barbara Account,Organic Mango,fresh produce,196.98,2025-12-27
+P000914,C15286,Barbara Jones,Organic Bananas,FRESH PRODUCE,174.58,2025-12-27
+P000868,TEST026,Test Garcia,Fresh Strawberries,fresh produce,39.41,2025-12-27
+P000905,C86511,Susan Williams,Almond Milk,dairy alternatives,68.2,2025-12-27
+P000083,C54330,John Jones,Almond Milk,dairy alternatives,74.07,2025-12-27
+P000532,C95109,Andrew Brown,Sourdough Bread,Bakery,100.85,2025-12-27
+P000434,C51461,Michael Miller,Orange Juice,BEVERAGES,53.64,2025-12-27
+P000006,C14816,Jennifer Wilson,Ground Beef,Meat,201.17,2025-12-26
+P000566,TEST015,Test User,Organic Mango,fresh produce,18.86,2025-12-26
+P000228,C33730,Michael Thomas,Rice,pantry,25.49,2025-12-26
+P000367,C48924,Andrew Jones,Organic Mango,fresh produce,47.22,2025-12-26
+P000715,C93381,Barbara Thomas,Greek Yogurt,dairy,122.46,2025-12-26
+P000063,C21834,David Johnson,Soy Milk,DAIRY ALTERNATIVES,112.11,2025-12-26
+P000278,TEST021,Test Smith,Organic Bananas,FRESH PRODUCE,42.15,2025-12-26
+P000635,C61255,Test Davis,Ground Beef,Meat,17.34,2025-12-26
+P000820,C12782,Michael Davis,Bagels,bakery,220.25,2025-12-26
+P000824,C48416,Lisa Thomas,Ground Beef,Meat,132.19,2025-12-26
+P000149,C33381,Lisa Garcia,Tomato Sauce,PANTRY,170.1,2025-12-26
+P000600,C34192,Robert Williams,Greek Yogurt,dairy,91.4,2025-12-25
+P000563,C11306,Jane Anderson,Whole Wheat Bread,bakery,85.68,2025-12-25
+P000462,,,Organic Mango,fresh produce,17.81,2025-12-25
+P000740,C49624,Michael User,Chicken Breast,meat,87.38,2025-12-25
+P000952,C70282,Jennifer Martinez,Green Tea,Beverages,144.71,2025-12-24
+P000086,,,Organic Bananas,FRESH PRODUCE,236.43,2025-12-23
+P000398,C38778,Mary Williams,Almond Milk,dairy alternatives,102.5,2025-12-23
+P000331,C10121,Patricia Rodriguez,Tomato Sauce,PANTRY,71.88,2025-12-23
+P000235,C45705,Susan Garcia,Salmon Fillet,MEAT,50.83,2025-12-23
+P000132,,,Croissants,BAKERY,14.15,2025-12-23
+P000717,C93546,Andrew Williams,Organic Spinach,Fresh Produce,6.14,2025-12-22
+P000553,C99572,Test Williams,Coffee Beans,beverages,176.99,2025-12-22
+P000363,C73025,Michael User,Organic Mango,fresh produce,114.61,2025-12-22
+P000506,C84620,James Thomas,Olive Oil,Pantry,210.75,2025-12-22
+P000042,TEST018,Test Jones,Oat Milk,Dairy Alternatives,44.17,2025-12-22
+P000756,C94571,Linda Account,Organic Mango,fresh produce,22.34,2025-12-21
+P000186,C86599,Barbara Davis,Salmon Fillet,MEAT,38.41,2025-12-21
+P000346,C38976,Demo Taylor,Green Tea,Beverages,162.72,2025-12-21
+P000799,C42127,Robert Thomas,Organic Apples,Fresh Produce,31.69,2025-12-21
+P000198,C92930,Test Martinez,Whole Wheat Bread,bakery,11.5,2025-12-21
+P000219,C80405,Daniel Martinez,Organic Spinach,Fresh Produce,201.42,2025-12-21
+P000301,C93787,Jennifer Thomas,Cheddar Cheese,Dairy,243.32,2025-12-20
+P000617,C66735,David Miller,Almond Milk,dairy alternatives,65.78,2025-12-20
+P000866,TEST001,Test Jones,Green Tea,Beverages,5.52,2025-12-20
+P000813,C93036,Robert Brown,Rice,pantry,14.95,2025-12-20
+P000971,C87235,David Wilson,Olive Oil,Pantry,45.09,2025-12-20
+P000523,C18468,John Thomas,Soy Milk,DAIRY ALTERNATIVES,235.3,2025-12-20
+P000112,C62388,Linda Williams,Sourdough Bread,Bakery,49.12,2025-12-20
+P000028,C76208,Robert Smith,Sourdough Bread,Bakery,69.98,2025-12-19
+P000358,C77547,John Thomas,,,48.68,2025-12-19
+P000737,,,Pasta,pantry,157.12,2025-12-19
+P000894,C63303,Patricia Johnson,Coffee Beans,beverages,245.07,2025-12-19
+P000140,C92188,Demo Taylor,Croissants,BAKERY,139.91,2025-12-19
+P000138,C76292,David Miller,Whole Wheat Bread,bakery,134.24,2025-12-19
+P000785,C84615,Matthew Martinez,Croissants,BAKERY,114.44,2025-12-18
+P000318,C67123,Robert Williams,Almond Milk,dairy alternatives,32.11,2025-12-18
+P000582,C35003,Demo Anderson,Salmon Fillet,MEAT,48.52,2025-12-18
+P000366,C37504,David Davis,Oat Milk,Dairy Alternatives,249.02,2025-12-18
+P000520,C29162,Jane Taylor,Salmon Fillet,MEAT,11.5,2025-12-18
+P000256,C73448,Jennifer Williams,Organic Spinach,Fresh Produce,107.52,2025-12-18
+P000965,C27737,Michael Wilson,Organic Eggs,DAIRY,149.22,2025-12-17
+P000120,C80043,Jane Account,Organic Spinach,Fresh Produce,55.16,2025-12-17
+P000776,C72929,John Jones,Coffee Beans,beverages,7.13,2025-12-17
+P000300,,,Tomato Sauce,PANTRY,83.8,2025-12-17
+P000559,C88950,Demo Johnson,Organic Mango,fresh produce,187.57,2025-12-17
+P000416,C38810,John Brown,Greek Yogurt,dairy,7.79,2025-12-17
+P000159,C69936,Barbara Account,Olive Oil,Pantry,13.9,2025-12-17
+P000765,C54286,Christopher Taylor,Olive Oil,Pantry,182.24,2025-12-16
+P000850,C74054,Daniel Rodriguez,Ground Beef,Meat,152.03,2025-12-16
+P001000,C44848,Patricia Rodriguez,Olive Oil,Pantry,93.89,2025-12-16
+P000337,C63895,Lisa Thomas,Rice,pantry,190.82,2025-12-16
+P000214,C80018,Matthew Smith,Organic Apples,Fresh Produce,220.29,2025-12-16
+P000330,C43629,Barbara Johnson,Coffee Beans,beverages,84.79,2025-12-16
+P000052,TEST021,Test Wilson,Salmon Fillet,MEAT,6.35,2025-12-15
+P000199,C69604,James Williams,Organic Bananas,FRESH PRODUCE,119.91,2025-12-15
+P000093,C78123,Susan Brown,Organic Eggs,DAIRY,227.95,2025-12-15
+P000102,C99901,Christopher Garcia,Orange Juice,BEVERAGES,141.3,2025-12-15
+P000743,C98178,Emily Johnson,,,131.73,2025-12-14
+P000611,C54560,Mary User,Organic Spinach,Fresh Produce,97.08,2025-12-14
+P000843,TEST030,Test Smith,Ground Beef,Meat,47.0,2025-12-13
+P000906,TEST011,Test Martinez,Green Tea,Beverages,13.33,2025-12-13
+P000658,TEST003,Test Anderson,Ground Beef,Meat,48.98,2025-12-13
+P000438,C68439,Jane Account,Sourdough Bread,Bakery,191.02,2025-12-13
+P000997,C67882,Lisa Davis,Coffee Beans,beverages,93.43,2025-12-13
+P000482,C65226,Jennifer Brown,Bagels,bakery,57.36,2025-12-13
+P000781,C14851,Linda Davis,Tomato Sauce,PANTRY,203.78,2025-12-13
+P000268,C74654,Jennifer Miller,Salmon Fillet,MEAT,25.08,2025-12-12
+P000401,TEST029,Test Davis,Organic Bananas,FRESH PRODUCE,39.77,2025-12-12
+P000225,C98604,Sarah Brown,Organic Mango,fresh produce,80.75,2025-12-12
+P000232,TEST003,Test Johnson,Soy Milk,DAIRY ALTERNATIVES,37.81,2025-12-12
+P000699,C74555,Matthew Taylor,Chicken Breast,meat,210.91,2025-12-11
+P000962,C92381,Andrew Johnson,Cheddar Cheese,Dairy,157.92,2025-12-11
+P000477,C56457,Mary Smith,Almond Milk,dairy alternatives,185.65,2025-12-11
+P000626,C39725,Linda Anderson,Orange Juice,BEVERAGES,105.7,2025-12-11
+P000734,C91681,Lisa Account,Chicken Breast,meat,25.74,2025-12-11
+P000005,C26547,John Martinez,Cheddar Cheese,Dairy,145.05,2025-12-11
+P000539,TEST010,Test Account,Sourdough Bread,Bakery,10.96,2025-12-11
+P000932,C99709,Daniel Johnson,Green Tea,Beverages,11.5,2025-12-10
+P000837,C53555,Sarah Jones,Almond Milk,dairy alternatives,55.72,2025-12-10
+P000099,C89262,Test Thomas,Orange Juice,BEVERAGES,163.55,2025-12-10
+P000944,C74968,James Brown,Olive Oil,Pantry,170.63,2025-12-10
+P000141,C66597,Michael Rodriguez,Bagels,bakery,142.16,2025-12-10
+P000420,C45083,Daniel Brown,Pasta,pantry,67.12,2025-12-10
+P000297,C89948,Patricia Williams,Ground Beef,Meat,157.33,2025-12-09
+P000236,C70111,Patricia Davis,Organic Mango,fresh produce,45.56,2025-12-09
+P000964,C68224,Jane User,Organic Mango,fresh produce,222.65,2025-12-09
+P000746,C60270,Lisa Rodriguez,Green Tea,Beverages,207.1,2025-12-09
+P000831,C57476,Andrew Rodriguez,Pasta,pantry,49.48,2025-12-09
+P000395,C65461,James Brown,Organic Spinach,Fresh Produce,195.1,2025-12-08
+P000687,C51808,Test Thomas,Whole Wheat Bread,bakery,129.18,2025-12-08
+P000302,C33137,Emily Anderson,Ground Beef,Meat,242.06,2025-12-08
+P000998,C82878,Christopher Wilson,Organic Bananas,FRESH PRODUCE,131.65,2025-12-08
+P000158,C49606,Michael Anderson,Whole Wheat Bread,bakery,241.26,2025-12-07
+P000728,TEST021,Test Anderson,Tomato Sauce,PANTRY,35.27,2025-12-07
+P000164,C35227,Jane Miller,Tomato Sauce,PANTRY,216.63,2025-12-07
+P000677,C69996,Lisa Garcia,Orange Juice,BEVERAGES,190.09,2025-12-07
+P000654,C62333,Christopher Miller,Soy Milk,DAIRY ALTERNATIVES,160.97,2025-12-06
+P000169,C42238,Daniel Martinez,Sourdough Bread,Bakery,148.85,2025-12-06
+P000361,C31862,David Brown,Pasta,pantry,168.86,2025-12-06
+P000546,C82591,Demo Account,Coffee Beans,beverages,167.87,2025-12-05
+P000704,C13933,Susan Miller,Croissants,BAKERY,215.72,2025-12-05
+P000610,C17083,Linda Martinez,Sourdough Bread,Bakery,178.52,2025-12-05
+P000224,C38762,Matthew Miller,Whole Wheat Bread,bakery,67.43,2025-12-05
+P000730,C25167,Susan Miller,Coffee Beans,beverages,122.82,2025-12-05
+P000244,C82678,David Martinez,Chicken Breast,meat,20.88,2025-12-05
+P000817,TEST025,Test Taylor,Greek Yogurt,dairy,44.24,2025-12-05
+P000360,C25753,Andrew Wilson,Organic Eggs,DAIRY,,2025-12-05
+P000513,C89155,Susan Account,Green Tea,Beverages,11.5,2025-12-05
+P000852,C52671,Barbara Williams,Ground Beef,Meat,15.32,2025-12-05
+P000671,C88042,Sarah User,Organic Spinach,Fresh Produce,79.06,2025-12-04
+P000471,TEST007,Test Brown,Oat Milk,Dairy Alternatives,47.1,2025-12-04
+P000670,C98345,Sarah Garcia,Green Tea,Beverages,136.26,2025-12-04
+P000162,TEST018,Test Account,Salmon Fillet,MEAT,33.2,2025-12-04
+P000542,C84907,Emily Miller,Organic Apples,Fresh Produce,165.82,2025-12-04
+P000209,C40853,Patricia User,Orange Juice,BEVERAGES,43.06,2025-12-04
+P000571,C40788,Mary Johnson,Orange Juice,BEVERAGES,127.19,2025-12-04
+P000472,C87114,Robert Davis,Sourdough Bread,Bakery,55.25,2025-12-04
+P000403,C39096,Jennifer Martinez,Salmon Fillet,MEAT,229.37,2025-12-03
+P000210,,,Cheddar Cheese,Dairy,46.07,2025-12-03
+P000036,C32921,Barbara Taylor,Soy Milk,DAIRY ALTERNATIVES,21.0,2025-12-03
+P000359,C30468,Emily Jones,Cheddar Cheese,Dairy,149.68,2025-12-03
+P000786,C72822,Robert Garcia,Organic Bananas,FRESH PRODUCE,249.4,2025-12-02
+P000934,C18003,Barbara Wilson,Cheddar Cheese,Dairy,20.23,2025-12-02
+P000116,C67248,Daniel Johnson,Cheddar Cheese,Dairy,16.67,2025-12-02
+P000706,C64833,Susan Rodriguez,Ground Beef,Meat,159.3,2025-12-01
+P000390,C83430,John Johnson,Organic Spinach,Fresh Produce,208.03,2025-12-01
+P000727,C93022,Robert Garcia,Olive Oil,Pantry,116.44,2025-12-01
+P000464,TEST002,Test Account,Rice,pantry,30.48,2025-12-01
+P000168,C32450,Test Miller,Orange Juice,BEVERAGES,241.99,2025-12-01
+P000128,C55126,Andrew Jones,Organic Spinach,Fresh Produce,241.3,2025-12-01
+P000526,C43914,Andrew Davis,Organic Spinach,Fresh Produce,151.3,2025-11-30
+P000621,C36875,Andrew Davis,Green Tea,Beverages,131.02,2025-11-30
+P000430,C48758,David Smith,Oat Milk,Dairy Alternatives,179.61,2025-11-30
+P000744,TEST030,Test User,Rice,pantry,26.4,2025-11-30
+P000901,TEST008,Test Williams,Organic Spinach,Fresh Produce,28.98,2025-11-30
+P000442,C23532,Test Martinez,Oat Milk,Dairy Alternatives,22.23,2025-11-29
+P000188,C58845,Mary Brown,Croissants,BAKERY,130.46,2025-11-29
+P000803,C55261,Barbara Garcia,Coffee Beans,beverages,156.56,2025-11-29
+P000890,C41466,Lisa Martinez,Organic Bananas,FRESH PRODUCE,19.81,2025-11-29
+P000572,C48420,Emily Rodriguez,Fresh Strawberries,fresh produce,96.52,2025-11-28
+P000443,TEST014,Test Davis,Rice,pantry,31.08,2025-11-28
+P000865,C81743,Patricia Williams,Organic Spinach,Fresh Produce,224.19,2025-11-28
+P000218,C33329,Linda Smith,Greek Yogurt,dairy,212.64,2025-11-28
+P000607,C71844,David Johnson,Orange Juice,BEVERAGES,113.25,2025-11-28
+P000818,C40009,Lisa Brown,Organic Bananas,FRESH PRODUCE,164.12,2025-11-28
+P000493,C79469,James User,Cheddar Cheese,Dairy,19.74,2025-11-27
+P000812,C60023,Michael Johnson,Coffee Beans,beverages,58.23,2025-11-27
+P000659,C94323,James Wilson,Olive Oil,Pantry,31.91,2025-11-26
+P000440,C70545,Robert User,Soy Milk,DAIRY ALTERNATIVES,42.29,2025-11-26
+P000238,C27619,Test Anderson,Coffee Beans,beverages,91.55,2025-11-26
+P000560,C52165,William Rodriguez,Greek Yogurt,dairy,11.5,2025-11-26
+P000375,C17621,Robert Martinez,Tomato Sauce,PANTRY,77.81,2025-11-25
+P000412,C30195,Matthew Wilson,Oat Milk,Dairy Alternatives,181.61,2025-11-25
+P000197,C91452,Barbara Martinez,Salmon Fillet,MEAT,186.16,2025-11-25
+P000105,C16197,Test Thomas,Cheddar Cheese,Dairy,175.51,2025-11-25
+P000969,C91476,Matthew Brown,Bagels,bakery,193.36,2025-11-25
+P000835,C98230,Barbara Garcia,Organic Mango,fresh produce,218.22,2025-11-25
+P000673,C49080,Linda Jones,Croissants,BAKERY,194.0,2025-11-25
+P000453,C19731,Barbara Smith,Organic Eggs,DAIRY,234.27,2025-11-24
+P000545,C54063,Jennifer Brown,Oat Milk,Dairy Alternatives,79.9,2025-11-24
+P000912,C92615,Susan Brown,Organic Eggs,DAIRY,229.16,2025-11-24
+P000234,C70247,Matthew Johnson,Organic Spinach,Fresh Produce,73.85,2025-11-23
+P000784,C59090,William User,Sourdough Bread,Bakery,155.62,2025-11-23
+P000264,C65978,Jane Account,Orange Juice,BEVERAGES,49.38,2025-11-23
+P000378,TEST019,Test Jones,Ground Beef,Meat,8.42,2025-11-23
+P000867,C59064,Susan Account,Fresh Strawberries,fresh produce,193.35,2025-11-23
+P000117,C61456,Christopher Wilson,Soy Milk,DAIRY ALTERNATIVES,89.89,2025-11-23
+P000933,C80802,David Davis,Sourdough Bread,Bakery,237.01,2025-11-23
+P000240,C33362,James Rodriguez,Sourdough Bread,Bakery,130.02,2025-11-23
+P000787,C42748,Demo Smith,Organic Mango,fresh produce,23.05,2025-11-23
+P000002,C83704,James Wilson,Organic Apples,Fresh Produce,43.27,2025-11-22
+P000249,C10552,Barbara Garcia,Orange Juice,BEVERAGES,33.23,2025-11-22
+P000792,C75806,Linda Johnson,Organic Eggs,DAIRY,92.16,2025-11-22
+P000774,C97556,Barbara Brown,Coffee Beans,beverages,11.5,2025-11-22
+P000167,C12710,Mary Johnson,Tomato Sauce,PANTRY,157.28,2025-11-22
+P000858,C42816,John Miller,Ground Beef,Meat,192.9,2025-11-21
+P000034,C65150,James Anderson,Sourdough Bread,Bakery,193.49,2025-11-21
+P000458,C19303,Susan Taylor,Orange Juice,BEVERAGES,165.56,2025-11-21
+P000263,C41153,Robert Williams,Sourdough Bread,Bakery,178.04,2025-11-21
+P000487,C34465,Daniel Jones,Rice,pantry,11.5,2025-11-21
+P000994,C47913,Jane Miller,Greek Yogurt,dairy,123.31,2025-11-20
+P000250,TEST024,Test Davis,Chicken Breast,meat,41.4,2025-11-20
+P000039,C94782,Daniel Rodriguez,Organic Eggs,DAIRY,142.44,2025-11-20
+P000540,C35554,Demo Wilson,Oat Milk,Dairy Alternatives,120.19,2025-11-20
+P000959,C10332,John Anderson,Fresh Strawberries,fresh produce,121.54,2025-11-20
+P000525,C70848,Linda Rodriguez,Tomato Sauce,PANTRY,27.56,2025-11-19
+P000109,C98758,Linda Thomas,Tomato Sauce,PANTRY,210.13,2025-11-19
+P000450,C32555,Lisa Martinez,Pasta,pantry,156.65,2025-11-19
+P000068,C92062,David Thomas,Organic Apples,Fresh Produce,152.25,2025-11-19
+P000057,C24003,David Brown,Organic Eggs,DAIRY,231.91,2025-11-18
+P000011,C12137,Robert Williams,Tomato Sauce,PANTRY,93.42,2025-11-18
+P000930,C40766,John Rodriguez,Organic Bananas,FRESH PRODUCE,179.42,2025-11-17
+P000071,C93218,Demo Williams,Sourdough Bread,Bakery,54.51,2025-11-17
+P000662,C24690,Susan Jones,Whole Wheat Bread,bakery,188.76,2025-11-17
+P000370,C18039,Jane Smith,Organic Bananas,FRESH PRODUCE,95.27,2025-11-17
+P000598,C41616,Lisa Jones,Organic Eggs,DAIRY,189.07,2025-11-17
+P000479,C72013,Susan Smith,Organic Bananas,FRESH PRODUCE,84.84,2025-11-17
+P000819,C38051,Matthew Johnson,Cheddar Cheese,Dairy,119.77,2025-11-16
+P000033,C86627,Emily Johnson,Soy Milk,DAIRY ALTERNATIVES,215.96,2025-11-16
+P000404,TEST029,Test Garcia,Ground Beef,Meat,29.97,2025-11-16
+P000429,C18807,Robert Rodriguez,Whole Wheat Bread,bakery,178.61,2025-11-16
+P000752,C12874,Patricia Johnson,Greek Yogurt,dairy,243.02,2025-11-15
+P000393,C45340,Matthew Williams,Organic Apples,Fresh Produce,247.11,2025-11-15
+P000988,C66004,Michael Garcia,Organic Bananas,FRESH PRODUCE,229.17,2025-11-15
+P000106,C11896,Emily Johnson,Coffee Beans,beverages,243.07,2025-11-15
+P000307,C73708,Andrew Account,,,108.96,2025-11-15
+P000377,C16499,Test Brown,Coffee Beans,beverages,97.74,2025-11-14
+P000929,C94309,Daniel Wilson,Oat Milk,Dairy Alternatives,7.52,2025-11-14
+P000021,C50129,David Martinez,Orange Juice,BEVERAGES,209.57,2025-11-14
+P000531,C65994,John Martinez,Tomato Sauce,PANTRY,11.5,2025-11-14
+P000135,C50220,Sarah User,Orange Juice,BEVERAGES,35.44,2025-11-14
+P000356,C37934,Barbara Brown,Organic Mango,fresh produce,122.57,2025-11-14
+P000705,C31846,Lisa Johnson,,,164.27,2025-11-14
+P000631,C50242,Robert Rodriguez,Organic Eggs,DAIRY,123.33,2025-11-14
+P000114,C23436,Robert Rodriguez,,,174.33,2025-11-14
+P000150,C28827,Demo Davis,Green Tea,Beverages,202.24,2025-11-13
+P000503,C80764,Jennifer User,Organic Mango,fresh produce,175.94,2025-11-13
+P000095,C47252,Barbara Wilson,Sourdough Bread,Bakery,45.61,2025-11-13
+P000485,C70693,Patricia Garcia,Almond Milk,dairy alternatives,161.28,2025-11-13
+P000008,,,Ground Beef,Meat,168.44,2025-11-13
+P000260,C14005,Sarah Thomas,Cheddar Cheese,Dairy,185.66,2025-11-12
+P000069,C10430,Mary Smith,Tomato Sauce,PANTRY,76.35,2025-11-12
+P000725,C77862,Mary Jones,Croissants,BAKERY,70.92,2025-11-12
+P000174,C42443,Patricia Jones,Pasta,pantry,130.38,2025-11-12
+P000035,C35227,Sarah Taylor,Organic Apples,Fresh Produce,211.04,2025-11-12
+P000656,C22748,David Davis,Organic Mango,fresh produce,217.67,2025-11-12
+P000885,C82031,William Brown,Tomato Sauce,PANTRY,112.99,2025-11-12
+P000310,C77366,Jennifer Account,Pasta,pantry,31.02,2025-11-12
+P000491,C89606,Susan User,Organic Mango,fresh produce,28.82,2025-11-12
+P000410,TEST016,Test User,Tomato Sauce,PANTRY,46.89,2025-11-11
+P000400,C36466,Sarah Garcia,Organic Spinach,Fresh Produce,153.08,2025-11-11
+P000665,C79590,Susan Rodriguez,Organic Mango,fresh produce,77.42,2025-11-11
+P000306,C48379,Mary Taylor,Organic Bananas,FRESH PRODUCE,138.84,2025-11-11
+P000425,C97508,Daniel Williams,Sourdough Bread,Bakery,151.29,2025-11-11
+P000695,C89717,Emily Taylor,Organic Apples,Fresh Produce,213.72,2025-11-11
+P000530,C42212,David Brown,Organic Bananas,FRESH PRODUCE,21.33,2025-11-11
+P000222,,,Croissants,BAKERY,54.81,2025-11-11
+P000216,TEST028,Test Rodriguez,Sourdough Bread,Bakery,45.13,2025-11-10
+P000321,,,Organic Eggs,DAIRY,190.97,2025-11-10
+P000616,C69615,William Miller,Green Tea,Beverages,215.61,2025-11-10
+P000922,C62529,Michael Jones,Pasta,pantry,146.7,2025-11-10
+P000619,C57457,Matthew User,Rice,pantry,144.59,2025-11-09
+P000231,C72506,Barbara Johnson,Almond Milk,dairy alternatives,74.67,2025-11-09
+P000080,C20991,Sarah Rodriguez,Cheddar Cheese,Dairy,45.36,2025-11-09
+P000058,C12283,Daniel Anderson,Almond Milk,dairy alternatives,93.24,2025-11-09
+P000549,C42947,Emily Taylor,Fresh Strawberries,fresh produce,139.49,2025-11-09
+P000599,C53659,John Rodriguez,Tomato Sauce,PANTRY,124.97,2025-11-09
+P000457,C21912,Robert Jones,Ground Beef,Meat,198.91,2025-11-09
+P000323,C43885,Christopher Garcia,Croissants,BAKERY,32.77,2025-11-09
+P000055,C64301,Lisa Thomas,Greek Yogurt,dairy,141.88,2025-11-09
+P000801,C19503,Barbara Smith,Coffee Beans,beverages,138.14,2025-11-08
+P000280,TEST020,Test Jones,Whole Wheat Bread,bakery,35.23,2025-11-08
+P000589,C71681,Barbara Martinez,Bagels,bakery,68.42,2025-11-08
+P000317,C22210,Emily Miller,Rice,pantry,152.3,2025-11-07
+P000629,C15901,Michael Smith,Organic Eggs,DAIRY,69.65,2025-11-07
+P000603,C91717,Lisa Martinez,Rice,pantry,158.85,2025-11-06
+P000613,C50403,Emily Johnson,Organic Apples,Fresh Produce,224.84,2025-11-06
+P000593,C11968,Michael Martinez,Organic Mango,fresh produce,102.08,2025-11-06
+P000872,C88334,Sarah Rodriguez,Oat Milk,Dairy Alternatives,157.69,2025-11-06
+P000340,C96686,Demo Taylor,Green Tea,Beverages,43.68,2025-11-06
+P000726,C68243,Emily Jones,Pasta,pantry,102.38,2025-11-06
+P000414,C39990,Andrew Smith,Salmon Fillet,MEAT,174.88,2025-11-06
+P000387,C18143,Jane Wilson,Sourdough Bread,Bakery,16.71,2025-11-06
+P000017,C80228,Christopher Williams,Salmon Fillet,MEAT,174.77,2025-11-05
+P000946,C78918,Christopher Rodriguez,Bagels,bakery,82.48,2025-11-05
+P000580,C38341,James Account,,,30.5,2025-11-05
+P000418,,,Coffee Beans,beverages,224.36,2025-11-04
+P000511,C20768,John Thomas,Pasta,pantry,70.03,2025-11-04
+P000908,C62527,Susan Garcia,Soy Milk,DAIRY ALTERNATIVES,143.46,2025-11-04
+P000394,C74899,Jane Anderson,Organic Mango,fresh produce,72.6,2025-11-04
+P000088,TEST028,Test Brown,Coffee Beans,beverages,7.28,2025-11-03
+P000424,TEST008,Test Miller,Cheddar Cheese,Dairy,32.95,2025-11-03
+P000943,C49818,Demo Rodriguez,Orange Juice,BEVERAGES,227.48,2025-11-03
+P000886,C22266,Susan Brown,Croissants,BAKERY,203.9,2025-11-03
+P000195,TEST003,Test Rodriguez,Ground Beef,Meat,8.48,2025-11-03
+P000392,C58806,Daniel Brown,Salmon Fillet,MEAT,196.06,2025-11-03
+P000275,,,Almond Milk,dairy alternatives,50.73,2025-11-03
+P000484,C76345,James Rodriguez,Rice,pantry,176.64,2025-11-02
+P000044,C60659,Lisa Williams,Bagels,bakery,,2025-11-02
+P000587,C61656,Daniel Wilson,Organic Bananas,FRESH PRODUCE,166.0,2025-11-02
+P000678,TEST021,Test Martinez,Organic Bananas,FRESH PRODUCE,48.9,2025-11-01
+P000369,C63585,Robert Account,Sourdough Bread,Bakery,196.83,2025-11-01
+P000790,C95236,Christopher Williams,Chicken Breast,meat,145.12,2025-11-01
+P000651,C31697,William Taylor,Organic Mango,fresh produce,168.79,2025-10-31
+P000521,C59796,Lisa Taylor,Organic Eggs,DAIRY,102.55,2025-10-31
+P000451,C69580,Jane Rodriguez,Coffee Beans,beverages,204.49,2025-10-31
+P000978,C11065,Emily Smith,Pasta,pantry,159.75,2025-10-31
+P000534,C61259,Daniel Anderson,Tomato Sauce,PANTRY,103.2,2025-10-31
+P000411,TEST022,Test Miller,Coffee Beans,beverages,9.07,2025-10-31
+P000758,C64905,Patricia Miller,Tomato Sauce,PANTRY,234.68,2025-10-31
+P000205,C20353,Lisa Johnson,Ground Beef,Meat,100.75,2025-10-31
+P000319,C47263,Michael Jones,Tomato Sauce,PANTRY,216.2,2025-10-31
+P000273,C91836,Daniel Rodriguez,Ground Beef,Meat,20.94,2025-10-31
+P000242,C39458,James Account,Orange Juice,BEVERAGES,154.97,2025-10-31
+P000461,TEST023,Test Thomas,Organic Apples,Fresh Produce,5.67,2025-10-30
+P000342,C11514,Test Jones,Soy Milk,DAIRY ALTERNATIVES,208.15,2025-10-30
+P000741,TEST027,Test Brown,Orange Juice,BEVERAGES,42.37,2025-10-30
+P000407,C60762,John Williams,Fresh Strawberries,fresh produce,167.12,2025-10-29
+P000049,C61430,Patricia User,Fresh Strawberries,fresh produce,18.79,2025-10-29
+P000538,C22457,Daniel Martinez,Greek Yogurt,dairy,79.81,2025-10-28
+P000509,C46243,Lisa Brown,Organic Spinach,Fresh Produce,217.44,2025-10-28
+P000543,C20217,John Davis,Green Tea,Beverages,94.83,2025-10-27
+P000157,,,Organic Spinach,Fresh Produce,22.46,2025-10-27
+P000625,C20456,Barbara Thomas,Sourdough Bread,Bakery,48.1,2025-10-27
+P000747,C12617,Emily Wilson,Organic Bananas,FRESH PRODUCE,24.46,2025-10-27
+P000474,C15248,Susan Miller,Salmon Fillet,MEAT,11.5,2025-10-27
+P000201,C46843,Demo Smith,Green Tea,Beverages,133.81,2025-10-27
+P000166,TEST012,Test Davis,Soy Milk,DAIRY ALTERNATIVES,9.79,2025-10-27
+P000497,C67525,Christopher Brown,Olive Oil,Pantry,213.53,2025-10-27
+P000452,TEST015,Test Martinez,Sourdough Bread,Bakery,40.66,2025-10-26
+P000615,C74404,John Miller,Whole Wheat Bread,bakery,90.87,2025-10-26
+P000335,C86223,Patricia User,Soy Milk,DAIRY ALTERNATIVES,11.16,2025-10-26
+P000857,C46620,Christopher Brown,Cheddar Cheese,Dairy,59.76,2025-10-26
+P000287,TEST023,Test Smith,Whole Wheat Bread,bakery,48.68,2025-10-26
+P000182,C34954,William Davis,Sourdough Bread,Bakery,188.89,2025-10-26
+P000372,C81466,James Miller,Salmon Fillet,MEAT,41.93,2025-10-26
+P000194,C84324,Sarah Martinez,Bagels,bakery,19.48,2025-10-25
+P000645,C81006,Michael User,Organic Mango,fresh produce,118.8,2025-10-25
+P000642,C88847,Linda Martinez,Coffee Beans,beverages,15.68,2025-10-25
+P000148,TEST023,Test Anderson,Soy Milk,DAIRY ALTERNATIVES,42.52,2025-10-25
+P000115,C20800,Michael Thomas,Tomato Sauce,PANTRY,165.04,2025-10-25
+P000325,C54577,William Account,Bagels,bakery,59.44,2025-10-25
+P000436,C60177,Michael Account,Coffee Beans,beverages,44.98,2025-10-25
+P000884,C96375,James Smith,Organic Apples,Fresh Produce,241.61,2025-10-25
+P000966,C16935,David User,Rice,pantry,59.05,2025-10-25
+P000108,C97238,Lisa Johnson,Whole Wheat Bread,bakery,35.15,2025-10-25
+P000355,C13596,David Rodriguez,Whole Wheat Bread,bakery,206.15,2025-10-25
+P000860,C96753,Lisa Jones,Sourdough Bread,Bakery,72.51,2025-10-24
+P000023,C18133,David User,Rice,pantry,9.06,2025-10-24
+P000795,C18216,James Johnson,Salmon Fillet,MEAT,53.16,2025-10-24
+P000277,C59048,Demo Smith,Whole Wheat Bread,bakery,200.96,2025-10-23
+P000775,C73418,Matthew Wilson,Organic Mango,fresh produce,11.5,2025-10-23
+P000689,C25693,Christopher Miller,Salmon Fillet,MEAT,245.97,2025-10-23
+P000409,C74979,Emily Rodriguez,Bagels,bakery,7.95,2025-10-22
+P000980,C23230,Patricia Account,Chicken Breast,meat,162.83,2025-10-22
+P000309,C71420,Matthew Account,Almond Milk,dairy alternatives,223.39,2025-10-22
+P000973,C98291,Susan Anderson,Greek Yogurt,dairy,62.14,2025-10-22
+P000460,TEST027,Test Anderson,Olive Oil,Pantry,28.75,2025-10-22
+P000202,C28192,Linda Thomas,Organic Spinach,Fresh Produce,241.86,2025-10-21
+P000184,C75246,Linda Davis,Fresh Strawberries,fresh produce,108.01,2025-10-21
+P000555,C71246,Andrew Rodriguez,,,118.98,2025-10-21
+P000121,C83153,Lisa Martinez,Orange Juice,BEVERAGES,44.01,2025-10-21
+P000446,C88058,Sarah Wilson,Green Tea,Beverages,33.6,2025-10-21
+P000935,C42574,Matthew Davis,Organic Apples,Fresh Produce,66.12,2025-10-21
+P000535,C78915,James Anderson,Almond Milk,dairy alternatives,131.3,2025-10-21
+P000811,C79487,Susan Anderson,Bagels,bakery,94.6,2025-10-21
+P000636,C69736,Test Miller,Pasta,pantry,70.86,2025-10-21
+P000456,C90275,William Miller,Greek Yogurt,dairy,11.5,2025-10-21
+P000094,C82250,Linda Smith,Soy Milk,DAIRY ALTERNATIVES,76.87,2025-10-20
+P000902,C74842,Jane Taylor,Greek Yogurt,dairy,111.04,2025-10-20
+P000431,C28541,Jane Wilson,Cheddar Cheese,Dairy,78.03,2025-10-20
+P000405,C39525,Susan Miller,Bagels,bakery,106.17,2025-10-20
+P000190,C77690,Christopher Davis,Soy Milk,DAIRY ALTERNATIVES,11.5,2025-10-20
+P000145,TEST009,Test Wilson,Organic Spinach,Fresh Produce,24.85,2025-10-20
+P000104,C55899,Demo User,Croissants,BAKERY,20.45,2025-10-19
+P000103,C95724,Sarah Account,Ground Beef,Meat,168.47,2025-10-19
+P000119,C47618,James Martinez,Organic Spinach,Fresh Produce,82.66,2025-10-19
+P000882,C52878,Robert Wilson,Green Tea,Beverages,61.03,2025-10-19
+P000779,C61956,Patricia Martinez,Salmon Fillet,MEAT,6.51,2025-10-19
+P000349,C12835,Daniel Brown,Coffee Beans,beverages,229.66,2025-10-18
+P000701,TEST019,Test Taylor,Almond Milk,dairy alternatives,18.63,2025-10-18
+P000742,C57205,Susan Garcia,Organic Eggs,DAIRY,68.77,2025-10-18
+P000696,C80950,Patricia Wilson,Organic Bananas,FRESH PRODUCE,213.42,2025-10-18
+P000648,C13101,Demo Thomas,Green Tea,Beverages,167.45,2025-10-18
+P000289,C61548,Andrew Anderson,Coffee Beans,beverages,155.32,2025-10-18
+P000060,C36994,Christopher Garcia,Cheddar Cheese,Dairy,35.02,2025-10-18
+P000056,TEST029,Test Account,Organic Apples,Fresh Produce,17.91,2025-10-18
+P000624,C87158,Jennifer Taylor,Organic Apples,Fresh Produce,99.04,2025-10-18
+P000870,C34806,Jane User,,,202.94,2025-10-17
+P000459,C33245,Jennifer Taylor,Green Tea,Beverages,133.05,2025-10-17
+P000834,C58014,Lisa Davis,Bagels,bakery,114.18,2025-10-17
+P000380,C48662,Daniel Smith,Rice,pantry,116.84,2025-10-17
+P000745,TEST001,Test Davis,Cheddar Cheese,Dairy,45.72,2025-10-16
+P000427,C70966,James Jones,Organic Spinach,Fresh Produce,146.25,2025-10-16
+P000950,C83397,Jennifer Thomas,Fresh Strawberries,fresh produce,11.5,2025-10-16
+P000328,,,Green Tea,Beverages,211.49,2025-10-16
+P000111,C16148,Emily Jones,Ground Beef,Meat,6.46,2025-10-15
+P000840,C22318,Linda Rodriguez,Pasta,pantry,203.31,2025-10-15
+P000760,C27559,Susan Smith,Ground Beef,Meat,144.87,2025-10-15
+P000733,C34032,Mary Anderson,Tomato Sauce,PANTRY,142.56,2025-10-15
+P000215,C72801,Demo Anderson,Whole Wheat Bread,bakery,174.68,2025-10-15
+P000796,C78631,Jane Jones,Chicken Breast,meat,67.25,2025-10-15
+P000496,C63460,Michael Account,Salmon Fillet,MEAT,88.95,2025-10-14
+P000345,C54049,Jane Thomas,Fresh Strawberries,fresh produce,242.49,2025-10-14
+P000500,C28757,Sarah Taylor,Organic Eggs,DAIRY,121.36,2025-10-14
+P000661,C35622,Test Account,Pasta,pantry,198.59,2025-10-14
+P000492,C52932,Patricia Smith,Cheddar Cheese,Dairy,173.77,2025-10-14
+P000012,C63178,Barbara Johnson,Tomato Sauce,PANTRY,74.77,2025-10-13
+P000490,C22020,Jane Smith,Soy Milk,DAIRY ALTERNATIVES,188.6,2025-10-13
+P000772,C61682,Patricia Account,Ground Beef,Meat,92.48,2025-10-13
+P000468,C36360,John Jones,Almond Milk,dairy alternatives,11.5,2025-10-13
+P000227,C55576,Andrew Martinez,Organic Eggs,DAIRY,247.01,2025-10-13
+P000032,C89921,Test Smith,Olive Oil,Pantry,153.85,2025-10-13
+P000594,C26248,William Johnson,Whole Wheat Bread,bakery,73.34,2025-10-12
+P000098,C23032,Linda Davis,Tomato Sauce,PANTRY,199.74,2025-10-12
+P000899,C53952,Daniel Rodriguez,Coffee Beans,beverages,184.79,2025-10-12
+P000686,C24950,Daniel Account,Pasta,pantry,124.59,2025-10-12
+P000982,C94264,Patricia Taylor,Bagels,bakery,40.19,2025-10-12
+P000702,C57176,Linda Martinez,Cheddar Cheese,Dairy,17.85,2025-10-12
+P000316,C45299,Emily Miller,Oat Milk,Dairy Alternatives,21.62,2025-10-12
+P000993,C16411,Emily Garcia,Ground Beef,Meat,133.98,2025-10-11
+P000373,,,Fresh Strawberries,fresh produce,131.42,2025-10-11
+P000031,C85752,Linda Wilson,Greek Yogurt,dairy,228.97,2025-10-11
+P000986,C98628,Jane Thomas,Organic Bananas,FRESH PRODUCE,45.94,2025-10-10
+P000143,C49648,Linda Williams,Whole Wheat Bread,bakery,118.36,2025-10-10
+P000026,C39478,Andrew Wilson,Organic Bananas,FRESH PRODUCE,70.84,2025-10-10
+P000279,C69615,Sarah Brown,Green Tea,Beverages,61.14,2025-10-10
+P000533,C66985,Barbara Account,Organic Eggs,DAIRY,130.39,2025-10-10
+P000856,C90032,Michael Miller,Oat Milk,Dairy Alternatives,84.43,2025-10-10
+P000383,C46442,Patricia Brown,Olive Oil,Pantry,190.99,2025-10-10
+P000170,C86482,Demo Rodriguez,Tomato Sauce,PANTRY,123.44,2025-10-09
+P000524,C65201,Barbara Miller,Salmon Fillet,MEAT,128.1,2025-10-09
+P000261,C78571,Jennifer Martinez,Orange Juice,BEVERAGES,193.65,2025-10-09
+P000233,C80918,Robert Johnson,Salmon Fillet,MEAT,241.51,2025-10-09
+P000113,C64355,Linda Brown,Greek Yogurt,dairy,22.01,2025-10-09
+P000804,C92171,Lisa Taylor,Bagels,bakery,11.5,2025-10-08
+P000357,C60365,Emily Johnson,Bagels,bakery,198.95,2025-10-08
+P000991,C32031,David Martinez,Oat Milk,Dairy Alternatives,154.05,2025-10-08
+P000855,C28310,Lisa Rodriguez,Green Tea,Beverages,55.12,2025-10-08
+P000990,C26094,Andrew Miller,Greek Yogurt,dairy,200.96,2025-10-07
+P000258,C93960,Jane Taylor,Green Tea,Beverages,24.35,2025-10-07
+P000163,C35128,James Taylor,Tomato Sauce,PANTRY,163.62,2025-10-07
+P000020,C97655,Lisa Williams,Tomato Sauce,PANTRY,18.05,2025-10-07
+P000265,TEST015,Test Johnson,Almond Milk,dairy alternatives,9.2,2025-10-07
+P000928,C98638,Jennifer Taylor,Orange Juice,BEVERAGES,200.35,2025-10-06
+P000712,C29868,Christopher Garcia,Soy Milk,DAIRY ALTERNATIVES,12.61,2025-10-06
+P000721,C98709,Emily Account,Oat Milk,Dairy Alternatives,246.89,2025-10-05
+P000849,C72651,Daniel Martinez,Oat Milk,Dairy Alternatives,11.5,2025-10-05
+P000561,TEST006,Test Brown,Organic Spinach,Fresh Produce,25.27,2025-10-05
+P000777,C89940,Matthew Miller,,,107.82,2025-10-04
+P000948,C94122,Daniel Wilson,Coffee Beans,beverages,184.56,2025-10-04
+P000046,TEST017,Test Garcia,Orange Juice,BEVERAGES,38.15,2025-10-04
+P000276,C43397,Barbara Anderson,Bagels,bakery,216.38,2025-10-04
+P000751,TEST019,Test Miller,Croissants,BAKERY,5.69,2025-10-04
+P000569,C49552,Robert Garcia,Green Tea,Beverages,235.0,2025-10-04
+P000722,C12439,David Williams,Coffee Beans,beverages,119.54,2025-10-04
+P000290,C57520,James Anderson,Coffee Beans,beverages,154.82,2025-10-04
+P000388,C63775,Mary Rodriguez,Greek Yogurt,dairy,188.3,2025-10-03
+P000947,C43281,John Smith,Croissants,BAKERY,140.45,2025-10-03
+P000200,C40754,Christopher Martinez,Oat Milk,Dairy Alternatives,135.95,2025-10-03
+P000939,C49510,Jennifer Taylor,Tomato Sauce,PANTRY,162.98,2025-10-03
+P000041,C66114,Demo Account,Green Tea,Beverages,36.44,2025-10-03
+P000996,C28877,Jane Davis,Almond Milk,dairy alternatives,58.91,2025-10-03
+P000720,C27500,Lisa Smith,Organic Apples,Fresh Produce,165.97,2025-10-03
+P000070,C89955,James User,Fresh Strawberries,fresh produce,184.42,2025-10-03
+P000341,C34324,Barbara Anderson,Organic Apples,Fresh Produce,83.15,2025-10-02
+P000230,,,Pasta,pantry,43.9,2025-10-02
+P000178,C85509,Patricia Garcia,Oat Milk,Dairy Alternatives,59.45,2025-10-02
+P000013,C92574,Lisa Account,Whole Wheat Bread,bakery,41.82,2025-10-02
+P000637,C47817,Matthew Miller,Organic Spinach,Fresh Produce,62.71,2025-10-01
+P000807,C16317,David Miller,Oat Milk,Dairy Alternatives,13.26,2025-10-01
+P000536,C12610,David Miller,Chicken Breast,meat,247.21,2025-10-01
+P000255,C20765,Jennifer Johnson,Greek Yogurt,dairy,119.22,2025-10-01
+P000889,C40606,Sarah Taylor,Organic Bananas,FRESH PRODUCE,112.02,2025-10-01
+P000417,C94875,William Wilson,Organic Eggs,DAIRY,179.97,2025-09-30
+P000798,C11288,Lisa Martinez,Organic Spinach,Fresh Produce,,2025-09-30
+P000025,C52579,Matthew Jones,Oat Milk,Dairy Alternatives,127.03,2025-09-30
+P000736,TEST012,Test Account,Rice,pantry,40.77,2025-09-30
+P000082,TEST022,Test Miller,Almond Milk,dairy alternatives,19.01,2025-09-29
+P000336,TEST010,Test Jones,Salmon Fillet,MEAT,36.25,2025-09-29
+P000391,C95683,Jennifer Williams,Organic Mango,fresh produce,179.16,2025-09-28
+P000862,C45117,Lisa Thomas,Fresh Strawberries,fresh produce,149.75,2025-09-28
+P000259,C58787,James Account,Pasta,pantry,232.74,2025-09-28
+P000213,TEST018,Test Jones,Fresh Strawberries,fresh produce,11.54,2025-09-28
+P000498,TEST022,Test Johnson,Sourdough Bread,Bakery,39.58,2025-09-28
+P000652,C87490,Test Williams,Organic Apples,Fresh Produce,146.03,2025-09-28
+P000133,TEST030,Test User,Cheddar Cheese,Dairy,12.74,2025-09-27
+P000640,C77107,John Jones,,,174.77,2025-09-27
+P000067,C10105,Susan Rodriguez,Cheddar Cheese,Dairy,244.22,2025-09-27
+P000018,TEST011,Test Rodriguez,Chicken Breast,meat,6.49,2025-09-26
+P000241,C96738,Lisa Account,,,178.09,2025-09-26
+P000176,C54736,James Miller,Rice,pantry,100.34,2025-09-26
+P000528,C53691,James Williams,Orange Juice,BEVERAGES,134.44,2025-09-26
+P000501,C80857,Test Brown,Organic Apples,Fresh Produce,11.5,2025-09-26
+P000977,C42303,Emily Anderson,Olive Oil,Pantry,142.9,2025-09-25
+P000970,C73943,Linda Johnson,Sourdough Bread,Bakery,5.98,2025-09-25
+P000550,C39026,David Martinez,Organic Eggs,DAIRY,29.12,2025-09-25
+P000333,C79534,Barbara Wilson,Whole Wheat Bread,bakery,162.79,2025-09-25
+P000898,C95403,Susan Williams,Oat Milk,Dairy Alternatives,102.91,2025-09-25
+P000830,C12585,Jennifer Taylor,Organic Eggs,DAIRY,54.71,2025-09-25
+P000832,C10374,Daniel Miller,Fresh Strawberries,fresh produce,27.65,2025-09-25
+P000814,C91330,James Miller,Rice,pantry,11.5,2025-09-24
+P000987,C36779,Matthew Taylor,Olive Oil,Pantry,,2025-09-24
+P000081,C18509,John Brown,Pasta,pantry,100.84,2025-09-24
+P000983,C23137,Mary Rodriguez,Fresh Strawberries,fresh produce,71.65,2025-09-24
+P000839,C18818,Robert Martinez,Coffee Beans,beverages,129.43,2025-09-24
+P000505,C16139,Lisa Wilson,Organic Apples,Fresh Produce,98.07,2025-09-24
+P000708,C54289,Matthew Johnson,Ground Beef,Meat,200.46,2025-09-24
+P000601,C95947,Demo Anderson,Tomato Sauce,PANTRY,219.08,2025-09-24
+P000649,C71176,James Jones,Coffee Beans,beverages,110.43,2025-09-24
+P000376,C81732,Linda Smith,Rice,pantry,12.24,2025-09-24
+P000854,C79392,Robert Martinez,Olive Oil,Pantry,221.58,2025-09-23
+P000958,C18865,Robert Garcia,Coffee Beans,beverages,153.5,2025-09-23
+P000473,C22774,Lisa Miller,Salmon Fillet,MEAT,120.55,2025-09-23
+P000847,C85642,John Taylor,Green Tea,Beverages,108.74,2025-09-23
+P000556,C37784,Matthew Anderson,Bagels,bakery,205.57,2025-09-23
+P000568,C44358,Lisa User,Organic Spinach,Fresh Produce,91.07,2025-09-23
+P000010,C82640,Christopher Williams,Green Tea,Beverages,116.36,2025-09-23
+P000676,C89726,Susan Smith,Soy Milk,DAIRY ALTERNATIVES,142.35,2025-09-23
+P000643,C58585,Robert Smith,Pasta,pantry,73.11,2025-09-23
+P000891,C52877,Emily Johnson,Greek Yogurt,dairy,87.14,2025-09-23
+P000579,C60980,William Anderson,Croissants,BAKERY,223.48,2025-09-22
+P000961,C93635,Andrew Williams,Oat Milk,Dairy Alternatives,106.78,2025-09-22
+P000826,C37152,Lisa User,Orange Juice,BEVERAGES,142.81,2025-09-22
+P000888,C24569,Christopher Martinez,Organic Mango,fresh produce,98.7,2025-09-22
+P000406,C99611,Barbara Williams,Rice,pantry,173.22,2025-09-21
+P000551,C14391,Christopher Account,Greek Yogurt,dairy,11.5,2025-09-21
+P000272,C32682,James Rodriguez,Green Tea,Beverages,,2025-09-21
+P000527,C22807,Matthew Smith,Croissants,BAKERY,11.5,2025-09-21
+P000618,C56115,Linda Jones,Organic Spinach,Fresh Produce,239.4,2025-09-21
+P000797,C47030,Patricia Account,Bagels,bakery,153.29,2025-09-21
+P000379,,,Chicken Breast,meat,187.83,2025-09-21
+P000895,C80780,James Thomas,Salmon Fillet,MEAT,242.6,2025-09-20
+P000126,C78193,Lisa Thomas,Green Tea,Beverages,,2025-09-20
+P000510,C20690,David Rodriguez,Ground Beef,Meat,142.45,2025-09-20
+P000770,C72854,James Johnson,Croissants,BAKERY,150.68,2025-09-20
+P000352,TEST029,Test Jones,Sourdough Bread,Bakery,15.17,2025-09-20
+P000612,C96685,Linda Davis,Chicken Breast,meat,177.41,2025-09-20
+P000449,C80331,Barbara Brown,Almond Milk,dairy alternatives,7.84,2025-09-19
+P000953,C75601,John Smith,Chicken Breast,meat,87.62,2025-09-19
+P000107,C41236,Barbara Account,Green Tea,Beverages,193.08,2025-09-19
+P000788,C74513,Susan Jones,Organic Spinach,Fresh Produce,11.5,2025-09-19
+P000022,C54266,Matthew Brown,Tomato Sauce,PANTRY,45.02,2025-09-19
+P000596,C61840,Jennifer Martinez,Sourdough Bread,Bakery,117.2,2025-09-19
+P000916,C67021,John User,Coffee Beans,beverages,154.32,2025-09-19
+P000960,TEST008,Test Martinez,Bagels,bakery,35.81,2025-09-18
+P000324,C28166,Barbara Davis,Whole Wheat Bread,bakery,121.7,2025-09-18
+P000984,,,Almond Milk,dairy alternatives,68.1,2025-09-18
+P000343,C48006,David Williams,Greek Yogurt,dairy,91.3,2025-09-18
+P000322,C53732,Jane Taylor,Soy Milk,DAIRY ALTERNATIVES,169.01,2025-09-18
+P000880,C52550,Patricia Miller,Greek Yogurt,dairy,79.11,2025-09-18
+P000805,C50947,Sarah Account,Soy Milk,DAIRY ALTERNATIVES,181.84,2025-09-18
+P000836,C17862,Jennifer Davis,Whole Wheat Bread,bakery,94.9,2025-09-18
+P000517,C56928,John Taylor,Tomato Sauce,PANTRY,85.62,2025-09-17
+P000668,C74040,Andrew Jones,Organic Mango,fresh produce,17.64,2025-09-17
+P000750,C89783,Test Taylor,Olive Oil,Pantry,226.61,2025-09-17
+P000320,C65621,David Thomas,Almond Milk,dairy alternatives,,2025-09-17
+P000003,C42134,Sarah Smith,Cheddar Cheese,Dairy,194.3,2025-09-17
+P000681,C34570,Barbara Davis,Almond Milk,dairy alternatives,194.85,2025-09-16
+P000152,C95499,John Davis,Chicken Breast,meat,59.45,2025-09-16
+P000385,TEST010,Test Thomas,Greek Yogurt,dairy,27.01,2025-09-16
+P000447,TEST021,Test Williams,Cheddar Cheese,Dairy,11.5,2025-09-16
+P000136,C12955,Susan Account,Almond Milk,dairy alternatives,110.56,2025-09-16
+P000591,TEST010,Test Account,Organic Bananas,FRESH PRODUCE,33.08,2025-09-15
+P000092,C63867,Sarah Williams,Organic Mango,fresh produce,223.01,2025-09-15
+P000605,C19175,Jennifer Rodriguez,Salmon Fillet,MEAT,11.5,2025-09-15
+P000920,C33197,David Taylor,Greek Yogurt,dairy,185.08,2025-09-15
+P000999,TEST003,Test Anderson,Cheddar Cheese,Dairy,31.78,2025-09-14
+P000937,C82059,Linda Williams,Tomato Sauce,PANTRY,85.43,2025-09-14
+P000907,C23851,Sarah Brown,Organic Bananas,FRESH PRODUCE,184.26,2025-09-14
+P000859,C11488,Linda Jones,Pasta,pantry,11.5,2025-09-14
+P000348,C43230,James Rodriguez,Rice,pantry,43.83,2025-09-14
+P000495,C23140,Matthew Martinez,Bagels,bakery,91.25,2025-09-14
+P000873,C74386,William Williams,Chicken Breast,meat,48.61,2025-09-14
+P000123,C48460,Michael Taylor,Organic Eggs,DAIRY,245.89,2025-09-13
+P000641,C71811,Daniel Thomas,Orange Juice,BEVERAGES,85.04,2025-09-13
+P000267,C19296,Mary Wilson,Ground Beef,Meat,,2025-09-13
+P000365,C87435,Linda Jones,Pasta,pantry,180.01,2025-09-13
+P000203,C25911,William Jones,Croissants,BAKERY,24.94,2025-09-13
+P000173,C53062,John Miller,Tomato Sauce,PANTRY,60.15,2025-09-12
+P000650,C20565,Daniel Miller,Coffee Beans,beverages,138.45,2025-09-12
+P000900,TEST003,Test Rodriguez,Soy Milk,DAIRY ALTERNATIVES,11.5,2025-09-12
+P000892,C97422,Barbara Taylor,Orange Juice,BEVERAGES,152.92,2025-09-12
+P000252,C90096,Michael Williams,Organic Mango,fresh produce,139.55,2025-09-12
+P000585,C23286,Michael Rodriguez,Oat Milk,Dairy Alternatives,84.93,2025-09-12
+P000508,C18374,Robert Jones,Organic Mango,fresh produce,102.96,2025-09-11
+P000269,C59200,William Johnson,Fresh Strawberries,fresh produce,34.15,2025-09-11
+P000800,C67187,Matthew Thomas,Bagels,bakery,33.82,2025-09-11
+P000851,C51653,Robert Martinez,Organic Apples,Fresh Produce,163.26,2025-09-11
+P000075,C43403,Mary Jones,Bagels,bakery,105.04,2025-09-11
+P000481,C32468,Jennifer Davis,Orange Juice,BEVERAGES,42.51,2025-09-10
+P000945,C38306,Andrew Williams,Organic Bananas,FRESH PRODUCE,28.5,2025-09-10
+P000160,C66101,Lisa Brown,Ground Beef,Meat,11.5,2025-09-10
+P000299,C12289,John Account,Olive Oil,Pantry,83.83,2025-09-09
+P000516,C27479,Mary Garcia,Salmon Fillet,MEAT,207.74,2025-09-09
+P000245,C33265,Linda Anderson,Organic Spinach,Fresh Produce,240.43,2025-09-09
+P000909,C62414,Jane Account,Soy Milk,DAIRY ALTERNATIVES,103.47,2025-09-09
+P000609,C57082,Michael Jones,Ground Beef,Meat,233.0,2025-09-09
+P000778,C11859,David Miller,Organic Apples,Fresh Produce,69.56,2025-09-09
+P000710,C36254,Emily Anderson,Bagels,bakery,160.31,2025-09-08
+P000239,C57724,Susan Johnson,Fresh Strawberries,fresh produce,161.45,2025-09-08
+P000816,C32547,James Smith,Coffee Beans,beverages,212.53,2025-09-08
+P000426,C74622,Jane Anderson,Salmon Fillet,MEAT,126.79,2025-09-07
+P000620,C83183,Demo Rodriguez,Olive Oil,Pantry,132.37,2025-09-07
+P000979,TEST013,Test Davis,Chicken Breast,meat,38.07,2025-09-07
+P000931,C70072,Michael Davis,Organic Bananas,FRESH PRODUCE,163.09,2025-09-07
+P000502,C79944,Lisa Davis,Sourdough Bread,Bakery,11.5,2025-09-07
+P000590,C64238,Michael Johnson,Soy Milk,DAIRY ALTERNATIVES,229.57,2025-09-07
+P000633,,,Bagels,bakery,13.69,2025-09-07
+P000076,C82576,Emily Brown,Oat Milk,Dairy Alternatives,74.57,2025-09-06
+P000924,C18459,David Williams,Rice,pantry,180.1,2025-09-06
+P000883,,,Soy Milk,DAIRY ALTERNATIVES,19.46,2025-09-06
+P000386,C70222,James Taylor,Whole Wheat Bread,bakery,130.94,2025-09-06
+P000179,C86425,Demo Johnson,Whole Wheat Bread,bakery,190.69,2025-09-06
+P000144,TEST018,Test Martinez,Fresh Strawberries,fresh produce,39.23,2025-09-06
+P000421,C13565,Jane Miller,Fresh Strawberries,fresh produce,159.7,2025-09-06
+P000583,TEST001,Test Account,Rice,pantry,17.22,2025-09-05
+P000773,C85856,Demo Brown,Olive Oil,Pantry,92.31,2025-09-05
+P000089,C71931,Susan Taylor,Oat Milk,Dairy Alternatives,166.83,2025-09-05
+P000172,C67002,Jane Anderson,Greek Yogurt,dairy,171.35,2025-09-05
+P000623,C89737,Jane Miller,Organic Bananas,FRESH PRODUCE,166.39,2025-09-04
+P000724,C78396,William Martinez,Pasta,pantry,242.33,2025-09-04
+P000634,C80037,Linda Anderson,Green Tea,Beverages,73.02,2025-09-04
+P000981,C33420,Andrew Johnson,Organic Apples,Fresh Produce,74.78,2025-09-04
+P000007,C93723,Matthew Wilson,Organic Mango,fresh produce,101.96,2025-09-04
+P000771,C25329,William Miller,Bagels,bakery,172.55,2025-09-04
+P000875,C92221,Patricia Brown,Coffee Beans,beverages,120.3,2025-09-04
+P000465,C54190,Daniel Taylor,Fresh Strawberries,fresh produce,245.37,2025-09-03
+P000270,C16934,Lisa Jones,Greek Yogurt,dairy,11.5,2025-09-03
+P000512,C18174,David Williams,Fresh Strawberries,fresh produce,170.24,2025-09-03
+P000101,C28836,Mary Johnson,Organic Spinach,Fresh Produce,40.2,2025-09-03
+P000694,C96809,Emily Anderson,Croissants,BAKERY,140.34,2025-09-03
+P000226,C20731,John Wilson,Rice,pantry,100.42,2025-09-03
+P000353,C42380,Susan Williams,Coffee Beans,beverages,235.45,2025-09-03
+P000693,C19200,Mary Garcia,Tomato Sauce,PANTRY,142.23,2025-09-02
+P000810,C98269,David Wilson,Greek Yogurt,dairy,188.65,2025-09-01
+P000504,C68545,Michael Johnson,Almond Milk,dairy alternatives,103.78,2025-09-01
+P000828,C14882,Demo Davis,Croissants,BAKERY,237.34,2025-09-01
+P000764,TEST028,Test Williams,Orange Juice,BEVERAGES,39.08,2025-08-31
+P000096,TEST004,Test Account,Soy Milk,DAIRY ALTERNATIVES,38.95,2025-08-31
+P000475,C79431,John Taylor,Croissants,BAKERY,237.25,2025-08-31
+P000698,C12331,John Wilson,Green Tea,Beverages,155.17,2025-08-31
+P000131,C13374,Sarah Garcia,Orange Juice,BEVERAGES,85.92,2025-08-30
+P000463,C14841,Jane Williams,Sourdough Bread,Bakery,81.64,2025-08-30
+P000284,C93846,Matthew Rodriguez,Pasta,pantry,136.1,2025-08-29
+P000206,C92702,Jane Rodriguez,Croissants,BAKERY,76.31,2025-08-29
+P000910,TEST029,Test Garcia,Green Tea,Beverages,41.94,2025-08-29
+P000196,,,Fresh Strawberries,fresh produce,35.07,2025-08-29
+P000402,C14870,Emily Jones,Tomato Sauce,PANTRY,218.51,2025-08-29
+P000954,C58434,Andrew Brown,Ground Beef,Meat,168.02,2025-08-29
+P000053,C67103,Jennifer Garcia,Almond Milk,dairy alternatives,31.72,2025-08-29
+P000709,C12708,Susan Martinez,Fresh Strawberries,fresh produce,16.76,2025-08-29
+P000519,C58185,Susan Brown,Organic Eggs,DAIRY,118.85,2025-08-29
+P000975,C48789,Matthew Anderson,Chicken Breast,meat,5.87,2025-08-28
+P000064,C40819,Patricia Wilson,Rice,pantry,39.17,2025-08-28
+P000574,C77220,Linda Miller,Chicken Breast,meat,70.05,2025-08-28
+P000137,C84645,David Miller,Croissants,BAKERY,77.64,2025-08-28
+P000432,C75241,Emily Garcia,Rice,pantry,73.17,2025-08-28
+P000087,TEST002,Test Martinez,Coffee Beans,beverages,6.41,2025-08-28
+P000597,C28927,Mary Wilson,Rice,pantry,172.42,2025-08-28
+P000311,TEST019,Test Rodriguez,Organic Apples,Fresh Produce,11.5,2025-08-28
+P000644,C92811,William Jones,Ground Beef,Meat,31.24,2025-08-28
+P000679,C16206,Patricia Garcia,Greek Yogurt,dairy,234.11,2025-08-28
+P000470,C64989,John Account,Salmon Fillet,MEAT,246.65,2025-08-27
+P000382,C45473,Mary Williams,Ground Beef,Meat,247.25,2025-08-27
+P000685,C67136,Linda Brown,Bagels,bakery,130.4,2025-08-27
+P000396,C12028,Jennifer User,Almond Milk,dairy alternatives,125.6,2025-08-27
+P000489,C99313,Mary User,Ground Beef,Meat,201.11,2025-08-27
+P000548,C43127,Barbara Martinez,Chicken Breast,meat,17.45,2025-08-27
+P000019,C55661,John Garcia,Cheddar Cheese,Dairy,19.8,2025-08-27
+P000989,C72312,James Account,Soy Milk,DAIRY ALTERNATIVES,183.9,2025-08-26
+P000783,C97065,Test Account,Sourdough Bread,Bakery,221.1,2025-08-26
+P000292,C30828,Susan Smith,Green Tea,Beverages,245.91,2025-08-26
+P000547,C72749,Test Williams,Green Tea,Beverages,245.61,2025-08-26
+P000334,C93911,Linda Smith,Pasta,pantry,162.85,2025-08-26
+P000955,C60106,Test Smith,Sourdough Bread,Bakery,161.52,2025-08-25
+P000271,C51980,Patricia Brown,Almond Milk,dairy alternatives,17.28,2025-08-25
+P000204,,,Organic Spinach,Fresh Produce,81.7,2025-08-25
+P000731,C13072,Jane Anderson,Fresh Strawberries,fresh produce,41.94,2025-08-24
+P000444,C78087,Emily Jones,Ground Beef,Meat,59.59,2025-08-24
+P000189,TEST003,Test Rodriguez,Organic Bananas,FRESH PRODUCE,39.74,2025-08-23
+P000177,C18455,Barbara Martinez,Tomato Sauce,PANTRY,194.53,2025-08-23
+P000298,C27622,Andrew Miller,Bagels,bakery,120.84,2025-08-23
+P000180,C70043,Emily Smith,Chicken Breast,meat,8.52,2025-08-23
+P000759,C24482,Jane Miller,Pasta,pantry,190.73,2025-08-23
+P000789,C56909,Michael Brown,Chicken Breast,meat,219.56,2025-08-22
+P000437,TEST025,Test Thomas,Orange Juice,BEVERAGES,17.95,2025-08-22
+P000303,C47208,Lisa Wilson,Organic Bananas,FRESH PRODUCE,36.83,2025-08-22
+P000192,C23215,Linda Taylor,Sourdough Bread,Bakery,132.74,2025-08-21
+P000976,C18225,William Brown,Bagels,bakery,106.13,2025-08-21
+P000761,C47317,Andrew Miller,Oat Milk,Dairy Alternatives,203.41,2025-08-21
+P000151,C43865,Andrew Anderson,Orange Juice,BEVERAGES,11.5,2025-08-21
+P000753,C99501,Christopher Anderson,Almond Milk,dairy alternatives,157.6,2025-08-21
+P000887,C73161,Linda Brown,Fresh Strawberries,fresh produce,180.76,2025-08-21
+P000247,C97306,Test Thomas,,,177.75,2025-08-21
+P000680,C88850,Emily Garcia,Greek Yogurt,dairy,11.5,2025-08-21
+P000581,TEST018,Test Anderson,Organic Spinach,Fresh Produce,39.02,2025-08-21
+P000915,C44264,Linda Martinez,Greek Yogurt,dairy,161.52,2025-08-20
+P000518,C28266,Robert Brown,Olive Oil,Pantry,11.5,2025-08-20
+P000038,C49126,Emily User,Pasta,pantry,192.33,2025-08-20
+P000091,C94405,David Martinez,Soy Milk,DAIRY ALTERNATIVES,129.48,2025-08-20
+P000719,C16611,William Rodriguez,Orange Juice,BEVERAGES,23.76,2025-08-20
+P000221,C75528,Demo Thomas,Organic Apples,Fresh Produce,192.12,2025-08-20
+P000016,C18206,Matthew Anderson,Coffee Beans,beverages,25.83,
+P000078,C67795,Christopher Anderson,Rice,pantry,48.34,
+P000122,C53361,Linda User,Organic Eggs,DAIRY,202.64,
+P000125,C76746,Daniel Rodriguez,Olive Oil,Pantry,61.82,
+P000175,C10718,Michael Davis,Rice,pantry,43.36,
+P000243,C74742,Linda Johnson,Pasta,pantry,155.55,
+P000274,C36332,Demo Rodriguez,Cheddar Cheese,Dairy,43.22,
+P000308,C19734,Christopher Account,Almond Milk,dairy alternatives,58.0,
+P000327,C39671,Matthew Davis,Organic Apples,Fresh Produce,146.63,
+P000344,C37110,Susan Taylor,Green Tea,Beverages,192.51,
+P000384,C34216,David Account,,,196.3,
+P000413,C29092,Christopher Wilson,Organic Spinach,Fresh Produce,14.97,
+P000435,C48283,David Miller,Organic Bananas,FRESH PRODUCE,127.8,
+P000455,TEST011,Test Anderson,Organic Eggs,DAIRY,29.75,
+P000552,C68408,Daniel Smith,Ground Beef,Meat,11.5,
+P000584,C74801,Christopher Davis,Sourdough Bread,Bakery,22.7,
+P000606,C80578,William User,Orange Juice,BEVERAGES,11.5,
+P000877,TEST002,Test Jones,Croissants,BAKERY,49.95,
+P000911,C85949,Michael Garcia,Rice,pantry,79.6,
+P000963,C50108,Michael Jones,Fresh Strawberries,fresh produce,62.33,
