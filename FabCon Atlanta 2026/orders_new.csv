@@ -1,0 +1,201 @@
+order_id,customer_id,product_id,product_info,shipping_info,order_date,quantity,unit_price,discount_pct,amount,status,region,channel,payment_method,updated_at
+ORD-001118,CUST-0197,PROD-0081,Books & Media|Fiction|Shadow Protocol,Evri|TRK947549530,2025-01-12,4,15.19,20,48.61,Shipped,Europe,Mobile App,Credit Card,2025-01-13 06:00:00
+ORD-000186,CUST-0190,PROD-0022,Electronics|Cameras|Fujifilm X-T5,Royal Mail|DEL820762108,2024-10-13,1,1731.82,0,1731.82,Completed,Europe,Web,Bank Transfer,2025-01-08 20:00:00
+ORD-001064,CUST-0252,PROD-0085,Books & Media|Non-Fiction|Future Minds,GLS|DEL245797792,2024-12-30,3,24.05,0,72.15,Shipped,Asia Pacific,Partner API,Credit Card,2024-12-31 18:00:00
+ORD-000406,CUST-0057,PROD-0064,Sports & Outdoors|Fitness|Pull-up Bar Doorframe,USPS|SHP409676308,2024-09-12,2,48.6,0,97.2,Cancelled,Middle East & Africa,Mobile App,Crypto,2024-12-19 12:00:00
+ORD-000275,CUST-0262,PROD-0005,Electronics|Smartphones|Sony Xperia 1 VI,Evri|DEL510568162,2024-04-29,5,1326.27,0,6631.35,Cancelled,North America,Web,PayPal,2025-01-09 08:00:00
+ORD-001016,CUST-0116,PROD-0084,Books & Media|Non-Fiction|The Art of Deep Focus,GLS|PKG315956412,2025-01-08,2,17.17,10,30.91,Completed,Middle East & Africa,Mobile App,Credit Card,2025-01-09 09:00:00
+ORD-001036,CUST-0074,PROD-0006,Electronics|Laptops|MacBook Pro 14,UPS|DEL354292725,2024-12-30,4,1834.47,20,5870.3,Completed,Europe,Partner API,Credit Card,2024-12-30 18:00:00
+ORD-001040,CUST-0293,PROD-0015,Electronics|Headphones|Sony WH-1000XM5,DPD|SHP854118769,2024-12-13,3,331.36,10,894.67,Pending,North America,Mobile App,Bank Transfer,2024-12-13 14:00:00
+ORD-001105,CUST-0173,PROD-0092,Books & Media|Comics|Steel City Chronicles,UPS|PKG193287387,2024-12-28,3,22.55,20,54.12,Pending,Europe,Partner API,Credit Card,2024-12-28 23:00:00
+ORD-000258,CUST-0237,PROD-0009,Electronics|Laptops|HP Spectre x360,TNT Express|DEL875789582,2024-02-13,3,1406.81,5,4009.41,Cancelled,North America,Mobile App,Crypto,2025-01-09 04:00:00
+ORD-001126,CUST-0079,PROD-0075,Sports & Outdoors|Water Sports|Snorkel Set Premium,TNT Express|DEL120251610,2025-01-20,3,77.77,15,198.31,Shipped,Europe,Mobile App,PayPal,2025-01-21 00:00:00
+ORD-001038,CUST-0035,PROD-0036,Clothing|Kids' Apparel|Waterproof Raincoat,DPD|TRK581709225,2024-12-22,1,75.52,15,64.19,Shipped,North America,Web,PayPal,2024-12-22 04:00:00
+ORD-001117,CUST-0087,PROD-0036,Clothing|Kids' Apparel|Waterproof Raincoat,GLS|TRK115816735,2024-12-17,3,69.49,20,166.78,Pending,Latin America,Web,Credit Card,2024-12-17 09:00:00
+ORD-001017,CUST-0011,PROD-0046,Home & Garden|Furniture|Standing Desk 140cm,USPS|SHP860474498,2025-01-30,4,548.08,0,2192.32,Pending,Europe,Partner API,Bank Transfer,2025-01-31 18:00:00
+ORD-000101,CUST-0078,PROD-0078,Books & Media|Fiction|The Last Algorithm,Evri|PKG735408331,2024-08-16,3,17.18,0,51.54,Completed,Europe,Mobile App,Credit Card,2024-12-28 14:00:00
+ORD-000327,CUST-0053,PROD-0086,Books & Media|Non-Fiction|The Creator Economy,TNT Express|DEL858556609,2024-09-14,5,19.39,20,77.56,Cancelled,North America,Web,Bank Transfer,2024-12-15 08:00:00
+ORD-001070,CUST-0200,PROD-0014,Electronics|Tablets|Amazon Fire Max 11,FedEx|DEL262160092,2025-01-25,5,223.88,0,1119.4,Shipped,North America,Mobile App,PayPal,2025-01-25 12:00:00
+ORD-001095,CUST-0114,PROD-0012,Electronics|Tablets|Samsung Galaxy Tab S9,Hermes|SHP271551118,2024-12-30,1,704.73,0,704.73,Completed,North America,Partner API,Credit Card,2024-12-30 11:00:00
+ORD-001121,CUST-0071,PROD-0082,Books & Media|Fiction|The Glass Archive,GLS|PKG720501769,2025-01-04,3,17.01,0,51.03,Pending,North America,Web,Bank Transfer,2025-01-04 02:00:00
+ORD-001020,CUST-0205,PROD-0086,Books & Media|Non-Fiction|The Creator Economy,Hermes|SHP847250398,2024-12-25,2,21.56,0,43.12,Pending,North America,Mobile App,Credit Card,2024-12-26 13:00:00
+ORD-001043,CUST-0109,PROD-0026,Clothing|Men's Apparel|Slim Fit Jeans,Royal Mail|DEL450807271,2025-01-16,2,88.63,20,141.81,Pending,North America,Partner API,Credit Card,2025-01-17 09:00:00
+ORD-000106,CUST-0112,PROD-0005,Electronics|Smartphones|Sony Xperia 1 VI,UPS|TRK737951442,2024-11-22,1,1363.87,0,1363.87,Returned,Latin America,Web,Bank Transfer,2024-12-19 02:00:00
+ORD-001058,CUST-0060,PROD-0016,Electronics|Headphones|Apple AirPods Pro 2,DPD|SHP948099169,2024-12-25,3,233.83,15,596.27,Pending,Asia Pacific,Partner API,Credit Card,2024-12-26 16:00:00
+ORD-001103,CUST-0151,PROD-0094,Books & Media|Comics|Neon Uprising Vol.3,GLS|SHP948370834,2024-12-30,1,23.9,10,21.51,Completed,North America,Web,Credit Card,2024-12-30 04:00:00
+ORD-001148,CUST-0126,PROD-0088,Books & Media|Educational|SQL Mastery Handbook,Evri|PKG910731994,2025-01-26,2,41.83,0,83.66,Pending,Europe,Web,Credit Card,2025-01-27 02:00:00
+ORD-001055,CUST-0168,PROD-0046,Home & Garden|Furniture|Standing Desk 140cm,UPS|TRK404306019,2025-01-26,2,522.56,15,888.35,Pending,Europe,Mobile App,Bank Transfer,2025-01-27 06:00:00
+ORD-001114,CUST-0240,PROD-0091,Books & Media|Comics|Galactic Wanderers Vol.1,USPS|PKG936863235,2025-01-18,1,26.29,5,24.98,Shipped,North America,Web,Bank Transfer,2025-01-18 08:00:00
+ORD-001067,CUST-0069,PROD-0015,Electronics|Headphones|Sony WH-1000XM5,DHL|PKG525092245,2024-12-17,2,388.36,0,776.72,Completed,Asia Pacific,Web,Credit Card,2024-12-17 05:00:00
+ORD-001087,CUST-0267,PROD-0005,Electronics|Smartphones|Sony Xperia 1 VI,FedEx|TRK654220401,2025-01-19,5,1454.65,0,7273.25,Pending,Europe,Web,Credit Card,2025-01-19 17:00:00
+ORD-000434,CUST-0071,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,Royal Mail|TRK318565444,2024-04-28,3,316.36,0,949.08,Cancelled,Europe,Web,Credit Card,2024-12-25 21:00:00
+ORD-000919,CUST-0292,PROD-0023,Clothing|Men's Apparel|Classic Chino Pants,FedEx|DEL622797135,2024-01-07,1,77.06,5,73.21,Returned,North America,Mobile App,Bank Transfer,2025-01-10 09:00:00
+ORD-000382,CUST-0141,PROD-0007,Electronics|Laptops|Dell XPS 15,UPS|PKG387323147,2024-04-12,1,1492.7,10,1343.43,Returned,Europe,Mobile App,Bank Transfer,2025-01-09 20:00:00
+ORD-001108,CUST-0051,PROD-0059,Home & Garden|Home Decor|LED Strip Lights 5m,Royal Mail|TRK472928462,2024-12-03,2,35.17,20,56.27,Shipped,North America,Partner API,PayPal,2024-12-04 00:00:00
+ORD-001072,CUST-0007,PROD-0045,Home & Garden|Furniture|Bookshelf Unit,TNT Express|TRK609910484,2025-01-04,4,295.32,15,1004.09,Pending,Latin America,Web,Credit Card,2025-01-04 11:00:00
+ORD-001113,CUST-0062,PROD-0041,Clothing|Accessories|Leather Wallet,DPD|SHP110120646,2024-12-14,4,62.52,0,250.08,Pending,Asia Pacific,Web,PayPal,2024-12-15 10:00:00
+ORD-001100,CUST-0122,PROD-0023,Clothing|Men's Apparel|Classic Chino Pants,Evri|TRK457444674,2024-12-24,4,83.16,20,266.11,Pending,Middle East & Africa,Mobile App,PayPal,2024-12-25 17:00:00
+ORD-001013,CUST-0088,PROD-0083,Books & Media|Non-Fiction|Data-Driven Leadership,DPD|PKG548748753,2025-01-19,5,25.54,0,127.7,Shipped,Europe,Partner API,PayPal,2025-01-19 04:00:00
+ORD-001076,CUST-0144,PROD-0047,Home & Garden|Kitchen|KitchenAid Stand Mixer,FedEx|SHP439531501,2025-01-20,1,446.76,0,446.76,Pending,Europe,Web,PayPal,2025-01-21 13:00:00
+ORD-001094,CUST-0073,PROD-0076,Sports & Outdoors|Water Sports|Kayak Paddle Fibreglass,FedEx|PKG519921150,2025-01-03,3,119.02,0,357.06,Shipped,Asia Pacific,Web,PayPal,2025-01-04 08:00:00
+ORD-000521,CUST-0134,PROD-0004,Electronics|Smartphones|OnePlus 12,USPS|PKG912801709,2024-05-31,4,622.62,5,2365.96,Returned,Europe,Mobile App,Credit Card,2025-01-11 02:00:00
+ORD-001098,CUST-0219,PROD-0002,Electronics|Smartphones|Samsung Galaxy S24,TNT Express|PKG709668786,2024-12-23,1,909.11,15,772.74,Completed,Asia Pacific,Web,PayPal,2024-12-23 17:00:00
+ORD-001099,CUST-0196,PROD-0076,Sports & Outdoors|Water Sports|Kayak Paddle Fibreglass,TNT Express|SHP435068180,2024-12-03,3,123.43,0,370.29,Shipped,Middle East & Africa,Partner API,PayPal,2024-12-04 05:00:00
+ORD-001059,CUST-0216,PROD-0050,Home & Garden|Kitchen|Ceramic Knife Set,FedEx|PKG684869609,2024-12-25,4,78.42,0,313.68,Pending,Europe,Mobile App,PayPal,2024-12-25 19:00:00
+ORD-001073,CUST-0070,PROD-0012,Electronics|Tablets|Samsung Galaxy Tab S9,Hermes|DEL874642128,2025-01-06,3,740.82,10,2000.21,Pending,North America,Mobile App,PayPal,2025-01-07 14:00:00
+ORD-000155,CUST-0182,PROD-0069,Sports & Outdoors|Outdoor|Sleeping Bag -10C,UPS|PKG996297562,2024-08-05,2,139.48,5,265.01,Returned,Asia Pacific,Web,Credit Card,2025-01-07 04:00:00
+ORD-000940,CUST-0131,PROD-0037,Clothing|Accessories|Leather Belt,UPS|SHP257687636,2024-07-29,2,60.54,15,102.92,Completed,Latin America,Mobile App,PayPal,2024-12-23 22:00:00
+ORD-001046,CUST-0284,PROD-0042,Home & Garden|Furniture|Ergonomic Office Chair,UPS|TRK671516246,2024-12-31,2,457.34,10,823.21,Completed,Asia Pacific,Web,Credit Card,2024-12-31 15:00:00
+ORD-001014,CUST-0285,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,TNT Express|PKG290385594,2025-01-26,5,306.85,5,1457.54,Pending,North America,Mobile App,PayPal,2025-01-27 20:00:00
+ORD-000238,CUST-0115,PROD-0040,Clothing|Accessories|Wool Beanie,DPD|TRK874404381,2024-05-22,4,35.27,0,141.08,Completed,Europe,Web,Credit Card,2024-12-31 00:00:00
+ORD-001061,CUST-0252,PROD-0078,Books & Media|Fiction|The Last Algorithm,TNT Express|TRK245351271,2024-12-01,3,14.63,5,41.7,Shipped,North America,Partner API,Credit Card,2024-12-01 14:00:00
+ORD-001127,CUST-0236,PROD-0011,Electronics|Tablets|iPad Pro 12.9,USPS|TRK129330836,2024-12-04,5,1089.46,0,5447.3,Shipped,Asia Pacific,Mobile App,Bank Transfer,2024-12-05 01:00:00
+ORD-000394,CUST-0111,PROD-0015,Electronics|Headphones|Sony WH-1000XM5,TNT Express|TRK819942770,2024-07-16,2,347.97,0,695.94,Completed,Asia Pacific,Mobile App,Crypto,2025-01-13 23:00:00
+ORD-001031,CUST-0156,PROD-0023,Clothing|Men's Apparel|Classic Chino Pants,TNT Express|SHP417426432,2024-12-09,5,80.81,0,404.05,Shipped,North America,Mobile App,PayPal,2024-12-10 02:00:00
+ORD-000209,CUST-0051,PROD-0085,Books & Media|Non-Fiction|Future Minds,USPS|DEL886571603,2024-11-27,3,21.13,0,63.39,Completed,Asia Pacific,Mobile App,Bank Transfer,2024-12-26 13:00:00
+ORD-001147,CUST-0116,PROD-0089,Books & Media|Educational|Cloud Architecture Pro,FedEx|TRK763778361,2024-12-19,3,57.84,15,147.49,Pending,Latin America,Partner API,Bank Transfer,2024-12-19 03:00:00
+ORD-001132,CUST-0120,PROD-0003,Electronics|Smartphones|Google Pixel 8,GLS|DEL734926925,2024-12-04,3,746.0,20,1790.4,Shipped,North America,Web,Bank Transfer,2024-12-04 16:00:00
+ORD-001027,CUST-0277,PROD-0083,Books & Media|Non-Fiction|Data-Driven Leadership,DPD|DEL427621466,2024-12-16,5,24.55,5,116.61,Completed,Middle East & Africa,Partner API,PayPal,2024-12-16 17:00:00
+ORD-000684,CUST-0087,PROD-0035,Clothing|Kids' Apparel|Jogger Set,Royal Mail|DEL269756649,2024-10-26,5,50.17,20,200.68,Returned,Asia Pacific,Mobile App,PayPal,2025-01-05 01:00:00
+ORD-001109,CUST-0206,PROD-0007,Electronics|Laptops|Dell XPS 15,FedEx|TRK860459464,2024-12-20,5,1639.7,10,7378.65,Pending,Asia Pacific,Web,PayPal,2024-12-21 04:00:00
+ORD-001008,CUST-0160,PROD-0059,Home & Garden|Home Decor|LED Strip Lights 5m,Royal Mail|DEL904162114,2025-01-08,4,41.1,0,164.4,Completed,North America,Partner API,Credit Card,2025-01-08 19:00:00
+ORD-001066,CUST-0244,PROD-0067,Sports & Outdoors|Outdoor|Tent 2-Person Ultralight,TNT Express|DEL404904755,2024-12-01,3,224.75,15,573.11,Completed,North America,Web,PayPal,2024-12-01 01:00:00
+ORD-001081,CUST-0147,PROD-0024,Clothing|Men's Apparel|Oxford Button Shirt,Hermes|DEL913303658,2025-01-08,5,64.45,0,322.25,Completed,Europe,Partner API,Bank Transfer,2025-01-09 07:00:00
+ORD-001085,CUST-0005,PROD-0036,Clothing|Kids' Apparel|Waterproof Raincoat,DHL|PKG867098228,2024-12-05,2,69.59,15,118.3,Completed,Latin America,Web,Credit Card,2024-12-06 08:00:00
+ORD-000874,CUST-0052,PROD-0023,Clothing|Men's Apparel|Classic Chino Pants,DHL|SHP861434312,2024-07-09,5,84.98,0,424.9,Completed,Europe,Web,Credit Card,2025-01-02 10:00:00
+ORD-000235,CUST-0186,PROD-0021,Electronics|Cameras|Nikon Z6 III,TNT Express|PKG630223017,2024-05-23,4,2193.07,15,7456.44,Returned,North America,Partner API,Bank Transfer,2025-01-09 06:00:00
+ORD-001133,CUST-0043,PROD-0050,Home & Garden|Kitchen|Ceramic Knife Set,TNT Express|DEL896935161,2025-01-08,4,87.48,0,349.92,Shipped,North America,Partner API,Bank Transfer,2025-01-08 01:00:00
+ORD-001125,CUST-0191,PROD-0087,Books & Media|Educational|Python for Data Engineers,DHL|PKG735950793,2025-01-01,5,44.28,0,221.4,Pending,Europe,Partner API,Credit Card,2025-01-01 17:00:00
+ORD-001019,CUST-0274,PROD-0080,Books & Media|Fiction|Dragon's Keep,Evri|DEL722292864,2024-12-16,5,18.83,0,94.15,Shipped,North America,Partner API,Credit Card,2024-12-17 19:00:00
+ORD-001068,CUST-0138,PROD-0055,Home & Garden|Garden|Solar Lantern Set 4pk,USPS|PKG107862802,2024-12-05,1,52.72,15,44.81,Completed,Europe,Partner API,PayPal,2024-12-06 08:00:00
+ORD-000459,CUST-0092,PROD-0004,Electronics|Smartphones|OnePlus 12,GLS|PKG862346505,2024-08-02,3,666.66,15,1699.98,Completed,Europe,Mobile App,Crypto,2024-12-19 13:00:00
+ORD-001122,CUST-0076,PROD-0023,Clothing|Men's Apparel|Classic Chino Pants,DPD|PKG150305579,2024-12-24,1,76.67,15,65.17,Completed,Europe,Mobile App,Bank Transfer,2024-12-25 00:00:00
+ORD-001097,CUST-0029,PROD-0001,Electronics|Smartphones|iPhone 15 Pro,USPS|PKG335217398,2024-12-28,4,1061.89,0,4247.56,Completed,North America,Web,PayPal,2024-12-28 09:00:00
+ORD-000740,CUST-0071,PROD-0019,Electronics|Cameras|Canon EOS R6 II,UPS|TRK706834809,2024-07-29,1,2322.05,5,2205.95,Cancelled,North America,Mobile App,Bank Transfer,2024-12-25 18:00:00
+ORD-001140,CUST-0115,PROD-0085,Books & Media|Non-Fiction|Future Minds,Royal Mail|DEL720163305,2025-01-25,4,20.2,0,80.8,Shipped,Middle East & Africa,Partner API,Credit Card,2025-01-26 05:00:00
+ORD-000928,CUST-0055,PROD-0056,Home & Garden|Home Decor|Scented Candle Set,DPD|TRK565719249,2024-09-14,4,41.88,0,167.52,Completed,Europe,Web,Crypto,2024-12-22 02:00:00
+ORD-001145,CUST-0024,PROD-0001,Electronics|Smartphones|iPhone 15 Pro,Evri|PKG738899863,2024-12-12,1,1315.29,20,1052.23,Pending,Europe,Mobile App,PayPal,2024-12-12 20:00:00
+ORD-001012,CUST-0279,PROD-0029,Clothing|Women's Apparel|Cashmere Turtleneck,GLS|SHP307652855,2024-12-13,1,131.26,15,111.57,Shipped,Asia Pacific,Mobile App,Credit Card,2024-12-13 03:00:00
+ORD-001060,CUST-0237,PROD-0037,Clothing|Accessories|Leather Belt,FedEx|TRK769426316,2025-01-10,2,52.82,20,84.51,Shipped,Europe,Mobile App,Credit Card,2025-01-11 17:00:00
+ORD-001039,CUST-0188,PROD-0035,Clothing|Kids' Apparel|Jogger Set,USPS|PKG921075090,2024-12-14,3,52.2,0,156.6,Completed,Asia Pacific,Partner API,PayPal,2024-12-15 05:00:00
+ORD-000924,CUST-0113,PROD-0078,Books & Media|Fiction|The Last Algorithm,Hermes|DEL576818478,2024-11-11,1,15.16,15,12.89,Completed,Middle East & Africa,Mobile App,PayPal,2024-12-23 04:00:00
+ORD-001144,CUST-0280,PROD-0052,Home & Garden|Garden|Raised Garden Bed 120cm,USPS|TRK642954188,2024-12-20,1,126.48,5,120.16,Shipped,Asia Pacific,Web,Credit Card,2024-12-21 00:00:00
+ORD-000720,CUST-0175,PROD-0020,Electronics|Cameras|Sony A7 IV,USPS|SHP131985809,2024-08-09,1,2683.29,20,2146.63,Cancelled,North America,Web,Crypto,2025-01-02 21:00:00
+ORD-001080,CUST-0184,PROD-0062,Sports & Outdoors|Fitness|Yoga Mat Pro 6mm,Royal Mail|SHP988157617,2025-01-04,3,53.51,0,160.53,Pending,North America,Partner API,Credit Card,2025-01-04 09:00:00
+ORD-000078,CUST-0004,PROD-0072,Sports & Outdoors|Team Sports|Tennis Racket Pro 300,GLS|SHP923594990,2024-06-19,3,145.28,10,392.26,Cancelled,Asia Pacific,Web,PayPal,2024-12-17 03:00:00
+ORD-001026,CUST-0279,PROD-0017,Electronics|Headphones|Bose QuietComfort 45,GLS|TRK119411302,2024-12-18,5,301.34,0,1506.7,Pending,Asia Pacific,Web,Bank Transfer,2024-12-19 10:00:00
+ORD-001048,CUST-0293,PROD-0032,Clothing|Women's Apparel|Wrap Midi Dress,DPD|DEL452824489,2025-01-18,5,104.69,10,471.11,Pending,Asia Pacific,Web,Credit Card,2025-01-20 00:00:00
+ORD-001032,CUST-0194,PROD-0058,Home & Garden|Home Decor|Geometric Vase Set,DHL|SHP141467227,2025-01-20,2,49.94,0,99.88,Completed,Europe,Mobile App,Credit Card,2025-01-21 16:00:00
+ORD-001029,CUST-0199,PROD-0021,Electronics|Cameras|Nikon Z6 III,TNT Express|TRK483794405,2024-12-07,5,1884.37,10,8479.66,Shipped,Middle East & Africa,Partner API,PayPal,2024-12-07 13:00:00
+ORD-001130,CUST-0220,PROD-0021,Electronics|Cameras|Nikon Z6 III,FedEx|DEL547341738,2024-12-09,1,1972.77,5,1874.13,Pending,North America,Web,Bank Transfer,2024-12-10 20:00:00
+ORD-001011,CUST-0113,PROD-0047,Home & Garden|Kitchen|KitchenAid Stand Mixer,GLS|TRK161217307,2024-12-28,4,353.12,15,1200.61,Pending,Asia Pacific,Web,Credit Card,2024-12-30 00:00:00
+ORD-001110,CUST-0084,PROD-0022,Electronics|Cameras|Fujifilm X-T5,FedEx|TRK317578493,2025-01-14,2,1537.95,5,2922.11,Completed,Europe,Web,Credit Card,2025-01-15 12:00:00
+ORD-001010,CUST-0209,PROD-0061,Sports & Outdoors|Fitness|Adjustable Dumbbell Set,USPS|DEL264738025,2025-01-09,5,277.49,0,1387.45,Completed,Europe,Partner API,Credit Card,2025-01-10 13:00:00
+ORD-000816,CUST-0156,PROD-0060,Home & Garden|Home Decor|Photo Frame Set 5pk,DHL|TRK404845486,2024-09-23,5,50.37,5,239.26,Returned,North America,Partner API,Credit Card,2024-12-30 04:00:00
+ORD-001030,CUST-0061,PROD-0027,Clothing|Men's Apparel|Waterproof Parka,USPS|TRK801827399,2024-12-31,2,194.91,15,331.35,Pending,North America,Web,PayPal,2024-12-31 03:00:00
+ORD-000485,CUST-0008,PROD-0034,Clothing|Kids' Apparel|Graphic T-Shirt Pack,Evri|SHP654416338,2024-07-25,4,37.84,15,128.66,Cancelled,North America,Mobile App,Credit Card,2024-12-22 17:00:00
+ORD-001128,CUST-0250,PROD-0086,Books & Media|Non-Fiction|The Creator Economy,FedEx|PKG204907397,2024-12-20,2,21.15,20,33.84,Shipped,North America,Web,PayPal,2024-12-20 12:00:00
+ORD-001116,CUST-0287,PROD-0012,Electronics|Tablets|Samsung Galaxy Tab S9,FedEx|DEL550139767,2025-01-27,1,738.03,0,738.03,Pending,Asia Pacific,Partner API,Bank Transfer,2025-01-28 12:00:00
+ORD-000132,CUST-0177,PROD-0093,Books & Media|Comics|The Lost Continent,FedEx|TRK500305748,2024-09-05,5,20.13,0,100.65,Completed,Asia Pacific,Partner API,Crypto,2025-01-05 10:00:00
+ORD-001037,CUST-0093,PROD-0054,Home & Garden|Garden|Garden Hose Reel,GLS|SHP283576774,2025-01-12,3,81.96,20,196.7,Pending,Asia Pacific,Mobile App,Credit Card,2025-01-12 23:00:00
+ORD-001062,CUST-0297,PROD-0035,Clothing|Kids' Apparel|Jogger Set,USPS|TRK667868274,2025-01-07,3,52.46,0,157.38,Shipped,Europe,Web,PayPal,2025-01-08 13:00:00
+ORD-001009,CUST-0094,PROD-0075,Sports & Outdoors|Water Sports|Snorkel Set Premium,DHL|TRK307562816,2024-12-20,1,70.38,0,70.38,Shipped,Europe,Web,PayPal,2024-12-21 16:00:00
+ORD-000974,CUST-0190,PROD-0016,Electronics|Headphones|Apple AirPods Pro 2,DPD|PKG153198929,2024-08-26,1,229.83,0,229.83,Returned,North America,Web,Bank Transfer,2025-01-13 22:00:00
+ORD-001025,CUST-0264,PROD-0033,Clothing|Kids' Apparel|Denim Jacket,Evri|PKG811763420,2025-01-26,1,62.3,0,62.3,Pending,North America,Web,PayPal,2025-01-26 08:00:00
+ORD-000638,CUST-0120,PROD-0009,Electronics|Laptops|HP Spectre x360,FedEx|TRK335150429,2024-03-11,5,1242.71,5,5902.87,Cancelled,North America,Web,Bank Transfer,2024-12-24 20:00:00
+ORD-001138,CUST-0137,PROD-0009,Electronics|Laptops|HP Spectre x360,Evri|TRK202709157,2025-01-13,4,1226.87,20,3925.98,Pending,Europe,Web,Credit Card,2025-01-13 05:00:00
+ORD-000409,CUST-0155,PROD-0094,Books & Media|Comics|Neon Uprising Vol.3,Hermes|TRK380526766,2024-06-08,2,23.35,15,39.7,Completed,Asia Pacific,Web,Credit Card,2024-12-22 07:00:00
+ORD-001007,CUST-0199,PROD-0013,Electronics|Tablets|Microsoft Surface Pro 9,DHL|TRK145720181,2025-01-06,5,1098.64,5,5218.54,Completed,Europe,Web,PayPal,2025-01-07 05:00:00
+ORD-001141,CUST-0081,PROD-0045,Home & Garden|Furniture|Bookshelf Unit,DPD|SHP165353918,2025-01-09,5,321.79,10,1448.06,Pending,Asia Pacific,Web,Bank Transfer,2025-01-09 21:00:00
+ORD-000281,CUST-0276,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,UPS|SHP739073265,2024-10-10,2,281.58,5,535.0,Cancelled,Europe,Mobile App,Crypto,2024-12-19 17:00:00
+ORD-001119,CUST-0061,PROD-0039,Clothing|Accessories|Canvas Tote Bag,UPS|DEL765444783,2025-01-06,3,47.13,0,141.39,Shipped,North America,Web,PayPal,2025-01-06 06:00:00
+ORD-001034,CUST-0167,PROD-0059,Home & Garden|Home Decor|LED Strip Lights 5m,Royal Mail|SHP835227852,2025-01-08,2,39.94,0,79.88,Pending,Asia Pacific,Web,Bank Transfer,2025-01-08 11:00:00
+ORD-001001,CUST-0232,PROD-0090,Books & Media|Educational|ML in Production,TNT Express|SHP298627773,2024-12-31,3,63.17,0,189.51,Completed,North America,Mobile App,Credit Card,2024-12-31 23:00:00
+ORD-001052,CUST-0054,PROD-0005,Electronics|Smartphones|Sony Xperia 1 VI,Evri|PKG994850544,2024-12-30,5,1157.77,0,5788.85,Completed,Latin America,Mobile App,Bank Transfer,2024-12-30 10:00:00
+ORD-001053,CUST-0238,PROD-0011,Electronics|Tablets|iPad Pro 12.9,DPD|TRK910185625,2025-01-19,3,1018.6,15,2597.43,Pending,Asia Pacific,Web,Credit Card,2025-01-20 02:00:00
+ORD-001018,CUST-0137,PROD-0028,Clothing|Women's Apparel|Floral Maxi Dress,GLS|TRK802430291,2025-01-19,1,97.76,5,92.87,Shipped,Middle East & Africa,Web,PayPal,2025-01-20 15:00:00
+ORD-001006,CUST-0256,PROD-0031,Clothing|Women's Apparel|Linen Blazer,GLS|DEL675295261,2024-12-20,1,125.79,10,113.21,Completed,North America,Partner API,Bank Transfer,2024-12-20 08:00:00
+ORD-001057,CUST-0221,PROD-0061,Sports & Outdoors|Fitness|Adjustable Dumbbell Set,DPD|SHP906676189,2024-12-24,3,246.03,0,738.09,Completed,North America,Mobile App,PayPal,2024-12-24 06:00:00
+ORD-001089,CUST-0279,PROD-0045,Home & Garden|Furniture|Bookshelf Unit,FedEx|SHP422338978,2025-01-30,5,293.64,0,1468.2,Pending,North America,Web,Bank Transfer,2025-01-31 01:00:00
+ORD-001107,CUST-0148,PROD-0016,Electronics|Headphones|Apple AirPods Pro 2,Royal Mail|PKG462240948,2025-01-25,5,267.3,15,1136.02,Completed,Europe,Partner API,PayPal,2025-01-25 05:00:00
+ORD-001022,CUST-0156,PROD-0038,Clothing|Accessories|Silk Scarf,Evri|DEL554247940,2025-01-18,4,86.51,5,328.74,Pending,Europe,Partner API,Bank Transfer,2025-01-19 08:00:00
+ORD-001051,CUST-0223,PROD-0051,Home & Garden|Kitchen|Espresso Machine,GLS|SHP907438286,2024-12-08,1,304.61,10,274.15,Completed,North America,Mobile App,Bank Transfer,2024-12-09 08:00:00
+ORD-001054,CUST-0243,PROD-0042,Home & Garden|Furniture|Ergonomic Office Chair,TNT Express|PKG715796573,2024-12-09,3,432.79,0,1298.37,Shipped,North America,Web,Bank Transfer,2024-12-10 23:00:00
+ORD-001084,CUST-0277,PROD-0029,Clothing|Women's Apparel|Cashmere Turtleneck,DPD|PKG399147144,2025-01-02,4,140.79,0,563.16,Pending,North America,Partner API,Bank Transfer,2025-01-03 09:00:00
+ORD-000610,CUST-0021,PROD-0066,Sports & Outdoors|Outdoor|Hiking Backpack 50L,DHL|DEL204226974,2024-07-14,4,154.4,0,617.6,Returned,Europe,Web,Bank Transfer,2024-12-20 04:00:00
+ORD-001078,CUST-0139,PROD-0030,Clothing|Women's Apparel|Wide Leg Trousers,DHL|PKG731052193,2024-12-10,1,90.78,0,90.78,Shipped,Asia Pacific,Mobile App,Credit Card,2024-12-12 00:00:00
+ORD-001002,CUST-0189,PROD-0087,Books & Media|Educational|Python for Data Engineers,DHL|PKG129825287,2025-01-16,2,44.89,0,89.78,Pending,North America,Mobile App,Credit Card,2025-01-16 08:00:00
+ORD-000580,CUST-0120,PROD-0086,Books & Media|Non-Fiction|The Creator Economy,Royal Mail|SHP454907373,2024-09-17,4,19.21,10,69.16,Returned,Latin America,Mobile App,Credit Card,2024-12-28 11:00:00
+ORD-000187,CUST-0161,PROD-0022,Electronics|Cameras|Fujifilm X-T5,DHL|SHP225458204,2024-03-06,4,1850.56,20,5921.79,Completed,Asia Pacific,Mobile App,PayPal,2025-01-10 12:00:00
+ORD-000657,CUST-0243,PROD-0093,Books & Media|Comics|The Lost Continent,DPD|TRK374644018,2024-10-02,1,19.63,10,17.67,Completed,Latin America,Partner API,Bank Transfer,2025-01-12 04:00:00
+ORD-001074,CUST-0070,PROD-0042,Home & Garden|Furniture|Ergonomic Office Chair,UPS|DEL361343406,2025-01-31,5,499.18,0,2495.9,Pending,Europe,Web,Credit Card,2025-02-01 06:00:00
+ORD-001023,CUST-0293,PROD-0058,Home & Garden|Home Decor|Geometric Vase Set,GLS|SHP836140136,2024-12-26,3,49.39,10,133.35,Completed,Asia Pacific,Mobile App,Credit Card,2024-12-26 13:00:00
+ORD-000645,CUST-0191,PROD-0012,Electronics|Tablets|Samsung Galaxy Tab S9,TNT Express|DEL896551594,2024-05-23,4,828.46,0,3313.84,Returned,Latin America,Web,Credit Card,2025-01-08 13:00:00
+ORD-001063,CUST-0259,PROD-0052,Home & Garden|Garden|Raised Garden Bed 120cm,Evri|PKG285900374,2025-01-18,3,142.58,10,384.97,Shipped,Latin America,Mobile App,Credit Card,2025-01-19 06:00:00
+ORD-001042,CUST-0090,PROD-0051,Home & Garden|Kitchen|Espresso Machine,UPS|SHP952984682,2025-01-04,4,277.21,0,1108.84,Shipped,North America,Partner API,Credit Card,2025-01-05 12:00:00
+ORD-001146,CUST-0179,PROD-0046,Home & Garden|Furniture|Standing Desk 140cm,TNT Express|PKG268445882,2024-12-16,2,505.96,0,1011.92,Shipped,North America,Web,PayPal,2024-12-16 16:00:00
+ORD-001024,CUST-0205,PROD-0030,Clothing|Women's Apparel|Wide Leg Trousers,USPS|SHP321467715,2025-01-07,5,95.59,0,477.95,Shipped,Asia Pacific,Partner API,Credit Card,2025-01-08 01:00:00
+ORD-001004,CUST-0283,PROD-0025,Clothing|Men's Apparel|Merino Wool Sweater,Royal Mail|TRK793966999,2024-12-07,2,119.86,0,239.72,Completed,Europe,Web,Credit Card,2024-12-07 15:00:00
+ORD-001149,CUST-0065,PROD-0080,Books & Media|Fiction|Dragon's Keep,Evri|PKG231478450,2025-01-18,3,16.23,10,43.82,Shipped,Asia Pacific,Partner API,PayPal,2025-01-18 04:00:00
+ORD-001065,CUST-0107,PROD-0076,Sports & Outdoors|Water Sports|Kayak Paddle Fibreglass,FedEx|PKG427563057,2025-01-02,5,130.46,10,587.07,Pending,Europe,Mobile App,Bank Transfer,2025-01-03 08:00:00
+ORD-001049,CUST-0071,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,GLS|TRK980470108,2025-01-03,5,276.58,10,1244.61,Pending,Europe,Mobile App,Bank Transfer,2025-01-04 05:00:00
+ORD-001106,CUST-0064,PROD-0017,Electronics|Headphones|Bose QuietComfort 45,Royal Mail|TRK922931772,2025-01-12,5,278.54,0,1392.7,Completed,North America,Web,PayPal,2025-01-13 11:00:00
+ORD-001142,CUST-0277,PROD-0050,Home & Garden|Kitchen|Ceramic Knife Set,DHL|DEL293469339,2024-12-11,5,80.84,5,383.99,Shipped,Asia Pacific,Mobile App,Bank Transfer,2024-12-11 15:00:00
+ORD-000888,CUST-0060,PROD-0084,Books & Media|Non-Fiction|The Art of Deep Focus,UPS|TRK976403466,2024-04-04,2,17.52,0,35.04,Completed,North America,Mobile App,Bank Transfer,2024-12-15 05:00:00
+ORD-001115,CUST-0104,PROD-0065,Sports & Outdoors|Fitness|Jump Rope Speed,USPS|PKG239348578,2025-01-08,5,25.8,5,122.55,Shipped,Europe,Web,Bank Transfer,2025-01-08 17:00:00
+ORD-001077,CUST-0028,PROD-0093,Books & Media|Comics|The Lost Continent,Royal Mail|PKG537079839,2025-01-22,2,21.25,0,42.5,Pending,Europe,Web,Bank Transfer,2025-01-22 09:00:00
+ORD-000096,CUST-0093,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,Evri|DEL769207967,2024-09-17,4,302.74,5,1150.41,Cancelled,Europe,Web,Bank Transfer,2025-01-06 18:00:00
+ORD-000494,CUST-0138,PROD-0083,Books & Media|Non-Fiction|Data-Driven Leadership,Hermes|DEL931153961,2024-07-24,5,21.28,10,95.76,Completed,Latin America,Mobile App,Crypto,2024-12-26 04:00:00
+ORD-001091,CUST-0294,PROD-0072,Sports & Outdoors|Team Sports|Tennis Racket Pro 300,DPD|PKG915216554,2024-12-10,1,137.88,0,137.88,Pending,North America,Web,PayPal,2024-12-11 19:00:00
+ORD-000794,CUST-0264,PROD-0016,Electronics|Headphones|Apple AirPods Pro 2,GLS|PKG223464702,2024-10-05,3,243.53,0,730.59,Returned,Europe,Mobile App,Credit Card,2024-12-24 19:00:00
+ORD-001137,CUST-0192,PROD-0014,Electronics|Tablets|Amazon Fire Max 11,Evri|PKG134769841,2025-01-30,1,247.44,10,222.7,Pending,Europe,Web,Credit Card,2025-01-30 01:00:00
+ORD-001028,CUST-0190,PROD-0028,Clothing|Women's Apparel|Floral Maxi Dress,DHL|DEL946433675,2024-12-04,1,88.45,15,75.18,Completed,Europe,Partner API,PayPal,2024-12-04 23:00:00
+ORD-001003,CUST-0224,PROD-0021,Electronics|Cameras|Nikon Z6 III,DPD|DEL349743101,2024-12-30,2,2068.93,0,4137.86,Completed,North America,Web,Credit Card,2024-12-31 16:00:00
+ORD-001090,CUST-0050,PROD-0088,Books & Media|Educational|SQL Mastery Handbook,TNT Express|DEL227496852,2025-01-23,2,48.78,0,97.56,Completed,Latin America,Mobile App,Credit Card,2025-01-23 07:00:00
+ORD-001047,CUST-0151,PROD-0076,Sports & Outdoors|Water Sports|Kayak Paddle Fibreglass,Royal Mail|PKG798523925,2024-12-18,5,126.9,0,634.5,Completed,Europe,Mobile App,Bank Transfer,2024-12-19 16:00:00
+ORD-000103,CUST-0273,PROD-0018,Electronics|Headphones|Sennheiser Momentum 4,Royal Mail|DEL901173040,2024-07-13,4,297.18,0,1188.72,Returned,North America,Mobile App,Bank Transfer,2025-01-11 06:00:00
+ORD-001041,CUST-0043,PROD-0048,Home & Garden|Kitchen|Ninja Air Fryer XL,UPS|PKG552351635,2025-01-14,2,139.69,15,237.47,Completed,Middle East & Africa,Mobile App,Credit Card,2025-01-15 10:00:00
+ORD-001143,CUST-0203,PROD-0079,Books & Media|Fiction|Midnight in Milan,Hermes|DEL585935286,2024-12-22,2,13.84,0,27.68,Completed,North America,Web,Bank Transfer,2024-12-23 12:00:00
+ORD-000601,CUST-0244,PROD-0079,Books & Media|Fiction|Midnight in Milan,FedEx|TRK121252959,2024-11-26,4,13.27,10,47.77,Completed,Europe,Partner API,Credit Card,2024-12-26 14:00:00
+ORD-001101,CUST-0252,PROD-0088,Books & Media|Educational|SQL Mastery Handbook,DPD|DEL189200192,2025-01-04,2,40.44,0,80.88,Completed,Asia Pacific,Mobile App,Bank Transfer,2025-01-04 07:00:00
+ORD-000136,CUST-0025,PROD-0069,Sports & Outdoors|Outdoor|Sleeping Bag -10C,DPD|SHP926512485,2024-06-29,3,137.53,0,412.59,Completed,Asia Pacific,Web,Credit Card,2024-12-20 23:00:00
+ORD-001021,CUST-0140,PROD-0030,Clothing|Women's Apparel|Wide Leg Trousers,DPD|PKG746761915,2024-12-28,1,94.64,15,80.44,Pending,Europe,Partner API,Credit Card,2024-12-28 20:00:00
+ORD-001096,CUST-0215,PROD-0052,Home & Garden|Garden|Raised Garden Bed 120cm,GLS|TRK837251149,2025-01-10,2,137.86,0,275.72,Completed,North America,Partner API,PayPal,2025-01-10 23:00:00
+ORD-001082,CUST-0257,PROD-0031,Clothing|Women's Apparel|Linen Blazer,Hermes|TRK110384822,2024-12-18,3,137.54,0,412.62,Completed,North America,Partner API,Bank Transfer,2024-12-19 09:00:00
+ORD-001056,CUST-0226,PROD-0075,Sports & Outdoors|Water Sports|Snorkel Set Premium,Hermes|DEL250174497,2024-12-14,3,79.18,10,213.79,Completed,North America,Mobile App,Credit Card,2024-12-15 02:00:00
+ORD-001079,CUST-0181,PROD-0024,Clothing|Men's Apparel|Oxford Button Shirt,DHL|DEL788862069,2024-12-07,2,64.99,5,123.48,Pending,Asia Pacific,Partner API,PayPal,2024-12-08 03:00:00
+ORD-001093,CUST-0071,PROD-0028,Clothing|Women's Apparel|Floral Maxi Dress,UPS|TRK691134013,2025-01-26,1,102.07,15,86.76,Pending,Asia Pacific,Web,Credit Card,2025-01-27 11:00:00
+ORD-000967,CUST-0293,PROD-0002,Electronics|Smartphones|Samsung Galaxy S24,Royal Mail|TRK316665364,2024-08-08,5,975.87,10,4391.42,Cancelled,Europe,Mobile App,Crypto,2024-12-25 02:00:00
+ORD-001150,CUST-0255,PROD-0028,Clothing|Women's Apparel|Floral Maxi Dress,UPS|PKG360625982,2024-12-13,1,94.57,0,94.57,Shipped,North America,Web,Credit Card,2024-12-14 14:00:00
+ORD-001033,CUST-0005,PROD-0038,Clothing|Accessories|Silk Scarf,DHL|PKG234093369,2024-12-16,2,93.81,15,159.48,Shipped,Europe,Web,PayPal,2024-12-17 19:00:00
+ORD-001124,CUST-0164,PROD-0069,Sports & Outdoors|Outdoor|Sleeping Bag -10C,GLS|DEL231296592,2024-12-16,5,133.56,15,567.63,Pending,Europe,Web,PayPal,2024-12-16 08:00:00
+ORD-001102,CUST-0199,PROD-0094,Books & Media|Comics|Neon Uprising Vol.3,FedEx|DEL549152157,2025-01-29,4,25.5,20,81.6,Shipped,Middle East & Africa,Partner API,PayPal,2025-01-29 09:00:00
+ORD-001069,CUST-0123,PROD-0007,Electronics|Laptops|Dell XPS 15,Royal Mail|SHP938359480,2025-01-11,1,1385.24,5,1315.98,Completed,North America,Partner API,Credit Card,2025-01-12 22:00:00
+ORD-001131,CUST-0214,PROD-0012,Electronics|Tablets|Samsung Galaxy Tab S9,GLS|DEL610980840,2024-12-09,3,818.89,0,2456.67,Shipped,Asia Pacific,Mobile App,Bank Transfer,2024-12-10 10:00:00
+ORD-001005,CUST-0078,PROD-0029,Clothing|Women's Apparel|Cashmere Turtleneck,UPS|TRK289816316,2025-01-30,2,159.09,0,318.18,Shipped,Europe,Web,Bank Transfer,2025-02-01 00:00:00
+ORD-001045,CUST-0295,PROD-0084,Books & Media|Non-Fiction|The Art of Deep Focus,Hermes|PKG730995948,2025-01-26,4,19.59,5,74.44,Shipped,North America,Partner API,Bank Transfer,2025-01-26 17:00:00
+ORD-001104,CUST-0075,PROD-0027,Clothing|Men's Apparel|Waterproof Parka,Royal Mail|DEL423558333,2024-12-16,3,216.39,20,519.34,Shipped,North America,Partner API,PayPal,2024-12-16 14:00:00
+ORD-001035,CUST-0171,PROD-0004,Electronics|Smartphones|OnePlus 12,UPS|PKG408668408,2024-12-23,2,586.95,15,997.82,Pending,North America,Web,PayPal,2024-12-24 15:00:00
+ORD-001123,CUST-0159,PROD-0029,Clothing|Women's Apparel|Cashmere Turtleneck,Evri|SHP349830241,2024-12-06,1,131.23,0,131.23,Shipped,Latin America,Mobile App,PayPal,2024-12-06 08:00:00
+ORD-001112,CUST-0182,PROD-0042,Home & Garden|Furniture|Ergonomic Office Chair,Hermes|PKG916644671,2025-01-15,5,500.48,0,2502.4,Completed,North America,Partner API,Bank Transfer,2025-01-16 23:00:00
+ORD-000411,CUST-0216,PROD-0055,Home & Garden|Garden|Solar Lantern Set 4pk,DPD|DEL600956992,2024-08-24,1,64.84,0,64.84,Completed,North America,Web,Crypto,2024-12-21 14:00:00
+ORD-001083,CUST-0291,PROD-0082,Books & Media|Fiction|The Glass Archive,FedEx|DEL413077261,2024-12-06,4,16.19,0,64.76,Completed,Asia Pacific,Partner API,Credit Card,2024-12-07 02:00:00
+ORD-001044,CUST-0255,PROD-0038,Clothing|Accessories|Silk Scarf,Royal Mail|SHP509649601,2025-01-17,4,83.83,5,318.55,Completed,Asia Pacific,Partner API,Credit Card,2025-01-17 11:00:00
+ORD-000393,CUST-0048,PROD-0058,Home & Garden|Home Decor|Geometric Vase Set,DPD|DEL342483672,2024-05-31,1,53.06,20,42.45,Cancelled,Asia Pacific,Partner API,Credit Card,2025-01-02 09:00:00
+ORD-001050,CUST-0106,PROD-0054,Home & Garden|Garden|Garden Hose Reel,UPS|SHP953415402,2025-01-01,2,89.49,5,170.03,Pending,North America,Partner API,Credit Card,2025-01-02 10:00:00
+ORD-001136,CUST-0062,PROD-0004,Electronics|Smartphones|OnePlus 12,DPD|DEL557334957,2024-12-07,4,596.72,20,1909.5,Pending,Europe,Partner API,PayPal,2024-12-07 19:00:00
+ORD-001135,CUST-0067,PROD-0031,Clothing|Women's Apparel|Linen Blazer,TNT Express|DEL904854504,2025-01-16,2,128.33,15,218.16,Pending,Latin America,Web,PayPal,2025-01-16 12:00:00
+ORD-001092,CUST-0165,PROD-0073,Sports & Outdoors|Team Sports|Volleyball + Net Set,Hermes|TRK579401780,2025-01-30,5,101.55,0,507.75,Completed,Latin America,Mobile App,PayPal,2025-01-30 19:00:00
+ORD-001129,CUST-0083,PROD-0055,Home & Garden|Garden|Solar Lantern Set 4pk,DHL|DEL153483663,2024-12-12,3,55.6,20,133.44,Completed,Europe,Web,PayPal,2024-12-13 02:00:00
+ORD-000351,CUST-0094,PROD-0005,Electronics|Smartphones|Sony Xperia 1 VI,Hermes|PKG921861006,2024-03-12,5,1360.9,0,6804.5,Completed,Europe,Web,Bank Transfer,2024-12-30 03:00:00
+ORD-001086,CUST-0032,PROD-0033,Clothing|Kids' Apparel|Denim Jacket,TNT Express|PKG102124225,2024-12-02,5,65.3,0,326.5,Completed,Asia Pacific,Mobile App,PayPal,2024-12-02 19:00:00
+ORD-001134,CUST-0174,PROD-0037,Clothing|Accessories|Leather Belt,USPS|DEL636668462,2024-12-17,2,54.16,0,108.32,Completed,Latin America,Web,Bank Transfer,2024-12-18 14:00:00
+ORD-001015,CUST-0278,PROD-0082,Books & Media|Fiction|The Glass Archive,DPD|TRK777644857,2024-12-12,4,16.82,0,67.28,Completed,North America,Web,Credit Card,2024-12-13 04:00:00
+ORD-001071,CUST-0110,PROD-0068,Sports & Outdoors|Outdoor|Trekking Poles Carbon,FedEx|SHP993763079,2024-12-27,1,80.62,20,64.5,Pending,North America,Mobile App,PayPal,2024-12-28 16:00:00
+ORD-001111,CUST-0244,PROD-0011,Electronics|Tablets|iPad Pro 12.9,FedEx|PKG419775373,2024-12-16,1,1165.0,5,1106.75,Pending,Europe,Mobile App,Bank Transfer,2024-12-18 00:00:00
+ORD-001075,CUST-0056,PROD-0064,Sports & Outdoors|Fitness|Pull-up Bar Doorframe,DHL|PKG200420837,2025-01-04,4,49.78,15,169.25,Shipped,Latin America,Partner API,PayPal,2025-01-05 09:00:00
+ORD-000458,CUST-0241,PROD-0022,Electronics|Cameras|Fujifilm X-T5,TNT Express|PKG384848723,2024-09-05,2,1794.24,0,3588.48,Returned,North America,Web,Crypto,2024-12-25 04:00:00
+ORD-001139,CUST-0229,PROD-0043,Home & Garden|Furniture|Solid Oak Desk,UPS|DEL308325394,2025-01-26,3,730.08,0,2190.24,Completed,North America,Web,PayPal,2025-01-26 19:00:00
+ORD-000876,CUST-0076,PROD-0017,Electronics|Headphones|Bose QuietComfort 45,DHL|DEL181754369,2024-02-26,2,249.1,10,448.38,Cancelled,North America,Mobile App,PayPal,2025-01-12 20:00:00
+ORD-001120,CUST-0005,PROD-0086,Books & Media|Non-Fiction|The Creator Economy,UPS|TRK615764065,2024-12-13,3,18.71,20,44.9,Completed,Asia Pacific,Web,PayPal,2024-12-14 18:00:00
+ORD-001088,CUST-0121,PROD-0045,Home & Garden|Furniture|Bookshelf Unit,Evri|PKG980897770,2025-01-13,4,277.58,5,1054.8,Completed,Asia Pacific,Partner API,Bank Transfer,2025-01-15 00:00:00

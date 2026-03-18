@@ -1,0 +1,95 @@
+product_id,product_name,category,subcategory,price,supplier_info,stock_quantity,reorder_level,is_active
+PROD-0001,iPhone 15 Pro,Electronics,Smartphones,1226.13,PremiumGoods Ltd|Poland,456,49,Yes
+PROD-0002,Samsung Galaxy S24,Electronics,Smartphones,920.94,PremiumGoods Ltd|Poland,434,40,No
+PROD-0003,Google Pixel 8,Electronics,Smartphones,740.32,EcoSupply Co|India,164,25,Yes
+PROD-0004,OnePlus 12,Electronics,Smartphones,697.82,TechSource Global|Poland,114,45,No
+PROD-0005,Sony Xperia 1 VI,Electronics,Smartphones,1278.9,FastTrack Imports|Germany,235,38,No
+PROD-0006,MacBook Pro 14,Electronics,Laptops,1867.23,BetaWholesale AG|India,161,17,No
+PROD-0007,Dell XPS 15,Electronics,Laptops,1609.78,TechSource Global|Germany,206,36,Yes
+PROD-0008,Lenovo ThinkPad X1,Electronics,Laptops,1411.79,TechSource Global|Germany,405,48,Yes
+PROD-0009,HP Spectre x360,Electronics,Laptops,1380.08,GreenChain Europe|Japan,335,39,Yes
+PROD-0010,ASUS ZenBook Pro,Electronics,Laptops,1172.78,TechSource Global|Japan,432,39,Yes
+PROD-0011,iPad Pro 12.9,Electronics,Tablets,1109.58,Pacific Distributors|Mexico,242,33,No
+PROD-0012,Samsung Galaxy Tab S9,Electronics,Tablets,749.66,Sunrise Trading|Japan,1,31,Yes
+PROD-0013,Microsoft Surface Pro 9,Electronics,Tablets,1051.73,QualityFirst GmbH|Poland,267,33,Yes
+PROD-0014,Amazon Fire Max 11,Electronics,Tablets,212.36,PremiumGoods Ltd|India,71,36,Yes
+PROD-0015,Sony WH-1000XM5,Electronics,Headphones,335.28,FastTrack Imports|Japan,61,35,Yes
+PROD-0016,Apple AirPods Pro 2,Electronics,Headphones,247.29,FastTrack Imports|Taiwan,55,36,Yes
+PROD-0017,Bose QuietComfort 45,Electronics,Headphones,298.04,Sunrise Trading|Mexico,63,38,No
+PROD-0018,Sennheiser Momentum 4,Electronics,Headphones,306.58,GreenChain Europe|USA,493,41,Yes
+PROD-0019,Canon EOS R6 II,Electronics,Cameras,2511.14,TechSource Global|Poland,478,37,No
+PROD-0020,Sony A7 IV,Electronics,Cameras,2668.68,PremiumGoods Ltd|Mexico,88,18,Yes
+PROD-0021,Nikon Z6 III,Electronics,Cameras,1962.99,Pacific Distributors|Mexico,451,30,No
+PROD-0022,Fujifilm X-T5,Electronics,Cameras,1676.89,Pacific Distributors|Japan,140,35,Yes
+PROD-0023,Classic Chino Pants,Clothing,Men's Apparel,84.95,BetaWholesale AG|USA,70,36,Yes
+PROD-0024,Oxford Button Shirt,Clothing,Men's Apparel,62.24,GreenChain Europe|Taiwan,364,45,Yes
+PROD-0025,Merino Wool Sweater,Clothing,Men's Apparel,122.83,Pacific Distributors|South Korea,351,32,Yes
+PROD-0026,Slim Fit Jeans,Clothing,Men's Apparel,95.85,Sunrise Trading|USA,257,44,Yes
+PROD-0027,Waterproof Parka,Clothing,Men's Apparel,205.7,NovaTrade Inc|Poland,245,47,No
+PROD-0028,Floral Maxi Dress,Clothing,Women's Apparel,97.65,GreenChain Europe|South Korea,449,37,Yes
+PROD-0029,Cashmere Turtleneck,Clothing,Women's Apparel,149.54,TechSource Global|Vietnam,74,13,Yes
+PROD-0030,Wide Leg Trousers,Clothing,Women's Apparel,84.73,PremiumGoods Ltd|South Korea,349,26,Yes
+PROD-0031,Linen Blazer,Clothing,Women's Apparel,146.55,Atlantic Goods Co|South Korea,104,44,Yes
+PROD-0032,Wrap Midi Dress,Clothing,Women's Apparel,112.4,BetaWholesale AG|Germany,315,45,Yes
+PROD-0033,Denim Jacket,Clothing,Kids' Apparel,67.52,GreenChain Europe|Vietnam,121,42,Yes
+PROD-0034,Graphic T-Shirt Pack,Clothing,Kids' Apparel,36.08,TechSource Global|Vietnam,198,36,Yes
+PROD-0035,Jogger Set,Clothing,Kids' Apparel,52.65,TechSource Global|China,380,26,Yes
+PROD-0036,Waterproof Raincoat,Clothing,Kids' Apparel,76.45,BetaWholesale AG|Japan,466,50,Yes
+PROD-0037,Leather Belt,Clothing,Accessories,57.24,GreenChain Europe|Mexico,100,22,Yes
+PROD-0038,Silk Scarf,Clothing,Accessories,84.3,Sunrise Trading|Germany,95,21,Yes
+PROD-0039,Canvas Tote Bag,Clothing,Accessories,44.12,AlphaManufacturing|South Korea,284,26,Yes
+PROD-0040,Wool Beanie,Clothing,Accessories,33.1,QualityFirst GmbH|China,169,39,Yes
+PROD-0041,Leather Wallet,Clothing,Accessories,60.22,NovaTrade Inc|Mexico,26,50,Yes
+PROD-0042,Ergonomic Office Chair,Home & Garden,Furniture,448.32,Pacific Distributors|Poland,183,14,Yes
+PROD-0043,Solid Oak Desk,Home & Garden,Furniture,701.84,PremiumGoods Ltd|Poland,34,42,Yes
+PROD-0044,3-Seat Velvet Sofa,Home & Garden,Furniture,1281.53,GreenChain Europe|Vietnam,47,32,Yes
+PROD-0045,Bookshelf Unit,Home & Garden,Furniture,317.34,Sunrise Trading|Taiwan,169,33,Yes
+PROD-0046,Standing Desk 140cm,Home & Garden,Furniture,524.27,Pacific Distributors|Poland,243,45,Yes
+PROD-0047,KitchenAid Stand Mixer,Home & Garden,Kitchen,374.4,NovaTrade Inc|India,123,49,Yes
+PROD-0048,Ninja Air Fryer XL,Home & Garden,Kitchen,159.94,Sunrise Trading|Taiwan,195,17,No
+PROD-0049,French Press Set,Home & Garden,Kitchen,47.09,Atlantic Goods Co|South Korea,12,43,Yes
+PROD-0050,Ceramic Knife Set,Home & Garden,Kitchen,89.2,GreenChain Europe|India,249,12,Yes
+PROD-0051,Espresso Machine,Home & Garden,Kitchen,318.05,FastTrack Imports|Taiwan,263,15,Yes
+PROD-0052,Raised Garden Bed 120cm,Home & Garden,Garden,122.14,GreenChain Europe|Poland,3,50,Yes
+PROD-0053,Compost Bin 60L,Home & Garden,Garden,65.81,Sunrise Trading|Japan,442,37,Yes
+PROD-0054,Garden Hose Reel,Home & Garden,Garden,84.81,Atlantic Goods Co|Vietnam,331,14,Yes
+PROD-0055,Solar Lantern Set 4pk,Home & Garden,Garden,54.5,Atlantic Goods Co|Taiwan,19,15,Yes
+PROD-0056,Scented Candle Set,Home & Garden,Home Decor,41.79,QualityFirst GmbH|Poland,36,46,Yes
+PROD-0057,Macrame Wall Hanging,Home & Garden,Home Decor,84.19,AlphaManufacturing|Vietnam,230,50,No
+PROD-0058,Geometric Vase Set,Home & Garden,Home Decor,54.41,TechSource Global|Vietnam,344,17,Yes
+PROD-0059,LED Strip Lights 5m,Home & Garden,Home Decor,39.88,Pacific Distributors|Germany,387,47,Yes
+PROD-0060,Photo Frame Set 5pk,Home & Garden,Home Decor,50.57,EcoSupply Co|Taiwan,475,42,Yes
+PROD-0061,Adjustable Dumbbell Set,Sports & Outdoors,Fitness,240.63,Sunrise Trading|South Korea,310,15,Yes
+PROD-0062,Yoga Mat Pro 6mm,Sports & Outdoors,Fitness,61.5,BetaWholesale AG|Vietnam,202,11,No
+PROD-0063,Resistance Band Set,Sports & Outdoors,Fitness,36.86,FastTrack Imports|USA,382,35,Yes
+PROD-0064,Pull-up Bar Doorframe,Sports & Outdoors,Fitness,52.61,PremiumGoods Ltd|South Korea,346,33,Yes
+PROD-0065,Jump Rope Speed,Sports & Outdoors,Fitness,25.21,GreenChain Europe|USA,63,12,Yes
+PROD-0066,Hiking Backpack 50L,Sports & Outdoors,Outdoor,160.85,AlphaManufacturing|Poland,280,15,Yes
+PROD-0067,Tent 2-Person Ultralight,Sports & Outdoors,Outdoor,237.45,Atlantic Goods Co|Taiwan,108,36,Yes
+PROD-0068,Trekking Poles Carbon,Sports & Outdoors,Outdoor,84.17,FastTrack Imports|Mexico,427,26,Yes
+PROD-0069,Sleeping Bag -10C,Sports & Outdoors,Outdoor,130.43,Sunrise Trading|Mexico,436,13,No
+PROD-0070,Football Pro Match,Sports & Outdoors,Team Sports,80.83,EcoSupply Co|South Korea,343,14,Yes
+PROD-0071,Basketball Size 7,Sports & Outdoors,Team Sports,55.21,Atlantic Goods Co|Mexico,249,31,Yes
+PROD-0072,Tennis Racket Pro 300,Sports & Outdoors,Team Sports,140.14,Sunrise Trading|Japan,51,28,Yes
+PROD-0073,Volleyball + Net Set,Sports & Outdoors,Team Sports,105.34,NovaTrade Inc|India,230,31,Yes
+PROD-0074,Surfboard Shortboard 6ft,Sports & Outdoors,Water Sports,565.99,PremiumGoods Ltd|Mexico,290,33,Yes
+PROD-0075,Snorkel Set Premium,Sports & Outdoors,Water Sports,84.8,PremiumGoods Ltd|China,160,25,Yes
+PROD-0076,Kayak Paddle Fibreglass,Sports & Outdoors,Water Sports,123.04,Sunrise Trading|Vietnam,141,33,Yes
+PROD-0077,Wetsuit 3mm Full,Sports & Outdoors,Water Sports,204.72,NovaTrade Inc|India,236,38,Yes
+PROD-0078,The Last Algorithm,Books & Media,Fiction,16.7,BetaWholesale AG|Poland,55,21,Yes
+PROD-0079,Midnight in Milan,Books & Media,Fiction,14.77,PremiumGoods Ltd|Poland,100,26,Yes
+PROD-0080,Dragon's Keep,Books & Media,Fiction,18.65,TechSource Global|Poland,323,11,No
+PROD-0081,Shadow Protocol,Books & Media,Fiction,15.65,FastTrack Imports|China,282,26,No
+PROD-0082,The Glass Archive,Books & Media,Fiction,17.42,PremiumGoods Ltd|Taiwan,200,24,Yes
+PROD-0083,Data-Driven Leadership,Books & Media,Non-Fiction,22.59,GreenChain Europe|Poland,46,35,Yes
+PROD-0084,The Art of Deep Focus,Books & Media,Non-Fiction,19.01,Sunrise Trading|Japan,434,49,Yes
+PROD-0085,Future Minds,Books & Media,Non-Fiction,22.91,PremiumGoods Ltd|India,81,21,Yes
+PROD-0086,The Creator Economy,Books & Media,Non-Fiction,21.79,BetaWholesale AG|Taiwan,20,24,No
+PROD-0087,Python for Data Engineers,Books & Media,Educational,46.9,QualityFirst GmbH|Taiwan,119,12,Yes
+PROD-0088,SQL Mastery Handbook,Books & Media,Educational,44.13,NovaTrade Inc|Vietnam,240,39,Yes
+PROD-0089,Cloud Architecture Pro,Books & Media,Educational,50.02,Sunrise Trading|Taiwan,52,43,Yes
+PROD-0090,ML in Production,Books & Media,Educational,62.16,QualityFirst GmbH|Mexico,278,46,Yes
+PROD-0091,Galactic Wanderers Vol.1,Books & Media,Comics,24.51,AlphaManufacturing|Taiwan,300,14,Yes
+PROD-0092,Steel City Chronicles,Books & Media,Comics,21.56,FastTrack Imports|Poland,207,32,Yes
+PROD-0093,The Lost Continent,Books & Media,Comics,19.96,BetaWholesale AG|Mexico,3,42,Yes
+PROD-0094,Neon Uprising Vol.3,Books & Media,Comics,22.78,FastTrack Imports|Germany,263,27,Yes

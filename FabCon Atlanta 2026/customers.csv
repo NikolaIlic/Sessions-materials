@@ -1,0 +1,301 @@
+customer_id,full_name,email,country,region,segment,phone,join_date,total_orders,lifetime_value
+CUST-0001,Ahmad Davis,  ahmad.davis@hotmail.com,USA,North America,B2C,+1-289-704-7912,2021-03-07,2,1450.74
+CUST-0002,Mason Bernard,mason.bernard@business.net,Mexico,North America,B2C,+1-206-877-3615,2023-05-16,22,4204.18
+CUST-0003,amelia Hall,  amelia.hall@enterprise.org,India,Asia Pacific,B2C,+1-244-847-8527,2021-09-13,25,1228.06
+CUST-0004,daniel kobayashi,daniel.kobayashi@hotmail.com,Japan,Asia Pacific,B2C,+81-991-396-2307,2022-04-22,7,5732.89
+CUST-0005,Scarlett kobayashi,scarlett.kobayashi@enterprise.org,Canada,North America,B2B,+1-823-750-3803,2023-12-30,47,3709.92
+CUST-0006,Scarlett Müller,scarlett.müller@hotmail.com,Japan,Asia Pacific,B2C,+81-232-924-6168,2023-04-02,18,1039.52
+CUST-0007,Klaus Costa,klaus.costa@business.net,Chile,Latin America,B2B,+1-471-242-5040,2022-06-23,48,8789.56
+CUST-0008,maria  Schmidt,maria.schmidt@outlook.com,France,Europe,B2B,+33-312-256-3621,2023-05-15,39,999.74
+CUST-0009,Sebastian Nakamura,sebastian.nakamura@gmail.com,Japan,Asia Pacific,B2C,+81-968-373-6573,2021-08-17,19,6549.74
+CUST-0010,Scarlett Smith,scarlett.smith@company.com,Saudi Arabia,Middle East & Africa,B2C,+1-308-991-5889,2023-11-06,39,3023.72
+CUST-0011,Elizabeth Taylor,elizabeth.taylor@gmail.com,Sweden,Europe,B2B,+1-314-471-6038,2022-05-06,4,3651.03
+CUST-0012,Klaus Garcia,  klaus.garcia@yahoo.com,Saudi Arabia,Middle East & Africa,B2B,+1-875-586-3705,2022-06-27,34,13092.87
+CUST-0013,Madison WHITE,madison.white@hotmail.com,South Korea,Asia Pacific,B2C,+1-648-629-8397,2021-09-05,16,3409.23
+CUST-0014,emily Johnson,emily.johnson@hotmail.com,Mexico,North America,B2B,+1-434-169-1514,2022-11-08,5,7736.63
+CUST-0015,EVELYN SANTOS,evelyn.santos@corp.io,Canada,North America,B2C,+1-394-196-2588,2023-06-02,23,6382.5
+CUST-0016,Scarlett Brown,scarlett.brown@yahoo.com,Mexico,North America,B2C,+1-311-354-4139,2022-01-25,35,6756.77
+CUST-0017,Madison Thomas,madison.thomas@yahoo.com,France,Europe,B2B,+33-867-653-1241,2021-07-11,49,12738.0
+CUST-0018,Henry SCHNEIDER,henry.schneider@business.net,Argentina,Latin America,B2C,+1-202-499-5345,2023-07-21,19,6373.96
+CUST-0019,priya MOREAU,priya.moreau@hotmail.com,USA,North America,B2C,+1-953-655-1998,2022-10-05,4,799.63
+CUST-0020,Samuel Bernard,samuel.bernard@gmail.com,UAE,Middle East & Africa,B2B,+1-270-709-2113,2022-04-27,26,1842.3
+CUST-0021,Klaus Martin,klaus.martin  @yahoo.com,Netherlands,Europe,B2C,+1-409-785-6147,2022-05-04,17,5967.0
+CUST-0022,carlos silva,carlos.silva@yahoo.com,Mexico,North America,B2C,+1-302-175-9808,2022-03-13,33,4014.75
+CUST-0023,Logan Jones,logan.jones@outlook.com,Spain,Europe,B2C,+1-869-641-1128,2022-09-06,43,1598.62
+CUST-0024,lucas Thompson,  lucas.thompson@outlook.com,Mexico,North America,B2C,+1-934-451-4335,2022-06-25,33,7353.55
+CUST-0025,Franz Brown,  franz.brown@company.com,Canada,North America,B2B,+1-852-368-3647,2023-06-24,36,10599.73
+CUST-0026,ANNA Smith,  anna.smith@outlook.com,Netherlands,Europe,B2C,+1-765-251-8041,2021-09-19,3,4658.46
+CUST-0027,peter  Williams,peter.williams@hotmail.com,Singapore,Asia Pacific,B2C,+1-616-735-3532,2022-04-30,11,14644.28
+CUST-0028,Sandra Thomas,sandra.thomas  @enterprise.org,South Korea,Asia Pacific,B2C,+1-473-263-2771,2023-02-23,3,12885.97
+CUST-0029,Mason Jackson,mason.jackson@company.com,Australia,Asia Pacific,B2C,+61-224-775-4164,2023-03-28,22,4215.12
+CUST-0030,  William Young,william.young@enterprise.org,Brazil,Latin America,B2C,+1-382-694-5349,2021-03-20,7,8968.74
+CUST-0031,Logan Walker,logan.walker@yahoo.com,Italy,Europe,B2C,+1-245-825-8144,2021-01-04,34,13887.35
+CUST-0032,Stefan Ferreira,stefan.ferreira@hotmail.com,France,Europe,B2C,+33-838-421-3041,2022-09-08,33,4673.81
+CUST-0033,jack Walker,jack.walker@outlook.com,Mexico,North America,B2C,+1-893-866-3851,2022-09-09,26,8241.66
+CUST-0034,  James Lewis,james.lewis@enterprise.org,Sweden,Europe,B2C,+1-723-584-3780,2021-06-23,19,7756.01
+CUST-0035,Ahmad Sato,ahmad.sato@hotmail.com,Australia,Asia Pacific,B2C,+61-350-125-1757,2022-05-17,31,9188.55
+CUST-0036,LISA Jones,lisa.jones@hotmail.com,South Korea,Asia Pacific,B2C,+1-609-349-3417,2021-01-12,49,12913.59
+CUST-0037,BENJAMIN Fischer,benjamin.fischer@corp.io,USA,North America,B2B,+1-667-236-8612,2023-12-24,36,8952.01
+CUST-0038,Thomas Weber,thomas.weber@business.net,India,Asia Pacific,B2C,+1-362-861-8777,2023-07-11,17,11289.06
+CUST-0039,Claudia kobayashi,claudia.kobayashi@corp.io,Spain,Europe,B2C,+1-279-830-5681,2022-04-26,18,5070.92
+CUST-0040,Stefan Garcia,  stefan.garcia@outlook.com,Japan,Asia Pacific,B2C,+81-617-438-9890,2023-08-13,27,980.87
+CUST-0041,Claudia SCHNEIDER,claudia.schneider@gmail.com,Peru,Latin America,B2C,+1-688-106-6763,2022-09-04,49,5880.3
+CUST-0042,Claudia SCHNEIDER,claudia.schneider@hotmail.com,Spain,Europe,B2C,+1-697-129-7371,2022-11-20,43,10203.17
+CUST-0043,SOFIA Taylor,sofia.taylor@gmail.com,Peru,Latin America,B2C,+1-878-127-2375,2023-05-28,9,13009.43
+CUST-0044,CHARLOTTE Brown,charlotte.brown@corp.io,Canada,North America,B2C,+1-970-951-7906,2022-06-01,6,7081.09
+CUST-0045,Rahul Petit,  rahul.petit@hotmail.com,New Zealand,Asia Pacific,B2B,+1-972-131-5051,2022-02-13,2,9338.97
+CUST-0046,Harper Wilson,harper.wilson@hotmail.com,Spain,Europe,B2C,+1-371-720-2876,2021-12-02,20,1666.08
+CUST-0047,Emma  Lewis,emma.lewis@business.net,Italy,Europe,B2B,+1-806-807-4978,2021-07-28,45,11598.59
+CUST-0048,Franz Ferreira,franz.ferreira@gmail.com,Canada,North America,B2C,+1-270-618-6590,2021-01-26,27,12343.85
+CUST-0049,BENJAMIN Fischer,benjamin.fischer@corp.io,South Korea,Asia Pacific,B2B,+1-951-634-5425,2023-09-18,30,6561.84
+CUST-0050,priya Yamamoto,priya.yamamoto@yahoo.com,Canada,North America,B2C,+1-968-575-7209,2022-11-20,2,7439.88
+CUST-0051,Michael Thomas,michael.thomas@company.com,Mexico,North America,B2C,+1-769-110-9464,2022-01-27,6,3658.27
+CUST-0052,jack Dupont,jack.dupont@corp.io,Sweden,Europe,B2C,+1-217-195-5820,2022-03-30,26,10392.22
+CUST-0053,Abigail SANTOS,abigail.santos@enterprise.org,Netherlands,Europe,B2C,+1-919-564-5438,2022-09-20,17,3496.54
+CUST-0054,priya Jackson,priya.jackson@outlook.com,Mexico,North America,B2C,+1-483-841-9595,2022-08-03,7,12497.79
+CUST-0055,daniel Harris,daniel.harris@outlook.com,USA,North America,B2C,+1-499-814-3068,2023-10-03,7,13097.16
+CUST-0056,Klaus Robinson,klaus.robinson@outlook.com,South Africa,Middle East & Africa,B2C,+1-316-941-2070,2023-04-01,32,1157.53
+CUST-0057,Ahmad Ferreira,  ahmad.ferreira@company.com,USA,North America,B2B,+1-771-882-7818,2022-04-08,50,7862.46
+CUST-0058,Owen Weber,owen.weber@business.net,Mexico,North America,B2B,+1-824-857-2625,2022-03-02,41,3204.83
+CUST-0059,carlos Garcia,carlos.garcia@yahoo.com,Canada,North America,B2C,+1-905-708-8699,2022-08-20,3,3510.57
+CUST-0060,Kenji Robinson,kenji.robinson@hotmail.com,Peru,Latin America,B2C,+1-635-217-9922,2022-04-06,42,2277.39
+CUST-0061,EVELYN Anderson,  evelyn.anderson@company.com,Spain,Europe,B2C,+1-327-579-5982,2023-04-05,18,7532.06
+CUST-0062,VICTORIA Weber,  victoria.weber  @business.net,India,Asia Pacific,B2C,+1-226-193-4750,2021-02-12,49,10100.61
+CUST-0063,EVELYN tanaka,  evelyn.tanaka@corp.io,Sweden,Europe,B2C,+1-385-699-8141,2023-10-05,6,7076.66
+CUST-0064,jack Hall,jack.hall@outlook.com,Mexico,North America,B2C,+1-495-778-7561,2021-03-17,30,1366.49
+CUST-0065,  Ethan   Walker,  ethan.walker@gmail.com,India,Asia Pacific,B2C,+1-623-155-4073,2023-11-28,24,9358.38
+CUST-0066,VICTORIA kobayashi,victoria.kobayashi  @company.com,Spain,Europe,B2C,+1-915-596-2989,2021-03-01,41,9152.63
+CUST-0067,Harper Costa,harper.costa@business.net,USA,North America,B2C,+1-320-763-3522,2023-10-18,46,4413.33
+CUST-0068,Kenji Young,kenji.young@corp.io,Mexico,North America,B2B,+1-592-295-9327,2021-10-07,5,4179.9
+CUST-0069,peter  SCHNEIDER,peter.schneider@company.com,Singapore,Asia Pacific,B2C,+1-801-693-9022,2021-11-01,29,8101.78
+CUST-0070,Logan Hall,logan.hall@corp.io,Argentina,Latin America,B2C,+1-785-492-4826,2023-04-22,3,4806.74
+CUST-0071,Samuel Costa,samuel.costa@outlook.com,Germany,Europe,B2B,+49-714-704-6439,2021-07-25,29,1540.69
+CUST-0072,Scarlett Smith,scarlett.smith@outlook.com,Canada,North America,B2C,+1-838-809-7512,2021-06-14,22,12792.5
+CUST-0073,Franz Petit,franz.petit@corp.io,Brazil,Latin America,B2C,+1-270-340-5708,2022-04-11,48,1401.17
+CUST-0074,BENJAMIN kobayashi,benjamin.kobayashi@outlook.com,Japan,Asia Pacific,B2B,+81-532-915-1919,2022-08-24,23,5653.87
+CUST-0075,mia Martin,mia.martin@outlook.com,USA,North America,B2C,+1-591-734-4945,2023-10-17,38,2189.61
+CUST-0076,Scarlett kobayashi,scarlett.kobayashi@gmail.com,Chile,Latin America,B2C,+1-893-659-3588,2021-06-01,29,14181.27
+CUST-0077,maria  Lewis,maria.lewis@company.com,Spain,Europe,B2C,+1-593-973-8916,2021-08-07,16,5751.4
+CUST-0078,Logan tanaka,logan.tanaka@gmail.com,Egypt,Middle East & Africa,B2C,+1-208-679-1803,2023-10-15,19,11647.33
+CUST-0079,Mason Nakamura,mason.nakamura@hotmail.com,United Kingdom,Europe,B2B,+44-842-761-1645,2022-09-25,29,548.8
+CUST-0080,Elizabeth Wilson,  elizabeth.wilson@business.net,USA,North America,B2C,+1-574-643-9221,2022-07-13,11,3891.7
+CUST-0081,Georg Wagner,georg.wagner@enterprise.org,South Korea,Asia Pacific,B2B,+1-344-872-4696,2023-03-25,36,5518.34
+CUST-0082,peter  Schmidt,  peter.schmidt@corp.io,Spain,Europe,B2C,+1-590-942-7086,2021-08-10,44,3545.64
+CUST-0083,Emma  Sato,emma.sato@hotmail.com,Sweden,Europe,B2C,+1-864-518-2911,2021-10-14,3,14196.61
+CUST-0084,Abigail Dupont,  abigail.dupont@outlook.com,Netherlands,Europe,B2C,+1-629-701-3531,2023-04-30,42,1530.37
+CUST-0085,VICTORIA Sato,victoria.sato@gmail.com,Australia,Asia Pacific,B2C,+61-655-341-6942,2021-07-23,44,5541.66
+CUST-0086,FATIMA Allen,  fatima.allen@yahoo.com,Chile,Latin America,B2B,+1-878-317-1349,2021-04-14,22,3691.36
+CUST-0087,lucas tanaka,lucas.tanaka@hotmail.com,Italy,Europe,B2C,+1-992-251-1046,2022-07-22,10,14813.53
+CUST-0088,Stefan Thompson,stefan.thompson@gmail.com,Canada,North America,B2C,+1-802-431-1258,2021-12-23,17,833.37
+CUST-0089,Rahul SCHNEIDER,rahul.schneider@corp.io,Netherlands,Europe,B2C,+1-807-211-8405,2023-10-29,15,14183.96
+CUST-0090, Oliver SANTOS,oliver.santos@gmail.com,Canada,North America,B2C,+1-636-802-2768,2023-10-02,46,13650.03
+CUST-0091,  William Garcia,william.garcia@outlook.com,Mexico,North America,B2C,+1-761-829-6327,2023-02-20,39,7981.82
+CUST-0092,Scarlett Bernard,scarlett.bernard  @yahoo.com,Peru,Latin America,B2C,+1-640-562-4743,2023-04-28,22,12419.92
+CUST-0093,SOFIA SCHNEIDER,sofia.schneider@enterprise.org,Singapore,Asia Pacific,B2B,+1-903-585-2099,2021-07-06,6,1443.79
+CUST-0094,BENJAMIN King,benjamin.king@enterprise.org,South Korea,Asia Pacific,B2C,+1-881-868-7929,2021-04-16,19,9026.13
+CUST-0095,Logan Miller,logan.miller@corp.io,USA,North America,B2C,+1-769-476-2882,2022-07-25,37,3431.08
+CUST-0096,Madison MOREAU,madison.moreau@gmail.com,Spain,Europe,B2B,+1-384-379-6062,2022-11-27,23,141.28
+CUST-0097,  Monika Anderson,monika.anderson@outlook.com,Japan,Asia Pacific,B2B,+81-964-643-4524,2023-02-10,27,6832.0
+CUST-0098,Henry King,henry.king@yahoo.com,Argentina,Latin America,B2B,+1-972-732-1815,2021-06-17,18,6674.54
+CUST-0099,Madison Dupont,madison.dupont@hotmail.com,Japan,Asia Pacific,B2C,+81-640-213-5640,2023-09-24,34,10023.63
+CUST-0100, Oliver Harris,oliver.harris@gmail.com,USA,North America,B2B,+1-982-361-5742,2022-11-03,8,165.56
+CUST-0101,Rahul Fischer,rahul.fischer@hotmail.com,Netherlands,Europe,B2B,+1-606-982-1693,2023-06-13,2,6923.33
+CUST-0102,  William Walker,william.walker@business.net,Canada,North America,B2B,+1-532-275-8538,2023-01-12,6,6578.84
+CUST-0103,BENJAMIN Martin,benjamin.martin@yahoo.com,Spain,Europe,B2C,+1-426-441-3754,2021-06-06,33,9516.71
+CUST-0104,  Julia Bernard,julia.bernard@enterprise.org,New Zealand,Asia Pacific,B2B,+1-441-205-3399,2022-06-09,13,2643.81
+CUST-0105,mia silva,  mia.silva@corp.io,Sweden,Europe,B2C,+1-858-750-6295,2022-10-10,10,6624.45
+CUST-0106,Samuel Weber,samuel.weber@gmail.com,France,Europe,B2C,+33-672-562-1616,2021-04-27,24,12483.86
+CUST-0107,  William silva,william.silva@business.net,Germany,Europe,B2C,+49-785-767-4084,2022-10-21,39,7160.65
+CUST-0108,mia Brown,mia.brown@enterprise.org,UAE,Middle East & Africa,B2C,+1-861-276-1641,2022-05-23,46,6594.49
+CUST-0109,Owen leroy,owen.leroy@enterprise.org,Chile,Latin America,B2C,+1-993-446-1857,2022-11-17,5,4978.88
+CUST-0110,ANNA Ferreira,anna.ferreira@outlook.com,Mexico,North America,B2B,+1-558-417-7421,2021-09-22,39,10647.07
+CUST-0111,AVA Lewis,ava.lewis@enterprise.org,New Zealand,Asia Pacific,B2C,+1-295-761-7937,2023-11-08,24,322.55
+CUST-0112,Abigail Thomas,abigail.thomas@corp.io,USA,North America,B2B,+1-279-402-2657,2023-11-06,50,8119.57
+CUST-0113,Rahul leroy,  rahul.leroy@outlook.com,United Kingdom,Europe,B2B,+44-385-951-3712,2023-06-16,3,6192.34
+CUST-0114,Sofia Martin,sofia.martin@corp.io,USA,North America,B2C,+1-680-955-4178,2023-01-24,44,14209.6
+CUST-0115,Owen meyer,owen.meyer@business.net,Saudi Arabia,Middle East & Africa,B2C,+1-341-993-5096,2021-04-17,42,7234.83
+CUST-0116,Elizabeth MOREAU,elizabeth.moreau@yahoo.com,USA,North America,B2C,+1-660-625-3414,2023-06-15,6,14198.88
+CUST-0117,Mason Weber,mason.weber@business.net,Mexico,North America,B2C,+1-441-495-2337,2023-02-07,15,471.4
+CUST-0118,BENJAMIN Costa,benjamin.costa@outlook.com,Canada,North America,B2B,+1-977-822-8685,2023-07-08,40,128.51
+CUST-0119,AVA Johnson,ava.johnson@business.net,Canada,North America,B2C,+1-508-224-1782,2022-05-04,27,9602.33
+CUST-0120,Laura meyer,  laura.meyer@corp.io,Germany,Europe,B2C,+49-788-347-3352,2022-08-20,28,73.39
+CUST-0121,Logan Martin,logan.martin@yahoo.com,Netherlands,Europe,B2B,+1-738-657-9312,2023-11-06,36,354.0
+CUST-0122,  Monika Wagner,  monika.wagner@enterprise.org,USA,North America,B2C,+1-269-453-4950,2021-08-01,50,8749.45
+CUST-0123,Thomas Hall,  thomas.hall@enterprise.org,Australia,Asia Pacific,B2C,+61-912-590-3986,2021-10-04,5,10754.87
+CUST-0124,Scarlett Williams,scarlett.williams  @hotmail.com,Colombia,Latin America,B2C,+1-727-507-9897,2023-08-28,17,597.48
+CUST-0125,FATIMA Jackson,fatima.jackson@gmail.com,Colombia,Latin America,B2C,+1-327-918-7029,2023-06-14,26,11162.45
+CUST-0126,Sebastian Hall,sebastian.hall@corp.io,Spain,Europe,B2B,+1-944-534-2293,2023-06-01,39,14926.72
+CUST-0127,CHARLOTTE Petit,charlotte.petit@enterprise.org,Singapore,Asia Pacific,B2C,+1-817-834-7981,2021-12-08,45,6686.43
+CUST-0128,Owen Williams,owen.williams@business.net,USA,North America,B2B,+1-887-752-7655,2023-01-15,33,12026.38
+CUST-0129,Sofia Taylor,sofia.taylor@corp.io,USA,North America,B2C,+1-997-760-7001,2023-01-12,25,14244.53
+CUST-0130, Oliver Nakamura,oliver.nakamura@enterprise.org,France,Europe,B2C,+33-340-642-7012,2023-03-27,21,9760.93
+CUST-0131,Harper Davis,  harper.davis@business.net,Brazil,Latin America,B2C,+1-993-366-8311,2022-03-16,40,4319.37
+CUST-0132,VICTORIA Jackson,  victoria.jackson@corp.io,Mexico,North America,B2C,+1-289-929-6236,2022-12-13,46,1020.84
+CUST-0133,Stefan Robinson,stefan.robinson@outlook.com,India,Asia Pacific,B2C,+1-324-305-3275,2022-04-30,32,442.95
+CUST-0134,ANNA tanaka,anna.tanaka@outlook.com,France,Europe,B2B,+33-516-507-8842,2023-12-13,27,11549.01
+CUST-0135,Georg tanaka,  georg.tanaka@yahoo.com,Netherlands,Europe,B2B,+1-998-664-3981,2021-09-22,28,7567.81
+CUST-0136,  Monika Brown,monika.brown@company.com,Canada,North America,B2C,+1-554-631-5653,2021-06-11,17,2984.71
+CUST-0137,ANNA Young,  anna.young@yahoo.com,United Kingdom,Europe,B2C,+44-794-257-3804,2022-11-23,37,665.85
+CUST-0138,  Monika Johnson,  monika.johnson@company.com,India,Asia Pacific,B2C,+1-832-754-1496,2023-10-17,41,8206.38
+CUST-0139,FATIMA Lewis,fatima.lewis@business.net,USA,North America,B2B,+1-361-550-7809,2023-09-19,30,3100.14
+CUST-0140,Hans Anderson,hans.anderson@enterprise.org,Saudi Arabia,Middle East & Africa,B2C,+1-727-675-2739,2022-10-16,16,7023.76
+CUST-0141,EVELYN Weber,evelyn.weber  @company.com,Peru,Latin America,B2C,+1-454-986-3616,2022-11-02,37,10830.87
+CUST-0142,Alexander Taylor,alexander.taylor@corp.io,Chile,Latin America,B2B,+1-292-502-9281,2023-07-26,16,3266.41
+CUST-0143,Logan Brown,  logan.brown@corp.io,USA,North America,B2B,+1-641-237-5333,2023-01-20,49,6078.65
+CUST-0144, Oliver Schmidt,  oliver.schmidt@enterprise.org,France,Europe,B2C,+33-716-561-5582,2021-09-01,9,14627.49
+CUST-0145,SOFIA King,sofia.king@enterprise.org,Australia,Asia Pacific,B2C,+61-721-511-9193,2021-03-24,3,631.76
+CUST-0146,Kenji Hall,kenji.hall@outlook.com,United Kingdom,Europe,B2C,+44-827-426-3662,2023-03-16,40,11102.82
+CUST-0147,Abigail Yamamoto,abigail.yamamoto@corp.io,Singapore,Asia Pacific,B2C,+1-217-477-6427,2021-08-13,27,8776.35
+CUST-0148,peter  Lima,peter.lima@company.com,Saudi Arabia,Middle East & Africa,B2B,+1-797-591-3793,2023-12-10,41,10831.68
+CUST-0149,LISA Müller,  lisa.müller@gmail.com,France,Europe,B2C,+33-219-551-6139,2023-05-08,10,6223.75
+CUST-0150,amelia SCHNEIDER,amelia.schneider@corp.io,Brazil,Latin America,B2B,+1-731-312-6325,2023-09-07,34,5683.53
+CUST-0151,CHARLOTTE meyer,charlotte.meyer@enterprise.org,New Zealand,Asia Pacific,B2C,+1-824-595-4150,2022-05-20,18,8393.4
+CUST-0152,Mason Lewis,mason.lewis@corp.io,Canada,North America,B2C,+1-938-380-5715,2021-09-07,37,10165.5
+CUST-0153,Sebastian Schmidt,sebastian.schmidt@outlook.com,Canada,North America,B2B,+1-554-552-5201,2023-09-09,14,3070.92
+CUST-0154,Stefan Young,stefan.young@outlook.com,Mexico,North America,B2C,+1-445-348-1831,2023-12-24,15,9587.27
+CUST-0155,Sophia Miller,sophia.miller@yahoo.com,Australia,Asia Pacific,B2B,+61-763-261-7666,2023-09-02,31,9775.55
+CUST-0156,Thomas Robinson,thomas.robinson@yahoo.com,Australia,Asia Pacific,B2C,+61-956-840-1611,2021-12-25,27,13239.56
+CUST-0157,CHARLOTTE Williams,charlotte.williams@corp.io,Mexico,North America,B2C,+1-238-109-5888,2021-08-08,22,4304.2
+CUST-0158,FATIMA Petit,fatima.petit@outlook.com,Chile,Latin America,B2C,+1-397-928-2845,2022-11-09,11,10980.23
+CUST-0159,FATIMA Thompson,fatima.thompson  @enterprise.org,India,Asia Pacific,B2C,+1-379-725-7643,2023-05-26,33,4952.5
+CUST-0160,SOFIA SANTOS,  sofia.santos@corp.io,USA,North America,B2B,+1-467-492-4858,2023-07-04,49,4041.57
+CUST-0161,emily Lewis,emily.lewis@company.com,New Zealand,Asia Pacific,B2C,+1-263-783-2936,2023-08-12,20,2437.77
+CUST-0162,Sofia Bernard,sofia.bernard@company.com,New Zealand,Asia Pacific,B2C,+1-576-729-4618,2022-03-25,9,7198.82
+CUST-0163,Scarlett Nakamura,scarlett.nakamura@corp.io,New Zealand,Asia Pacific,B2C,+1-980-353-2341,2023-12-13,29,7946.19
+CUST-0164,Elizabeth Jones,elizabeth.jones@hotmail.com,United Kingdom,Europe,B2B,+44-535-974-9525,2023-06-24,8,10220.41
+CUST-0165,Kenji Yamamoto,kenji.yamamoto@corp.io,South Korea,Asia Pacific,B2B,+1-725-525-8484,2021-04-29,36,6962.56
+CUST-0166,Sandra Lewis,sandra.lewis@gmail.com,India,Asia Pacific,B2B,+1-246-533-6644,2021-05-11,35,14912.15
+CUST-0167,  William Wagner,  william.wagner@outlook.com,New Zealand,Asia Pacific,B2C,+1-583-491-8348,2023-02-13,25,1249.74
+CUST-0168,carlos Petit,  carlos.petit@yahoo.com,Mexico,North America,B2C,+1-741-230-4648,2021-01-08,49,389.89
+CUST-0169,Abigail meyer,abigail.meyer@business.net,Australia,Asia Pacific,B2C,+61-554-258-5516,2022-01-22,47,11494.07
+CUST-0170, Oliver SANTOS,oliver.santos@gmail.com,USA,North America,B2B,+1-808-134-8314,2021-04-10,16,11121.09
+CUST-0171,SOFIA Weber,sofia.weber@gmail.com,Canada,North America,B2C,+1-949-689-6224,2022-10-19,16,4561.38
+CUST-0172,mia SANTOS,mia.santos@company.com,Mexico,North America,B2B,+1-841-795-7999,2023-10-13,4,14585.74
+CUST-0173,FATIMA SANTOS,fatima.santos@business.net,Spain,Europe,B2C,+1-388-872-9813,2023-08-28,16,12747.65
+CUST-0174,Abigail Costa,  abigail.costa@gmail.com,Austria,Europe,B2C,+43-742-237-7363,2022-05-13,17,3089.88
+CUST-0175,FATIMA Garcia,fatima.garcia@yahoo.com,Italy,Europe,B2B,+1-474-486-1647,2021-05-30,13,12079.53
+CUST-0176,maria  SANTOS,maria.santos@enterprise.org,USA,North America,B2C,+1-394-859-2922,2023-09-08,16,10449.61
+CUST-0177,Kenji WHITE,kenji.white@enterprise.org,South Korea,Asia Pacific,B2C,+1-746-764-6886,2022-09-24,17,5426.69
+CUST-0178,VICTORIA meyer,  victoria.meyer@corp.io,Singapore,Asia Pacific,B2C,+1-579-420-7781,2021-04-04,37,12968.07
+CUST-0179,Rahul Anderson,  rahul.anderson@business.net,USA,North America,B2C,+1-435-488-5026,2023-10-20,36,9836.39
+CUST-0180,Sofia Hall,sofia.hall@corp.io,Netherlands,Europe,B2B,+1-343-837-9954,2023-09-28,12,13757.65
+CUST-0181,Stefan silva,stefan.silva@yahoo.com,Brazil,Latin America,B2B,+1-622-240-4791,2021-05-20,46,2307.89
+CUST-0182,amelia Bernard,amelia.bernard  @corp.io,Japan,Asia Pacific,B2B,+81-744-664-7739,2021-01-25,2,7964.79
+CUST-0183,EVELYN Petit,evelyn.petit  @business.net,Australia,Asia Pacific,B2B,+61-298-636-3439,2022-05-09,13,9315.72
+CUST-0184,  Ethan   Allen,ethan.allen@enterprise.org,Egypt,Middle East & Africa,B2C,+1-449-813-4700,2022-09-07,44,12429.53
+CUST-0185,AVA silva,ava.silva@gmail.com,Canada,North America,B2C,+1-765-587-1919,2021-01-20,45,2612.18
+CUST-0186,VICTORIA Fischer,victoria.fischer@yahoo.com,Brazil,Latin America,B2C,+1-416-988-8790,2022-07-10,3,13866.18
+CUST-0187,Sofia Young,sofia.young@gmail.com,Canada,North America,B2B,+1-412-701-3362,2023-03-27,5,4524.19
+CUST-0188,Klaus Martin,klaus.martin@enterprise.org,United Kingdom,Europe,B2B,+44-712-863-6666,2021-04-20,7,6584.47
+CUST-0189,Claudia Jones,claudia.jones@business.net,South Africa,Middle East & Africa,B2B,+1-849-379-8381,2023-10-02,15,5369.38
+CUST-0190,Sebastian Fischer,sebastian.fischer@business.net,Mexico,North America,B2C,+1-452-830-2204,2021-06-18,18,2355.6
+CUST-0191,Kenji kobayashi,kenji.kobayashi@enterprise.org,USA,North America,B2C,+1-655-468-5419,2021-07-29,9,1355.09
+CUST-0192,Madison Weber,madison.weber@yahoo.com,Canada,North America,B2C,+1-295-711-6315,2023-02-28,1,4413.12
+CUST-0193,Sebastian Garcia,sebastian.garcia@hotmail.com,United Kingdom,Europe,B2C,+44-373-242-5405,2022-09-09,18,7422.2
+CUST-0194,  William Taylor,william.taylor@corp.io,Singapore,Asia Pacific,B2C,+1-452-838-9123,2022-02-05,30,1649.24
+CUST-0195,Abigail Smith,abigail.smith@business.net,Singapore,Asia Pacific,B2C,+1-542-540-3230,2022-09-08,21,9068.01
+CUST-0196,Yuki Jackson,yuki.jackson@business.net,South Africa,Middle East & Africa,B2C,+1-789-900-4971,2022-10-30,25,4240.49
+CUST-0197,peter  Schmidt,peter.schmidt@hotmail.com,United Kingdom,Europe,B2C,+44-227-844-8563,2022-03-06,29,11975.4
+CUST-0198,Claudia Lima,  claudia.lima@business.net,Australia,Asia Pacific,B2C,+61-447-358-3525,2023-05-17,25,1155.78
+CUST-0199,Hans Wagner,hans.wagner@business.net,Netherlands,Europe,B2C,+1-808-753-2392,2021-08-12,50,3761.05
+CUST-0200,carlos Allen,carlos.allen@business.net,South Africa,Middle East & Africa,B2C,+1-308-110-2615,2022-06-14,15,7684.61
+CUST-0201,  Julia MOREAU,julia.moreau@corp.io,Sweden,Europe,B2C,+1-907-612-3469,2022-12-08,2,7267.43
+CUST-0202,daniel SCHNEIDER,daniel.schneider  @outlook.com,Canada,North America,B2C,+1-411-633-8912,2022-12-15,31,1509.46
+CUST-0203,priya Lima,priya.lima  @gmail.com,Japan,Asia Pacific,B2B,+81-551-763-2791,2021-12-03,48,3696.5
+CUST-0204,CHARLOTTE MOREAU,charlotte.moreau@corp.io,Canada,North America,B2B,+1-390-755-8080,2023-03-22,2,11073.96
+CUST-0205,Alexander Weber,alexander.weber@hotmail.com,Mexico,North America,B2B,+1-791-204-9796,2022-01-18,24,4923.47
+CUST-0206,Scarlett Davis,scarlett.davis@enterprise.org,Austria,Europe,B2C,+43-316-456-6766,2023-07-27,40,2629.29
+CUST-0207,Sofia Costa,sofia.costa@yahoo.com,Singapore,Asia Pacific,B2B,+1-444-412-2916,2022-01-10,24,10416.88
+CUST-0208,Markus Müller,markus.müller@business.net,Sweden,Europe,B2C,+1-910-760-3838,2021-12-08,32,4368.08
+CUST-0209,CHARLOTTE Walker,charlotte.walker@enterprise.org,Egypt,Middle East & Africa,B2B,+1-399-934-7290,2023-11-02,42,7449.8
+CUST-0210,Sofia Dupont,sofia.dupont@corp.io,Mexico,North America,B2B,+1-979-325-5785,2021-03-08,18,3411.41
+CUST-0211,daniel Taylor,daniel.taylor@corp.io,France,Europe,B2C,+33-316-374-9898,2023-01-22,35,12348.03
+CUST-0212, Oliver Weber,oliver.weber@yahoo.com,New Zealand,Asia Pacific,B2C,+1-504-995-1528,2023-07-11,17,5261.23
+CUST-0213,Georg Garcia,georg.garcia@hotmail.com,Mexico,North America,B2C,+1-905-459-8015,2021-12-06,40,2131.56
+CUST-0214,amelia WHITE,amelia.white@company.com,United Kingdom,Europe,B2C,+44-920-399-5740,2022-07-02,33,14783.05
+CUST-0215,Sofia Miller,  sofia.miller@business.net,Colombia,Latin America,B2B,+1-918-986-3174,2022-05-27,10,10685.35
+CUST-0216,Claudia Martin,claudia.martin@corp.io,Mexico,North America,B2C,+1-842-524-7146,2023-07-15,5,9522.74
+CUST-0217,LISA Garcia,lisa.garcia@enterprise.org,Sweden,Europe,B2C,+1-795-102-2526,2023-07-28,41,9978.95
+CUST-0218,Logan Jones,logan.jones@business.net,South Korea,Asia Pacific,B2C,+1-530-948-5646,2022-11-23,36,8690.11
+CUST-0219,Klaus Dupont,klaus.dupont@gmail.com,Mexico,North America,B2C,+1-216-227-3588,2023-06-23,30,60.11
+CUST-0220,Madison Jackson,madison.jackson@company.com,Canada,North America,B2B,+1-870-469-5102,2021-06-18,24,9984.41
+CUST-0221,FATIMA Taylor,  fatima.taylor@hotmail.com,France,Europe,B2B,+33-201-318-8812,2021-06-09,9,8925.51
+CUST-0222,  Julia Ferreira,julia.ferreira  @enterprise.org,South Korea,Asia Pacific,B2B,+1-689-172-4751,2023-02-24,6,10974.91
+CUST-0223,BENJAMIN Miller,benjamin.miller@outlook.com,United Kingdom,Europe,B2B,+44-270-643-1138,2021-12-03,29,5300.26
+CUST-0224,amelia kobayashi,amelia.kobayashi@corp.io,Brazil,Latin America,B2B,+1-343-870-3017,2023-02-26,23,14450.57
+CUST-0225,Michael Wilson,michael.wilson@hotmail.com,Spain,Europe,B2B,+1-874-996-5942,2022-02-25,34,9123.56
+CUST-0226,Alexander Schmidt,alexander.schmidt  @hotmail.com,France,Europe,B2C,+33-711-753-2163,2023-12-18,1,14803.89
+CUST-0227,Michael Wilson,michael.wilson@business.net,United Kingdom,Europe,B2C,+44-988-174-1273,2021-05-19,1,3969.67
+CUST-0228, Oliver Brown,oliver.brown@company.com,Austria,Europe,B2C,+43-918-511-2350,2021-11-09,18,1299.78
+CUST-0229,AVA Bernard,ava.bernard@outlook.com,Austria,Europe,B2C,+43-849-881-2083,2022-09-28,45,6590.42
+CUST-0230,Franz Martin,  franz.martin  @business.net,Mexico,North America,B2C,+1-256-416-3877,2021-09-02,1,10633.11
+CUST-0231,Yuki Smith,yuki.smith@company.com,USA,North America,B2C,+1-950-220-1480,2022-11-18,28,4116.11
+CUST-0232,  William Thompson,william.thompson@yahoo.com,Netherlands,Europe,B2B,+1-711-979-3734,2023-01-24,11,3863.99
+CUST-0233,BENJAMIN tanaka,benjamin.tanaka@gmail.com,USA,North America,B2C,+1-247-583-6963,2023-02-24,10,2725.47
+CUST-0234,Franz Williams,franz.williams@business.net,USA,North America,B2C,+1-937-427-5444,2021-06-09,37,5623.48
+CUST-0235,Markus Ferreira,markus.ferreira@gmail.com,UAE,Middle East & Africa,B2C,+1-489-892-6090,2022-11-02,6,8318.72
+CUST-0236,  James King,james.king@company.com,Australia,Asia Pacific,B2C,+61-577-705-9083,2022-02-05,47,13511.63
+CUST-0237,Thomas Martin,thomas.martin@gmail.com,Canada,North America,B2B,+1-543-101-7164,2022-09-22,7,3117.66
+CUST-0238,Harper SCHNEIDER,harper.schneider  @outlook.com,Japan,Asia Pacific,B2B,+81-437-965-9515,2023-04-26,45,13438.89
+CUST-0239,Scarlett Garcia,scarlett.garcia@business.net,Mexico,North America,B2B,+1-645-778-3141,2022-04-30,19,3951.81
+CUST-0240,Michael Schmidt,michael.schmidt@enterprise.org,Italy,Europe,B2B,+1-407-239-2785,2021-11-15,7,2507.41
+CUST-0241,Scarlett Walker,scarlett.walker@hotmail.com,Sweden,Europe,B2C,+1-322-192-3582,2022-09-16,46,10468.33
+CUST-0242, Oliver WHITE,oliver.white@yahoo.com,Singapore,Asia Pacific,B2C,+1-725-150-5896,2022-06-17,12,514.68
+CUST-0243,SOFIA Weber,sofia.weber@yahoo.com,United Kingdom,Europe,B2B,+44-212-163-4641,2021-09-25,13,12363.92
+CUST-0244,Elizabeth Ferreira,elizabeth.ferreira@company.com,Brazil,Latin America,B2B,+1-266-302-8265,2021-09-21,6,13580.92
+CUST-0245,Claudia Hall,  claudia.hall@gmail.com,Mexico,North America,B2C,+1-941-504-9128,2021-03-02,25,10264.03
+CUST-0246,CHARLOTTE Allen,charlotte.allen@company.com,United Kingdom,Europe,B2B,+44-828-734-5026,2022-08-28,32,6209.28
+CUST-0247,ANNA Wagner,  anna.wagner@outlook.com,Italy,Europe,B2C,+1-219-491-6883,2023-09-10,35,11732.45
+CUST-0248,Logan tanaka,logan.tanaka@outlook.com,Mexico,North America,B2C,+1-230-930-5602,2021-04-30,31,7965.01
+CUST-0249,LISA Yamamoto,lisa.yamamoto@yahoo.com,USA,North America,B2C,+1-746-935-1916,2022-03-26,37,12705.25
+CUST-0250,Sandra Müller,sandra.müller@outlook.com,Mexico,North America,B2C,+1-955-814-6878,2021-02-27,46,10523.38
+CUST-0251,Klaus tanaka,  klaus.tanaka@corp.io,United Kingdom,Europe,B2C,+44-238-192-1920,2022-04-22,39,3321.19
+CUST-0252,  Julia Wagner,  julia.wagner@hotmail.com,Singapore,Asia Pacific,B2B,+1-531-160-1359,2021-10-30,38,10585.21
+CUST-0253,mia Davis,mia.davis@yahoo.com,Austria,Europe,B2C,+43-303-444-5944,2022-10-23,9,14639.12
+CUST-0254,priya Fischer,priya.fischer@enterprise.org,Mexico,North America,B2C,+1-565-328-3872,2023-02-14,20,11023.22
+CUST-0255,daniel Wilson,daniel.wilson  @business.net,Peru,Latin America,B2B,+1-386-716-6213,2022-03-29,41,8504.98
+CUST-0256,VICTORIA Anderson,victoria.anderson  @enterprise.org,Saudi Arabia,Middle East & Africa,B2B,+1-925-786-6500,2023-07-04,1,4014.93
+CUST-0257,Harper Lima,  harper.lima@yahoo.com,Japan,Asia Pacific,B2C,+81-648-850-7875,2021-12-07,27,7421.58
+CUST-0258,Sebastian Allen,sebastian.allen@corp.io,India,Asia Pacific,B2C,+1-366-562-2207,2021-03-10,19,350.17
+CUST-0259,  Ethan   Miller,  ethan.miller@business.net,USA,North America,B2C,+1-295-446-8909,2021-03-05,28,14139.51
+CUST-0260,Henry Nakamura,henry.nakamura@yahoo.com,USA,North America,B2C,+1-913-667-9849,2022-06-28,43,4258.77
+CUST-0261,Harper Miller,  harper.miller@corp.io,Canada,North America,B2B,+1-637-189-5825,2023-09-11,13,1499.95
+CUST-0262,amelia Taylor,amelia.taylor@corp.io,Singapore,Asia Pacific,B2C,+1-682-600-5341,2021-07-06,42,8184.68
+CUST-0263,CHARLOTTE King,charlotte.king@corp.io,Canada,North America,B2C,+1-469-331-5400,2021-05-07,10,11295.92
+CUST-0264,carlos Miller,  carlos.miller@business.net,Saudi Arabia,Middle East & Africa,B2C,+1-262-960-7342,2023-12-07,27,14486.13
+CUST-0265,Sofia Wagner,sofia.wagner@company.com,Mexico,North America,B2B,+1-714-684-9467,2021-10-29,8,14241.36
+CUST-0266,Owen Thomas,owen.thomas@hotmail.com,Australia,Asia Pacific,B2B,+61-633-180-8133,2022-02-18,41,2260.78
+CUST-0267,Hans Thompson,hans.thompson@yahoo.com,Mexico,North America,B2C,+1-765-433-5525,2023-12-01,30,13761.57
+CUST-0268,  James Lima,james.lima@business.net,USA,North America,B2B,+1-780-702-2641,2021-08-05,37,11704.19
+CUST-0269,peter  Robinson,peter.robinson@business.net,Mexico,North America,B2C,+1-785-723-8750,2021-03-18,12,4167.44
+CUST-0270,mia Sato,mia.sato@gmail.com,Netherlands,Europe,B2C,+1-250-863-8785,2022-07-05,24,352.48
+CUST-0271,Georg Lewis,georg.lewis@yahoo.com,Saudi Arabia,Middle East & Africa,B2B,+1-507-861-8259,2022-10-20,18,10945.55
+CUST-0272,Hans silva,  hans.silva@business.net,India,Asia Pacific,B2C,+1-257-627-3604,2021-05-15,20,10658.06
+CUST-0273,SOFIA Wilson,sofia.wilson@gmail.com,USA,North America,B2B,+1-455-133-8478,2021-04-14,24,10584.28
+CUST-0274,EVELYN King,evelyn.king@yahoo.com,Australia,Asia Pacific,B2C,+61-700-708-8308,2021-12-30,31,8823.86
+CUST-0275,Logan Allen,logan.allen@yahoo.com,Canada,North America,B2B,+1-366-974-4511,2022-03-30,42,3415.43
+CUST-0276,amelia Young,amelia.young@gmail.com,United Kingdom,Europe,B2B,+44-815-920-1138,2022-04-04,17,9144.74
+CUST-0277,Abigail Costa,abigail.costa@business.net,Colombia,Latin America,B2C,+1-458-323-8646,2022-09-11,44,7833.54
+CUST-0278,Laura Schmidt,laura.schmidt  @enterprise.org,Spain,Europe,B2C,+1-900-210-8892,2021-05-11,22,14826.0
+CUST-0279,Ahmad Walker,ahmad.walker@company.com,Mexico,North America,B2C,+1-258-924-7620,2022-10-17,44,2141.95
+CUST-0280,Emma  silva,emma.silva@business.net,Germany,Europe,B2C,+49-925-685-4111,2022-12-04,47,10714.87
+CUST-0281,Sofia Petit,sofia.petit@enterprise.org,United Kingdom,Europe,B2C,+44-385-400-2599,2023-08-23,9,11126.74
+CUST-0282,priya MOREAU,priya.moreau@enterprise.org,Australia,Asia Pacific,B2C,+61-428-862-6031,2023-05-12,22,5606.65
+CUST-0283,maria  Robinson,maria.robinson@gmail.com,Peru,Latin America,B2C,+1-835-172-8736,2022-02-03,33,1841.25
+CUST-0284,Sofia Müller,sofia.müller@outlook.com,USA,North America,B2C,+1-619-683-8496,2021-10-21,21,12942.79
+CUST-0285,CHARLOTTE Garcia,charlotte.garcia@outlook.com,USA,North America,B2B,+1-662-380-4430,2021-12-12,37,11479.03
+CUST-0286,VICTORIA Garcia,  victoria.garcia@business.net,Sweden,Europe,B2C,+1-204-138-9745,2022-02-13,47,5627.87
+CUST-0287,  James Walker,james.walker@gmail.com,New Zealand,Asia Pacific,B2C,+1-431-810-6641,2022-10-02,9,1585.49
+CUST-0288,Markus Yamamoto,markus.yamamoto  @gmail.com,Canada,North America,B2C,+1-945-632-9587,2022-11-23,28,13325.21
+CUST-0289,lucas Hall,lucas.hall@hotmail.com,Canada,North America,B2B,+1-433-329-3149,2022-03-09,47,377.6
+CUST-0290,Markus Taylor,  markus.taylor@gmail.com,Spain,Europe,B2C,+1-838-149-1785,2021-08-10,42,12549.99
+CUST-0291,Sophia Lima,  sophia.lima@yahoo.com,Sweden,Europe,B2B,+1-410-811-1152,2022-09-09,27,9941.89
+CUST-0292,carlos leroy,carlos.leroy@outlook.com,France,Europe,B2C,+33-936-732-2928,2022-08-02,8,11782.16
+CUST-0293,VICTORIA Jackson,victoria.jackson@hotmail.com,Austria,Europe,B2C,+43-364-140-9980,2023-10-14,14,10338.65
+CUST-0294,Samuel Hall,samuel.hall  @yahoo.com,Peru,Latin America,B2C,+1-352-192-9383,2021-06-03,47,10867.46
+CUST-0295,  Ethan   silva,ethan.silva@company.com,USA,North America,B2B,+1-378-995-1646,2022-08-19,24,12033.86
+CUST-0296,Michael Fischer,michael.fischer  @gmail.com,USA,North America,B2B,+1-536-466-8171,2022-07-04,47,1439.62
+CUST-0297,Georg Hall,georg.hall@corp.io,Canada,North America,B2C,+1-631-764-3732,2021-08-20,9,10457.74
+CUST-0298,Sophia Taylor,  sophia.taylor@corp.io,New Zealand,Asia Pacific,B2C,+1-385-725-7221,2023-01-05,40,480.8
+CUST-0299,Sofia Wilson,sofia.wilson@business.net,France,Europe,B2C,+33-870-421-1202,2023-12-11,50,11167.18
+CUST-0300,priya tanaka,priya.tanaka@enterprise.org,France,Europe,B2C,+33-877-844-5072,2023-09-14,23,9972.47
